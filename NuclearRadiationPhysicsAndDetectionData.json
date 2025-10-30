@@ -290,12 +290,7 @@
                     "children": [
                       {
                         "topic": ".",
-                        "id": "a005c7cf90ccb5cc",
-                        "image": {
-                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/Q方程.png",
-                          "width": 465,
-                          "height": 61
-                        }
+                        "id": "a005c7cf90ccb5cc"
                       }
                     ]
                   },
