@@ -1,2402 +1,800 @@
 {
   "nodeData": {
     "id": "root",
-    "topic": "核辐射物理和探测学",
+    "topic": "A-核辐射物理和探测学",
     "children": [
       {
-        "topic": "核辐射物理",
+        "topic": "A-1 核辐射物理",
         "id": "71a24ecb953276e9",
         "direction": 1,
         "children": [
           {
-            "topic": "原子核的性质",
-            "id": "71a5ac3df5db4911",
+            "topic": "A-1.1 核的基本性质",
+            "id": "a00562aa1d11b8c4",
             "children": [
               {
-                "topic": "原子核的基本性质",
-                "id": "71a5b4737e2417f6",
+                "topic": "A-1.1.1 原子核的基本性质",
+                "id": "a0056c1ea48fd645",
                 "children": [
                   {
-                    "topic": "原子核的构成",
-                    "id": "71a5b8dbeeaf92c7"
+                    "topic": "A-1.1.1.1 原子核的构成",
+                    "id": "a0056f6b7c5eb8e0"
                   },
                   {
-                    "topic": "原子核的尺寸",
-                    "id": "71a5b9ec953899f1",
+                    "topic": "A-1.1.1.2 原子核的尺寸",
+                    "id": "a0057087f2ecc4cb",
                     "children": [
                       {
-                        "topic": "电荷半径",
-                        "id": "71a5c09e8cacdcaa",
-                        "children": [
-                          {
-                            "topic": "卢瑟福散射",
-                            "id": "71a5c675b9215e14"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "Drell S D. Nuclear radius and nuclear forces[J]. Physical Review, 1955, 100(1): 97.",
-                        "id": "71a5c2a624cca202"
-                      },
-                      {
-                        "topic": "核力半径",
-                        "id": "71a5c3fd0d288f81",
-                        "children": [
-                          {
-                            "topic": "中子截面",
-                            "id": "71a5c529de6ac70f"
-                          }
-                        ]
+                        "topic": "[1]",
+                        "id": "a00575b1b2d095b2"
                       }
                     ]
                   },
                   {
-                    "topic": "质量与结合能",
-                    "id": "71a5bba1542630bf",
-                    "children": [
-                      {
-                        "topic": "质量",
-                        "id": "71a5c99a4f68bfae",
-                        "children": [
-                          {
-                            "topic": "质量过剩",
-                            "id": "71a5ce954fb6dd4d",
-                            "children": [
-                              {
-                                "topic": "16O/16定义",
-                                "id": "71a5d0354cb70992"
-                              },
-                              {
-                                "topic": "12C/12定义",
-                                "id": "71a5d18cbe8c85bb"
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "结合能",
-                        "id": "71a5ca76d7d27d53",
-                        "children": [
-                          {
-                            "topic": "质能方程",
-                            "id": "71a5d3da132cc262"
-                          },
-                          {
-                            "topic": "比结合能",
-                            "id": "71a5d45d6df3a080",
-                            "children": [
-                              {
-                                "topic": "比结合能曲线",
-                                "id": "71a5d607bc17970d"
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "核力",
-                        "id": "71a5cbdf9373f537",
-                        "children": [
-                          {
-                            "topic": "短程",
-                            "id": "71a5d811fc440e4e"
-                          },
-                          {
-                            "topic": "饱和性",
-                            "id": "71a5d940e933c8f2"
-                          },
-                          {
-                            "topic": "强相互作用",
-                            "id": "71a5da5b202585ea"
-                          },
-                          {
-                            "topic": "电荷无关",
-                            "id": "71a5db708d477188"
-                          }
-                        ]
-                      }
-                    ]
+                    "topic": "A-1.1.1.3 质量与结合能",
+                    "id": "a00571561e93cfc0"
                   },
                   {
-                    "topic": "角动量与矩",
-                    "id": "71a5bd21f7dff6cd",
-                    "children": [
-                      {
-                        "topic": "角动量",
-                        "id": "71a5ddfb837a0eb8"
-                      },
-                      {
-                        "topic": "矩",
-                        "id": "71a5de9a5cabf8fb",
-                        "children": [
-                          {
-                            "topic": "磁矩",
-                            "id": "71a5e02843ec62d8"
-                          },
-                          {
-                            "topic": "电矩",
-                            "id": "71a5e150b74e6970"
-                          }
-                        ]
-                      }
-                    ]
+                    "topic": "A-1.1.1.5 角动量与矩",
+                    "id": "a0057256e97ea5ca"
                   },
                   {
-                    "topic": "宇称",
-                    "id": "71a5be4bd160a7e5",
-                    "children": [
-                      {
-                        "topic": "内禀宇称",
-                        "id": "71a5e294685bd979"
-                      },
-                      {
-                        "topic": "轨道角动量",
-                        "id": "71a5e394d57fe094"
-                      },
-                      {
-                        "topic": "核宇称",
-                        "id": "71a5e47bfde93b61"
-                      }
-                    ]
+                    "topic": "A-1.1.1.6 统计性",
+                    "id": "a005732f76a352a2"
                   },
                   {
-                    "topic": "统计性",
-                    "id": "71a5bf1b08ef743c",
-                    "children": [
-                      {
-                        "topic": "Pauli原理",
-                        "id": "71a5e57c6e46608d",
-                        "children": []
-                      },
-                      {
-                        "topic": "交换对称性/反对称性",
-                        "id": "71a5e6b5c00b7f07",
-                        "children": [
-                          {
-                            "topic": "费米子",
-                            "id": "71a5ea3d3af1b913"
-                          },
-                          {
-                            "topic": "玻色子",
-                            "id": "71a5eaca4e5ae38f"
-                          }
-                        ]
-                      }
-                    ]
+                    "topic": "A-1.1.1.7 宇称",
+                    "id": "a00573f1bf56b881"
+                  },
+                  {
+                    "topic": "能级",
+                    "id": "a00574b244c3303a"
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "核模型(核结构)",
-                "id": "71a5b60ba324eabf",
+                "topic": "A-1.1.2 核模型",
+                "id": "a0056d59377085d9",
                 "children": [
                   {
-                    "topic": "壳层模型",
-                    "id": "71a5fa08d1899fea",
+                    "topic": "A-1.1.2.1 壳层模型",
+                    "id": "a0057853ec873675",
                     "children": [
                       {
-                        "topic": "可解释幻数",
-                        "id": "71a5ff9b9e2aac4f"
-                      },
-                      {
-                        "topic": "Mayer, M., 1949, Phys. Rev. 75, 1969.",
-                        "id": "71a5ffffce0b64cf",
-                        "hyperLink": "https://tsinghua.cn.libguides.com/ld.php?content_id=52463625"
-                      },
-                      {
-                        "topic": "Axel, O., J. H. D. Jensen, and H. E. Suess, 1949, Phys. Rev. 75, 1766.",
-                        "id": "71a601547421aca8"
+                        "topic": "[2],[3]",
+                        "id": "a005794dffef79c3"
                       }
                     ]
                   },
                   {
-                    "topic": "集体模型",
-                    "id": "71a5faadf0c0f05e",
+                    "topic": "A-1.1.2.2 集体模型",
+                    "id": "a0057a458351b880",
                     "children": [
                       {
-                        "topic": "可用于描述核整体的形变、振动、转动",
-                        "id": "71a6024a6b5bd1c2"
-                      },
-                      {
-                        "topic": "Peierls R E, Yoccoz J. The collective model of nuclear motion[J]. Proceedings of the Physical Society. Section A, 1957, 70(5): 381.",
-                        "id": "71a6035a4db8e925"
+                        "topic": "[4]",
+                        "id": "a0057b227abe988c"
                       }
                     ]
                   },
                   {
-                    "topic": "费米气体模型",
-                    "id": "71a5fd6cc48c72fa",
+                    "topic": "A-1.1.2.3 费米气体模型",
+                    "id": "a0057beedcf82caa",
                     "children": [
                       {
-                        "topic": "可用于描述对能",
-                        "id": "71a60591cc6ad095"
-                      },
-                      {
-                        "topic": "Greiner W, Maruhn J A. Nuclear models[M]. Berlin: Springer-Verlag, 1996.",
-                        "id": "71a606e6efd3d91c"
+                        "topic": "[7]",
+                        "id": "a0057ce6b74ffcc2"
                       }
                     ]
                   },
                   {
-                    "topic": "液滴模型",
-                    "id": "71a5fe93e11925b9",
+                    "topic": "A-1.1.2.4 液滴模型",
+                    "id": "a0057e0935bc993c",
                     "children": [
                       {
-                        "topic": "可用于描述结合能",
-                        "id": "71a60747465a25ab"
-                      },
-                      {
-                        "topic": "C. von Weiszäcker, Z. Phys. 96, 431 (1935).",
-                        "id": "71a60832e21dbdd7"
-                      },
-                      {
-                        "topic": "H. Bethe and R. Backer, Rev. Mod. Phys. 8, 82 (1936).",
-                        "id": "71a60938be65c254"
+                        "topic": "[5],[6]",
+                        "id": "a0057ed14c56895d"
                       }
                     ]
                   }
                 ]
-              }
-            ],
-            "expanded": false
-          },
-          {
-            "topic": "衰变（自发过程）",
-            "id": "71a5b0b3c7cfd048",
-            "children": [
-              {
-                "topic": "衰变的基本性质与概念",
-                "id": "71a60e2579598f6a",
-                "children": [
-                  {
-                    "topic": "指数衰减规律",
-                    "id": "71a6135d17c00050"
-                  },
-                  {
-                    "topic": "衰变常数",
-                    "id": "71a614d9f8cadcd9",
-                    "children": [
-                      {
-                        "topic": "衰变常数",
-                        "id": "71a619ac6f2b4d69"
-                      },
-                      {
-                        "topic": "半衰期",
-                        "id": "71a619f8ffd04e0f"
-                      },
-                      {
-                        "topic": "能级宽度",
-                        "id": "71a61b9056f1208c"
-                      },
-                      {
-                        "topic": "寿命",
-                        "id": "71a61c5734171d9a"
-                      }
-                    ]
-                  },
-                  {
-                    "topic": "活度",
-                    "id": "71a616a3180196c6",
-                    "children": [
-                      {
-                        "topic": "居里(Ci)",
-                        "id": "71a61cc3cb058ed3"
-                      },
-                      {
-                        "topic": "贝克勒尔(Bq)",
-                        "id": "71a61de538e79caf"
-                      }
-                    ]
-                  },
-                  {
-                    "topic": "递次衰变与放射系",
-                    "id": "71a617a21ce5e3b8",
-                    "children": [
-                      {
-                        "topic": "短期平衡",
-                        "id": "71a61ef3400fe907"
-                      },
-                      {
-                        "topic": "长期平衡",
-                        "id": "71a6202ab548991b"
-                      },
-                      {
-                        "topic": "逐代衰变",
-                        "id": "71a621b46226bc4e"
-                      },
-                      {
-                        "topic": "放射系",
-                        "id": "71a6227c3a60ebda"
-                      }
-                    ]
-                  },
-                  {
-                    "topic": "衰变的表示与衰变纲图",
-                    "id": "71a61895b759cfc7",
-                    "children": [
-                      {
-                        "topic": "绝对强度",
-                        "id": "71a6237466f7645d"
-                      },
-                      {
-                        "topic": "分支比",
-                        "id": "71a623e4171fccd7"
-                      }
-                    ]
-                  }
-                ],
-                "expanded": false
               },
               {
-                "topic": "原子核衰变",
-                "id": "71a610baf0db810f",
+                "topic": "[i] ,[2]",
+                "id": "a0056e4cbb2b8ff1"
+              }
+            ]
+          },
+          {
+            "topic": "A-1.3 衰变（自发过程）",
+            "id": "a00566606976de91",
+            "children": [
+              {
+                "topic": "A-1.3.1 衰变的基本性质与概念",
+                "id": "a005813a950a5139",
                 "children": [
                   {
-                    "topic": "α衰变",
-                    "id": "71a64d40b641f4ef",
+                    "topic": "A-1.3.1.1 指数衰减规律",
+                    "id": "a005842228c200b9"
+                  },
+                  {
+                    "topic": "A-1.3.1.2 活度",
+                    "id": "a00587ca956bdc19"
+                  },
+                  {
+                    "topic": "A-1.3.1.3 递次衰变",
+                    "id": "a00589677b16af6d"
+                  },
+                  {
+                    "topic": "A-1.3.1.4 放射系",
+                    "id": "a0058abbb3784e9a"
+                  },
+                  {
+                    "topic": "A-1.3.1.5 衰变的表示与衰变纲图",
+                    "id": "a0058c19afe9d7ef"
+                  },
+                  {
+                    "topic": "A-1.3.1.6 放射规律的一些应用",
+                    "id": "a0058d5ad5eed2b2"
+                  },
+                  {
+                    "topic": "[1], [2]",
+                    "id": "a0058e256e4d6268"
+                  }
+                ]
+              },
+              {
+                "topic": "A-1.3.2 核衰变",
+                "id": "a00582ef916f6070",
+                "children": [
+                  {
+                    "topic": "A-1.3.2.1 α衰变",
+                    "id": "a0058f7960e324f6",
                     "children": [
                       {
-                        "topic": "物理过程",
-                        "id": "71a6529f49b48968",
-                        "children": [
-                          {
-                            "topic": "守恒量",
-                            "id": "71a65534331a969d",
-                            "children": [
-                              {
-                                "topic": "能量",
-                                "id": "71a6566dfbdd3a98"
-                              },
-                              {
-                                "topic": "角动量",
-                                "id": "71a657b35c0abfe6"
-                              },
-                              {
-                                "topic": "动量",
-                                "id": "71a659337371a5c9"
-                              },
-                              {
-                                "topic": "宇称",
-                                "id": "71a65a1b59db8c0d"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "衰变能",
-                            "id": "71a6557df4cb9807",
-                            "children": [
-                              {
-                                "topic": "衰变能与衰变常数关系",
-                                "id": "71a65b908e143b09"
-                              }
-                            ]
-                          }
-                        ]
+                        "topic": "A-1.3.2.1.1 物理过程",
+                        "id": "a00594082215b8ef"
                       },
                       {
-                        "topic": "隧穿模型",
-                        "id": "71a65303243866d8",
+                        "topic": "A-1.3.2.1.2 隧穿模型",
+                        "id": "a00594d9c643b66c"
+                      },
+                      {
+                        "topic": "A-1.3.2.1.3 其他重粒子发射",
+                        "id": "a0059599383d8318"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "A-1.3.2.2 β衰变",
+                    "id": "a0059053106770dd",
+                    "children": [
+                      {
+                        "topic": "A-1.3.2.2.1 β衰变类型",
+                        "id": "a005967897b5d373"
+                      },
+                      {
+                        "topic": "A-1.3.2.2.2 物理过程",
+                        "id": "a0059748cab9a0ea"
+                      },
+                      {
+                        "topic": "A-1.3.2.2.3 费米理论",
+                        "id": "a00598205e048c26",
                         "children": [
                           {
-                            "topic": "势垒穿透",
-                            "id": "71a6653a2d3fcae3",
-                            "children": [
-                              {
-                                "topic": "方垒穿透",
-                                "id": "71a65c5d899c199c"
-                              },
-                              {
-                                "topic": "伽莫夫势垒",
-                                "id": "71a65d13c165106d",
-                                "children": [
-                                  {
-                                    "topic": "Gamow G. Fine structure of α-rays[J]. Nature, 1930, 126(3176): 397-397.",
-                                    "id": "71a65e4e2dfb74aa"
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "阻碍因子",
-                            "id": "71a667c7f789a02e",
-                            "children": [
-                              {
-                                "topic": "形成因子",
-                                "id": "71a668b2d54fd03f"
-                              },
-                              {
-                                "topic": "波函数相似性",
-                                "id": "71a66a587fe0fe1a"
-                              },
-                              {
-                                "topic": "核的非对称性",
-                                "id": "71a66b5a79468407"
-                              },
-                              {
-                                "topic": "离心势",
-                                "id": "71a66c82316dd2ef",
-                                "children": [
-                                  {
-                                    "topic": "Rasmussen J O. Alpha-decay barrier penetrabilities with an exponential nuclear potential: even-even nuclei[J]. Physical Review, 1959, 113(6): 1593.",
-                                    "id": "71a66ce6547b0b18"
-                                  }
-                                ]
-                              }
-                            ]
+                            "topic": "[19]",
+                            "id": "a005991bcd2ab533"
                           }
                         ]
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "β衰变",
-                    "id": "71a64d97c85e5232",
+                    "topic": "A-1.3.2.3 伽马跃迁",
+                    "id": "a005916578c68cd0",
                     "children": [
                       {
-                        "topic": "物理过程",
-                        "id": "71a67412c194d309",
-                        "children": [
-                          {
-                            "topic": "中微子",
-                            "id": "71a67687409e3d14",
-                            "children": [
-                              {
-                                "topic": "W. Pauli, quoted repeatedly since 1931, to be published shortly in \"Rapports du Septième Conseil Solvay, Brussels\", 1933.",
-                                "id": "71a678084af2e925"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "弱相互作用",
-                            "id": "71a67745d8d7b426"
-                          },
-                          {
-                            "topic": "宇称不守恒",
-                            "id": "71a6791a1fd5319b",
-                            "children": [
-                              {
-                                "topic": "Wu C S. Parity experiments in beta decays[J]. Reviews of Modern Physics, 1959, 31(3): 783.",
-                                "id": "71a679d646c3fe07"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "β衰变类型",
-                            "id": "71a67b07ed5efcc8",
-                            "children": [
-                              {
-                                "topic": "β-衰变",
-                                "id": "71a67cbb3b7a6513"
-                              },
-                              {
-                                "topic": "β+衰变",
-                                "id": "71a67d72cfdfdfd0"
-                              },
-                              {
-                                "topic": "轨道电子俘获",
-                                "id": "71a67ec6f972c0db"
-                              },
-                              {
-                                "topic": "无中微子双β衰变",
-                                "id": "71a67f8427dc33e2",
-                                "children": [
-                                  {
-                                    "topic": "Primakoff H, Rosen S P. Double beta decay[J]. Reports on Progress in Physics, 1959, 22(1): 121.",
-                                    "id": "71a6803af52c9217"
-                                  },
-                                  {
-                                    "topic": "马约拉纳粒子",
-                                    "id": "71a68101c8dc9034"
-                                  },
-                                  {
-                                    "topic": "Faessler A, Simkovic F. Double beta decay[J]. Journal of Physics G: Nuclear and Particle Physics, 1998, 24(12): 2139.",
-                                    "id": "71a681b8bf0db245"
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ],
-                        "expanded": false
+                        "topic": "A-1.3.2.3.1 物理过程",
+                        "id": "a0059a29e130f8e4"
                       },
                       {
-                        "topic": "费米理论",
-                        "id": "71a675808b5e689d",
-                        "children": [
-                          {
-                            "topic": "黄金规则",
-                            "id": "71a68324c2f8fb4a"
-                          },
-                          {
-                            "topic": "β谱与库里厄图",
-                            "id": "71a6842123b3a1bc",
-                            "children": [
-                              {
-                                "topic": "E. J. Konopinski and G. E. Uhlenbeck, Phys. Rev. 60, 308 (1941) E. Greuling, 61, 568 (1942)",
-                                "id": "71a684f75c76ae1a"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "选择定则",
-                            "id": "71a68605104eae5f"
-                          },
-                          {
-                            "topic": "比较半衰期",
-                            "id": "71a68738423d4b9c",
-                            "children": [
-                              {
-                                "topic": "Feenberg E, Trigg G. The interpretation of comparative half-lives in the fermi theory of beta-decay[J]. Reviews of Modern Physics, 1950, 22(4): 399.",
-                                "id": "71a687dfc41b18cc"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "Wilson F L. Fermi’s theory of beta decay[J]. American Journal of Physics, 1968, 36(12): 1150-1160.",
-                            "id": "71a688d2dcc2c615"
-                          }
-                        ],
-                        "expanded": false
+                        "topic": "A-1.3.2.3.2 能级间的电磁跃迁",
+                        "id": "a0059afe1387c59f"
+                      },
+                      {
+                        "topic": "核共振荧光",
+                        "id": "a0059c1e545d7aad"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "伽马跃迁",
-                    "id": "71a64ebcade99187",
-                    "children": [
-                      {
-                        "topic": "物理过程",
-                        "id": "71a68cb3ea86c5a4",
-                        "children": [
-                          {
-                            "topic": "光子特性",
-                            "id": "71a68e20dc9a2115",
-                            "children": [
-                              {
-                                "topic": "自旋",
-                                "id": "71a69453d5a32240"
-                              },
-                              {
-                                "topic": "偏振",
-                                "id": "71a6957e37c2bb9b"
-                              },
-                              {
-                                "topic": "总角动量",
-                                "id": "71a69707ad95c25f"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "衰变能",
-                            "id": "71a6921e7a18a720",
-                            "children": [
-                              {
-                                "topic": "光子能量",
-                                "id": "71a698183ff6e52b"
-                              },
-                              {
-                                "topic": "反冲核能量",
-                                "id": "71a698f9720b8020",
-                                "children": [
-                                  {
-                                    "topic": "穆斯堡尔效应",
-                                    "id": "71a69a39d1abf138",
-                                    "children": [
-                                      {
-                                        "topic": "MOSSBAUER,R. L., 1958, 2. Phys., 151, 124 ; Naturwissenschaften, 45, 538 ; 2. Naturf., 14a,211 ; 1961, Proceedings of the Second Mossbauer Conference, Paris (New York : John Wiley).",
-                                        "id": "71a69b6c146ff04f"
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "topic": "辐射损伤",
-                                    "id": "71a69beeab7572dd"
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "能量发射",
-                            "id": "71a694022ff470ce",
-                            "children": [
-                              {
-                                "topic": "电多极过程",
-                                "id": "71a69dac374601d0",
-                                "children": [
-                                  {
-                                    "topic": "能量发射率",
-                                    "id": "71a69e8a6fb445c7",
-                                    "children": []
-                                  },
-                                  {
-                                    "topic": "宇称特征",
-                                    "id": "71a69fd2d06ca95a"
-                                  }
-                                ]
-                              },
-                              {
-                                "topic": "Weisskopf V F. Radiative transition probabilities in nuclei[J]. Physical Review, 1951, 83(5): 1073.",
-                                "id": "71a6a0cf771ed66b"
-                              },
-                              {
-                                "topic": "P. A. M. Dirac, The quantum theory of the emission and absorption of radiation, Proc. R. Soc. A 114, 243 (1927).",
-                                "id": "71a6a2a8e0d7c06f"
-                              },
-                              {
-                                "topic": "J. Orear, E. Fermi, A. Rosenfeld, and R. Schluter, Nuclear Physics: A Course Given by Enrico Fermi at the University of Chicago, Midway Reprints (University of Chicago Press, Chicago, 1950).",
-                                "id": "71a6a37469a9d8dc"
-                              },
-                              {
-                                "topic": "磁多极过程",
-                                "id": "71a6a43c3348ed74",
-                                "children": [
-                                  {
-                                    "topic": "能量发射率",
-                                    "id": "71a6a549ee7c9b09"
-                                  },
-                                  {
-                                    "topic": "宇称特征",
-                                    "id": "71a6a5c6944c0c12"
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ],
-                        "expanded": false
-                      },
-                      {
-                        "topic": "能级间的电磁跃迁",
-                        "id": "71a68ea898810a1d",
-                        "children": [
-                          {
-                            "topic": "伽马跃迁",
-                            "id": "71a6aa589b8cf803",
-                            "children": [
-                              {
-                                "topic": "多极性与选择定则",
-                                "id": "71a6ac044b0fa65e"
-                              },
-                              {
-                                "topic": "同质异能态",
-                                "id": "71a6adb6ece581b0"
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "内转换电子",
-                            "id": "71a6abae2fd776c0",
-                            "children": [
-                              {
-                                "topic": "特征X射线",
-                                "id": "71a6af32766f1be3"
-                              },
-                              {
-                                "topic": "俄歇电子",
-                                "id": "71a6af8a9628bd39"
-                              }
-                            ]
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "共振荧光",
-                        "id": "71a68ff0a2b93dad"
-                      }
-                    ],
-                    "expanded": false
-                  },
-                  {
-                    "topic": "自发裂变",
-                    "id": "71a64f9bcc6502f3",
+                    "topic": "A-1.3.2.4 自发裂变",
+                    "id": "a00592722792279e",
                     "children": [
                       {
                         "topic": "裂变位垒",
-                        "id": "71a6b37837bcd28f"
+                        "id": "a0059ce612f66cea"
                       },
                       {
                         "topic": "衰变能",
-                        "id": "71a6b3cac61a6c2f"
+                        "id": "a0059de6aabd0a98"
                       },
                       {
                         "topic": "瞬发中子",
-                        "id": "71a6b520beec805e"
+                        "id": "a0059ee3a93635e2"
                       },
                       {
                         "topic": "裂变产物",
-                        "id": "71a6b6998e3f432d",
-                        "children": [
-                          {
-                            "topic": "缓发中子",
-                            "id": "71a6b758a7a91c2e"
-                          },
-                          {
-                            "topic": "其他重要裂变产物",
-                            "id": "71a6b8471224ba37"
-                          }
-                        ]
+                        "id": "a0059fb1ad2d6b7d"
                       }
                     ]
                   },
                   {
-                    "topic": "其他粒子发射",
-                    "id": "71a650dc21c0c860",
-                    "children": [
-                      {
-                        "topic": "碳12",
-                        "id": "71a6b94b24d5daa2"
-                      },
-                      {
-                        "topic": "碳14",
-                        "id": "71a6b9b3011ae42f"
-                      },
-                      {
-                        "topic": "其他粒子",
-                        "id": "71a6babb5afcaffe"
-                      }
-                    ]
-                  }
-                ],
-                "expanded": true
-              },
-              {
-                "topic": "粒子",
-                "id": "71a61189e140cad1",
-                "children": [
-                  {
-                    "topic": "中子衰变",
-                    "id": "71a6c1dbaab92b82",
-                    "children": [
-                      {
-                        "topic": "Life Time Puzzle",
-                        "id": "71a6c3690ba2f437",
-                        "children": [
-                          {
-                            "topic": "Desai A M. Possible explanation for the neutron lifetime puzzle[J]. Open Physics, 2025, 23(1): 20240113.",
-                            "id": "71a6c58ab54b1ae8"
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "topic": "放射规律的一些应用",
-                "id": "71a61255cee9817e",
-                "children": [
-                  {
-                    "topic": "缪子衰变(TBA)",
-                    "id": "71a6c704c0feadfc",
-                    "children": []
-                  },
-                  {
-                    "topic": "陶子衰变(TBA)",
-                    "id": "71a6c949a9eaed16"
-                  },
-                  {
-                    "topic": "介子衰变(TBA)",
-                    "id": "71a6cb639b71f281"
-                  },
-                  {
-                    "topic": "中微子振荡(TBD)",
-                    "id": "71a6cc5fc5e9716e",
-                    "children": [
-                      {
-                        "topic": "理论基础",
-                        "id": "71a6cd4108b65d8c",
-                        "children": [
-                          {
-                            "topic": "中微子混合矩阵",
-                            "id": "71a6ce254e3d98a6"
-                          },
-                          {
-                            "topic": "CP破坏与电弱理论",
-                            "id": "71a6ce79e7a7f582"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "中微子振荡类型",
-                        "id": "71a6cfbd4b1cacaa"
-                      }
-                    ]
-                  },
-                  {
-                    "topic": "其他核子衰变(TBA)",
-                    "id": "71a6d2fff61836a2"
+                    "topic": "[1],[2]",
+                    "id": "a00593376208663a"
                   }
                 ]
               }
-            ],
-            "expanded": false
+            ]
           },
           {
-            "topic": "核反应（诱发过程）",
-            "id": "71a5b1e642dfe093",
+            "topic": "A-1.4 核反应（诱发过程）",
+            "id": "a005681e4f0b8f16",
             "children": [
               {
-                "topic": "核反应的基本概念",
-                "id": "71a6da2fb76f2294",
+                "topic": "A-1.4.1 核反应的基本概念",
+                "id": "a005a4c46ae817dd",
                 "children": [
                   {
-                    "topic": "反应道",
-                    "id": "71a6dee866ffb9a2"
+                    "topic": "A-1.4.1.1 反应道",
+                    "id": "a005a7ff7cc43ca2"
                   },
                   {
-                    "topic": "反应分类",
-                    "id": "71a6e024fd31c843"
-                  },
-                  {
-                    "topic": "反应能与阈能",
-                    "id": "71a6e1b0fb79de01"
-                  },
-                  {
-                    "topic": "反应截面",
-                    "id": "71a6e30b4b63327a"
-                  },
-                  {
-                    "topic": "反应产额",
-                    "id": "71a6e3d8c2195204"
-                  },
-                  {
-                    "topic": "典型核反应以及应用",
-                    "id": "71a6e4968372a314",
+                    "topic": "A-1.4.1.2 反应分类",
+                    "id": "a005a8fa957ff7db",
                     "children": [
                       {
-                        "topic": "核裂变",
-                        "id": "71a6e53f5750812c"
+                        "topic": "按照入射粒子类型分",
+                        "id": "a005abd8f8c4815c"
                       },
                       {
-                        "topic": "核聚变",
-                        "id": "71a6e6087987c57b"
-                      },
-                      {
-                        "topic": "其他著名核反应",
-                        "id": "71a6e6da94e391f4"
+                        "topic": "出入射粒子是否相同",
+                        "id": "a005aca030db7206"
                       }
                     ]
+                  },
+                  {
+                    "topic": "A-1.4.1.3 典型核反应以及应用",
+                    "id": "a005aa25bdc7e268"
+                  },
+                  {
+                    "topic": "[1],[2]",
+                    "id": "a005aaf01b0a74a7"
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "运动学问题",
-                "id": "71a6da88518241e1",
+                "topic": "A-1.4.2 运动学问题",
+                "id": "a005a5efb9c17b1c",
                 "children": [
                   {
                     "topic": "守恒量",
-                    "id": "71a6e88e36f79097"
+                    "id": "a005ae15ebc50287"
+                  },
+                  {
+                    "topic": "反应能与阈能",
+                    "id": "a005aff990af8b63"
                   },
                   {
                     "topic": "Q方程",
-                    "id": "71a6e96531a1e827"
-                  }
-                ],
-                "expanded": false
-              },
-              {
-                "topic": "反应机制与核反应模型（动力学问题）",
-                "id": "71a6dc9f6dff63b6",
-                "children": [
-                  {
-                    "topic": "三阶段",
-                    "id": "71a6eba2b9de463d",
+                    "id": "a005b0cf98e9f502",
                     "children": [
                       {
-                        "topic": "独立粒子",
-                        "id": "71a6ef694f7c36c4"
-                      },
-                      {
-                        "topic": "复合系统",
-                        "id": "71a6f01e2b952961"
-                      },
-                      {
-                        "topic": "最后阶段",
-                        "id": "71a6f0cdfa944cdc"
+                        "topic": ".",
+                        "id": "a005c7cf90ccb5cc",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/Q方程.png",
+                          "width": 465,
+                          "height": 61
+                        }
                       }
                     ]
                   },
                   {
-                    "topic": "核反应截面",
-                    "id": "71a6ecb627afd27f",
-                    "children": [
-                      {
-                        "topic": "定义",
-                        "id": "71a6f191b5949649",
-                        "children": [
-                          {
-                            "topic": "总截面",
-                            "id": "71a6f250c6533c92"
-                          },
-                          {
-                            "topic": "微分截面",
-                            "id": "71a6f32ac7955428"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "分波分析",
-                        "id": "71a6f445fec7ce7e",
-                        "children": [
-                          {
-                            "topic": "平面波球谐函数展开",
-                            "id": "71a6f4f4f0450d12",
-                            "children": [
-                              {
-                                "topic": "轨道角动量",
-                                "id": "71a6f5abf6bbef10",
-                                "children": [
-                                  {
-                                    "topic": "相对动量",
-                                    "id": "71a6f6b0f073e36d"
-                                  },
-                                  {
-                                    "topic": "碰撞参数",
-                                    "id": "71a6f7ada49ed404"
-                                  }
-                                ]
-                              }
-                            ]
-                          },
-                          {
-                            "topic": "Sakurai J J, Napolitano J. Modern quantum mechanics[M]. Cambridge University Press, 2020.",
-                            "id": "71a6f8c45cd07910"
-                          },
-                          {
-                            "topic": "分波",
-                            "id": "71a6f9e90e30912c",
-                            "children": [
-                              {
-                                "topic": "入射波",
-                                "id": "71a6fa9b214084a7"
-                              },
-                              {
-                                "topic": "出射波",
-                                "id": "71a6fce64a7e07aa",
-                                "children": [
-                                  {
-                                    "topic": "出射波系数",
-                                    "id": "71a6fe33713bf634",
-                                    "children": [
-                                      {
-                                        "topic": "模=1（散射）",
-                                        "id": "71a6ff5c4cf0c522",
-                                        "children": [
-                                          {
-                                            "topic": "势散射",
-                                            "id": "71a7019263257190"
-                                          },
-                                          {
-                                            "topic": "共振散射",
-                                            "id": "71a7024c80c69a08"
-                                          }
-                                        ]
-                                      },
-                                      {
-                                        "topic": "模<1（核反应）",
-                                        "id": "71a700c6c7e3242f"
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "topic": "对数导数",
-                                    "id": "71a6ff162ca8c8ef",
-                                    "children": [
-                                      {
-                                        "topic": "截面",
-                                        "id": "71a70368b224b783"
-                                      }
-                                    ]
-                                  }
-                                ]
-                              }
-                            ]
-                          }
-                        ]
-                      }
-                    ],
-                    "expanded": false
-                  },
-                  {
-                    "topic": "核反应模型",
-                    "id": "71a6edb1f9228aae",
-                    "children": [
-                      {
-                        "topic": "光学模型",
-                        "id": "71a705f48ab388b0",
-                        "children": [
-                          {
-                            "topic": "Green函数与Born级数",
-                            "id": "71a706a4dd4c054b"
-                          },
-                          {
-                            "topic": "Lippman-Schinger方程",
-                            "id": "71a7074f2d2e4935"
-                          },
-                          {
-                            "topic": "Sakurai J J, Napolitano J. Modern quantum mechanics[M]. Cambridge University Press, 2020.",
-                            "id": "71a7080c8bc8af77"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "复合核模型",
-                        "id": "71a709b6a2701409"
-                      },
-                      {
-                        "topic": "黑核模型",
-                        "id": "71a70a80ffb2df8c"
-                      }
-                    ]
-                  },
-                  {
-                    "topic": "诱发裂变",
-                    "id": "71a6ee84c4041635",
-                    "children": [
-                      {
-                        "topic": "中子诱发",
-                        "id": "71a70b31bac4c66e"
-                      },
-                      {
-                        "topic": "光子诱发",
-                        "id": "71a70c252945be58",
-                        "children": [
-                          {
-                            "topic": "实光子诱发",
-                            "id": "71a70d2da9a34914"
-                          },
-                          {
-                            "topic": "库仑激发",
-                            "id": "71a70e3088b6b4b0"
-                          }
-                        ]
-                      }
-                    ]
+                    "topic": "[1],[3]",
+                    "id": "a005b2299b96a96a"
                   }
                 ]
               },
               {
-                "topic": "高能宇宙射线",
-                "id": "71a6dda80a6a144c",
+                "topic": "A-1.4.3 反应机制与核反应模型（动力学问题）",
+                "id": "a005a6ae5479bcee",
                 "children": [
                   {
-                    "topic": "高能宇宙射线的产生（PP-chain）",
-                    "id": "71a71005ac5683da",
-                    "children": [
-                      {
-                        "topic": "Hillas A M. The origin of ultra-high-energy cosmic rays[J]. IN: Annual review of astronomy and astrophysics. Volume 22. Palo Alto, CA, Annual Reviews, Inc., 1984, p. 425-444., 1984, 22: 425-444.",
-                        "id": "71a710d12d66c253"
-                      }
-                    ]
+                    "topic": "A-1.4.3.1 三阶段",
+                    "id": "a005b4917a5043f2"
                   },
                   {
-                    "topic": "加速过程",
-                    "id": "71a712d49d761458",
-                    "children": [
-                      {
-                        "topic": "Lorentz Boost",
-                        "id": "71a7139b2316caa6"
-                      },
-                      {
-                        "topic": "相对论寿命延长",
-                        "id": "71a71450404e8afc"
-                      }
-                    ]
+                    "topic": "A-1.4.3.2 核反应截面",
+                    "id": "a005b5587228b607"
                   },
                   {
-                    "topic": "与大气反应",
-                    "id": "71a71505d1b3f2a5",
-                    "children": [
-                      {
-                        "topic": "簇射",
-                        "id": "71a715c69380a344"
-                      }
-                    ]
+                    "topic": "A-1.4.3.3 核反应模型",
+                    "id": "a005b6b09e417f0c"
                   },
                   {
-                    "topic": "Stanev T, Stanev. High energy cosmic rays[M]. Berlin: Springer, 2010.",
-                    "id": "71a7160eded42639"
+                    "topic": "A-1.4.3.4 诱发裂变",
+                    "id": "a005b85a3458ed50"
                   }
                 ]
               }
-            ],
-            "expanded": false
+            ]
           }
         ],
-        "expanded": false
+        "expanded": true
       },
       {
-        "topic": "辐射探测学",
-        "id": "71a5a7d8981028b4",
+        "topic": "A-2 辐射探测学",
+        "id": "a0055e2f2ce34a6e",
         "direction": 0,
         "children": [
           {
-            "topic": "辐射探测的数学物理规律",
-            "id": "71a720ea5d9adf01",
+            "topic": "A-2.1 辐射探测的数学物理规律",
+            "id": "a005bc949abc3221",
             "children": [
               {
-                "topic": "数学基础",
-                "id": "71a7275dadc65421",
+                "topic": "A-2.1.1 数学基础",
+                "id": "a005c042745e8779",
                 "children": [
                   {
-                    "topic": "pic",
-                    "id": "71a72a69503aed22",
+                    "topic": ".",
+                    "id": "a005c25f4e796374",
                     "image": {
-                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/wechat_2025-06-13_105326_627.png",
-                      "width": 434,
-                      "height": 364
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/数学基础.png",
+                      "width": 299,
+                      "height": 161
                     }
                   },
                   {
                     "topic": "误差传递",
-                    "id": "71a72ba43df01742"
+                    "id": "a005cc6144258c8d"
+                  },
+                  {
+                    "topic": "变量级联",
+                    "id": "a005ce6324d02985"
+                  },
+                  {
+                    "topic": "辐射探测中的统计学问题",
+                    "id": "a005cf9e14ec3a88"
+                  },
+                  {
+                    "topic": "[1],[3]",
+                    "id": "a005d072b6c01fed"
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "物理基础",
-                "id": "71a727c9dc826810",
+                "topic": "A-2.1.2 物理基础",
+                "id": "a005c111e03a4da7",
                 "children": [
                   {
-                    "topic": "辐射与物质相互作用规律",
-                    "id": "71a734c3d82e526b",
+                    "topic": "A-2.1.2.1 辐射与物质相互作用规律",
+                    "id": "a005d1a52a9de411",
                     "children": [
                       {
-                        "topic": "直接致电离粒子",
-                        "id": "71a73a4a3c78c614",
-                        "children": [
-                          {
-                            "topic": "能量损失方式",
-                            "id": "71a743b9a6da7325",
-                            "children": [
-                              {
-                                "topic": "弹性过程",
-                                "id": "71a747b22bec03d8",
-                                "children": [
-                                  {
-                                    "topic": "核的弹性碰撞",
-                                    "id": "71a7495d5ef8e9f1",
-                                    "children": [
-                                      {
-                                        "topic": "卢瑟福散射",
-                                        "id": "71a74afc415b2250"
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "topic": "核外电子的弹性碰撞",
-                                    "id": "71a74a2e2790e809"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "非弹性过程",
-                                "id": "71a748876dfe469c",
-                                "children": [
-                                  {
-                                    "topic": "核的非弹性碰撞",
-                                    "id": "71a74d33ce5f8bb1",
-                                    "children": [
-                                      {
-                                        "topic": "轫致辐射",
-                                        "id": "71a74ecc9a224e13"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  },
-                                  {
-                                    "topic": "核外电子的非弹性碰撞",
-                                    "id": "71a74da25dc692a5",
-                                    "children": [
-                                      {
-                                        "topic": "电离",
-                                        "id": "71a74fba01f3290c"
-                                      },
-                                      {
-                                        "topic": "激发",
-                                        "id": "71a750d403493eb1"
-                                      },
-                                      {
-                                        "topic": "轫致辐射",
-                                        "id": "71a751d22748730b"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  }
-                                ],
-                                "expanded": false
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "强子",
-                            "id": "71a744185e108701",
-                            "children": [
-                              {
-                                "topic": "常见粒子",
-                                "id": "71a755c8fb9ae69f",
-                                "children": [
-                                  {
-                                    "topic": "阿尔法粒子",
-                                    "id": "71a75903f955af7d"
-                                  },
-                                  {
-                                    "topic": "质子",
-                                    "id": "71a7596d95a75454"
-                                  },
-                                  {
-                                    "topic": "氘",
-                                    "id": "71a75a49acb8b060"
-                                  },
-                                  {
-                                    "topic": "氚",
-                                    "id": "71a75b378be8d065",
-                                    "children": []
-                                  },
-                                  {
-                                    "topic": "反冲核",
-                                    "id": "71a75e40db8a6c6d"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "能量损失方式",
-                                "id": "71a7563622de583c",
-                                "children": [
-                                  {
-                                    "topic": "辐射能量损失率",
-                                    "id": "71a757ab5114bb90"
-                                  },
-                                  {
-                                    "topic": "电离能量损失率/Bethe公式（主要）",
-                                    "id": "71a7600c8dd689e1",
-                                    "children": [
-                                      {
-                                        "topic": "三个阶段",
-                                        "id": "71a760cebc852675"
-                                      },
-                                      {
-                                        "topic": "MIP",
-                                        "id": "71a761863885d833"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  },
-                                  {
-                                    "topic": "核阻止",
-                                    "id": "71a7628781c3598b"
-                                  },
-                                  {
-                                    "topic": "库仑激发",
-                                    "id": "71a763dfde149e2e"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "径迹特性",
-                                "id": "71a7581506b5710a",
-                                "children": [
-                                  {
-                                    "topic": "径迹",
-                                    "id": "71a764afce6c7a23"
-                                  },
-                                  {
-                                    "topic": "时间",
-                                    "id": "71a7665571dc76a3"
-                                  }
-                                ],
-                                "expanded": false
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "轻子",
-                            "id": "71a745dcdfbd706e",
-                            "children": [
-                              {
-                                "topic": "带电轻子",
-                                "id": "71a76aa0af9fd360",
-                                "children": [
-                                  {
-                                    "topic": "电子",
-                                    "id": "71a76ced8c0309d9",
-                                    "children": [
-                                      {
-                                        "topic": "电子原子X射线",
-                                        "id": "71a76dc873caf96e"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  },
-                                  {
-                                    "topic": "缪子",
-                                    "id": "71a76f94b249119b",
-                                    "children": [
-                                      {
-                                        "topic": "缪原子形成",
-                                        "id": "71a7705cbd7a5cf9"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  },
-                                  {
-                                    "topic": "陶子",
-                                    "id": "71a771399f4b0560"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "能量损失方式",
-                                "id": "71a76b75e8646a6c",
-                                "children": [
-                                  {
-                                    "topic": "Bethe公式",
-                                    "id": "71a77292b0321fe4"
-                                  },
-                                  {
-                                    "topic": "辐射能量损失率",
-                                    "id": "71a77359ccc32027"
-                                  },
-                                  {
-                                    "topic": "反散射",
-                                    "id": "71a774031588d9f2"
-                                  },
-                                  {
-                                    "topic": "库仑激发",
-                                    "id": "71a774b6e7197b5c"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "径迹特征",
-                                "id": "71a76c2518e34bfe",
-                                "children": [
-                                  {
-                                    "topic": "电子",
-                                    "id": "71a775e1ff1efb3b"
-                                  },
-                                  {
-                                    "topic": "缪子",
-                                    "id": "71a776a6b75f9c1e"
-                                  },
-                                  {
-                                    "topic": "陶子",
-                                    "id": "71a7775c607a7d10",
-                                    "children": [
-                                      {
-                                        "topic": "径迹较短",
-                                        "id": "71a7780cdbd5b059"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  }
-                                ],
-                                "expanded": false
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "介子",
-                            "id": "71a74696585a4793",
-                            "children": [
-                              {
-                                "topic": "带电：电离辐射",
-                                "id": "71a77c14683eb167"
-                              },
-                              {
-                                "topic": "弹性散射",
-                                "id": "71a77ccd97ba2b88"
-                              },
-                              {
-                                "topic": "强相互作用相关反应",
-                                "id": "71a77d7c282c95ef"
-                              },
-                              {
-                                "topic": "弱相互作用相关反应",
-                                "id": "71a77e3333c87738"
-                              }
-                            ],
-                            "expanded": false
-                          }
-                        ],
-                        "expanded": false
+                        "topic": "A-2.1.2.1.2 直接致电离粒子",
+                        "id": "a005d38c1eccdc0e",
+                        "children": []
                       },
                       {
-                        "topic": "间接致电离粒子",
-                        "id": "71a73ac9d84c0bdb",
-                        "children": [
-                          {
-                            "topic": "衰减规律",
-                            "id": "71a783d39ded06cc",
-                            "children": [
-                              {
-                                "topic": "规律原因",
-                                "id": "71a7874a0bc66ec2"
-                              },
-                              {
-                                "topic": "规律形式以及适用范围",
-                                "id": "71a787f6bfa1c747"
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "X/伽马射线",
-                            "id": "71a784b8522d3418",
-                            "children": [
-                              {
-                                "topic": "电子",
-                                "id": "71a78907cd229952",
-                                "children": [
-                                  {
-                                    "topic": "汤普逊散射",
-                                    "id": "71a78eafd0ca17f5"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "原子",
-                                "id": "71a78c1f398902f6",
-                                "children": [
-                                  {
-                                    "topic": "穆斯堡尔效应",
-                                    "id": "71a78f6e01abdeb8"
-                                  },
-                                  {
-                                    "topic": "与核外电子",
-                                    "id": "71a7904dc3fc9a25",
-                                    "children": [
-                                      {
-                                        "topic": "光电效应",
-                                        "id": "71a7912584277b6c"
-                                      },
-                                      {
-                                        "topic": "瑞利散射",
-                                        "id": "71a79323b6870982"
-                                      },
-                                      {
-                                        "topic": "电子共振散射",
-                                        "id": "71a793e4b38fbc82"
-                                      },
-                                      {
-                                        "topic": "Triplet production",
-                                        "id": "71a794ce19cc0d19"
-                                      },
-                                      {
-                                        "topic": "非弹电子对",
-                                        "id": "71a7957fc836e2a4"
-                                      },
-                                      {
-                                        "topic": "康普顿散射",
-                                        "id": "71a79631a921b711"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "原子核",
-                                "id": "71a78d1927270227",
-                                "children": [
-                                  {
-                                    "topic": "与原子核",
-                                    "id": "71a797999e139ebe",
-                                    "children": [
-                                      {
-                                        "topic": "核康普顿散射",
-                                        "id": "71a7986d1b128b78"
-                                      },
-                                      {
-                                        "topic": "核共振散射",
-                                        "id": "71a799f7079031e5",
-                                        "children": []
-                                      },
-                                      {
-                                        "topic": "核汤普逊散射",
-                                        "id": "71a79b64cfd97b12"
-                                      },
-                                      {
-                                        "topic": "电子对",
-                                        "id": "71a79c21fe10af21"
-                                      },
-                                      {
-                                        "topic": "德尔布吕克散射",
-                                        "id": "71a79cd325ed3ac8"
-                                      }
-                                    ],
-                                    "expanded": false
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "光光反应",
-                                "id": "71a78dd6ad3dd847"
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "中子",
-                            "id": "71a7859c6c5acd87",
-                            "children": [
-                              {
-                                "topic": "中子波函数进入原子核",
-                                "id": "71a79ef4ccdf35ee",
-                                "children": [
-                                  {
-                                    "topic": "去弹性散射",
-                                    "id": "71a7a08fac2861ea"
-                                  },
-                                  {
-                                    "topic": "非弹性散射",
-                                    "id": "71a7a2c874c2746b"
-                                  },
-                                  {
-                                    "topic": "辐射俘获",
-                                    "id": "71a7a46393817e34"
-                                  },
-                                  {
-                                    "topic": "带电粒子出射",
-                                    "id": "71a7a50df90bf61c"
-                                  },
-                                  {
-                                    "topic": "裂变",
-                                    "id": "71a7a5e97db6c1ee"
-                                  },
-                                  {
-                                    "topic": "散裂",
-                                    "id": "71a7a6ab0fdfcd36"
-                                  },
-                                  {
-                                    "topic": "其他反应",
-                                    "id": "71a7a76ca31aefa2"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "中子波函数不进入原子核",
-                                "id": "71a7a0f93d2c78db",
-                                "children": [
-                                  {
-                                    "topic": "势散射",
-                                    "id": "71a7a8941976a24b"
-                                  }
-                                ],
-                                "expanded": false
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "中微子",
-                            "id": "71a78661f7bf9620",
-                            "children": [
-                              {
-                                "topic": "中微子的类型",
-                                "id": "71a7aa85071a671a",
-                                "children": [
-                                  {
-                                    "topic": "电子中微子",
-                                    "id": "71a7ac9cefd3dbd9"
-                                  },
-                                  {
-                                    "topic": "缪子中微子",
-                                    "id": "71a7ad65a9d508e4"
-                                  },
-                                  {
-                                    "topic": "陶子中微子",
-                                    "id": "71a7ae153a5b2598"
-                                  }
-                                ],
-                                "expanded": false
-                              },
-                              {
-                                "topic": "中微子与物质的相互作用",
-                                "id": "71a7ab48b4492a74",
-                                "children": [
-                                  {
-                                    "topic": "弹性/准弹性散射",
-                                    "id": "71a7aed043f6ff40",
-                                    "children": [
-                                      {
-                                        "topic": "pic",
-                                        "id": "71a7aff03f26942d",
-                                        "image": {
-                                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/弹性_准弹性散射.png",
-                                          "width": 486,
-                                          "height": 191
-                                        }
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "topic": "超子产生",
-                                    "id": "71a7b10873021bdf",
-                                    "children": [
-                                      {
-                                        "topic": "pic",
-                                        "id": "71a7b1f78a7d6e6c",
-                                        "image": {
-                                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/超子产生.png",
-                                          "width": 486,
-                                          "height": 112
-                                        }
-                                      }
-                                    ]
-                                  },
-                                  {
-                                    "topic": "非弹性散射",
-                                    "id": "71a7b3b43fcfd503",
-                                    "children": [
-                                      {
-                                        "topic": "各种pi ，eta介子production反应",
-                                        "id": "71a7b688bcb3a38e",
-                                        "children": [],
-                                        "image": {
-                                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/非弹性散射1.png",
-                                          "width": 487,
-                                          "height": 282
-                                        }
-                                      },
-                                      {
-                                        "topic": "奇异粒子 production",
-                                        "id": "71a7ba2807bd7a4a",
-                                        "image": {
-                                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/非弹性散射2.png",
-                                          "width": 321,
-                                          "height": 62
-                                        }
-                                      }
-                                    ],
-                                    "expanded": false
-                                  },
-                                  {
-                                    "topic": "中微子与原子核散射",
-                                    "id": "71a7c03e48987b02"
-                                  }
-                                ],
-                                "expanded": false
-                              }
-                            ],
-                            "expanded": false
-                          }
-                        ],
-                        "expanded": false
+                        "topic": "A-2.1.2.1.2 间接致电离粒子",
+                        "id": "a005d527a4f7576a"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "Shockley-Ramo定理",
-                    "id": "71a736cf99d59c1c"
+                    "topic": "A-2.1.2.2 探测器信号形成",
+                    "id": "a005d288d36109fe",
+                    "children": [
+                      {
+                        "topic": "A-2.1.2.2.1 载流子产生",
+                        "id": "a005d6ad20792e77",
+                        "children": []
+                      },
+                      {
+                        "topic": "A-2.1.2.2.2 载流子漂移",
+                        "id": "a005d8d06d0afdb8"
+                      },
+                      {
+                        "topic": "A-2.1.2.2.3 感应电荷分配",
+                        "id": "a005dafaeb060487"
+                      },
+                      {
+                        "topic": "A-2.1.2.2.4 探测器信号",
+                        "id": "a005dbc6f5f96767"
+                      },
+                      {
+                        "topic": "[1],[3]",
+                        "id": "a005dc8d63c8175a"
+                      }
+                    ]
                   }
-                ],
-                "expanded": false
+                ]
               }
-            ],
-            "expanded": false
+            ]
           },
           {
-            "topic": "探测器",
-            "id": "71a721eeee1d6a7a",
+            "topic": "A-2.2 探测器",
+            "id": "a005be03bf5bf523",
             "children": [
               {
-                "topic": "按照载流子类型分类",
-                "id": "767192d2ae0e5c50",
+                "topic": "A-2.2.1 按照探测介质分类",
+                "id": "a005deb9d49fd625",
                 "children": [
                   {
-                    "topic": "气体探测器",
-                    "id": "76719991c8ab8225",
+                    "topic": "A-2.2.1.1 气体探测器",
+                    "id": "a005e08e2b57e1d9",
                     "children": [
                       {
-                        "topic": "气体中离子和电子的运动规律",
-                        "id": "76719e578378e8f3"
+                        "topic": "A-2.2.1.1.1 工作气体的需求",
+                        "id": "a005e597d39a541b"
                       },
                       {
-                        "topic": "电离室",
-                        "id": "7671a05365d4b20c"
+                        "topic": "A-2.2.1.1.2 气体中离子和电子的运动规律",
+                        "id": "a005e688ac8f271c",
+                        "children": [
+                          {
+                            "topic": "[1],[3]",
+                            "id": "a005e75e79d64b8d"
+                          }
+                        ]
                       },
                       {
-                        "topic": "正比计数器",
-                        "id": "7671a2057d9e2131"
-                      },
-                      {
-                        "topic": "G-M管",
-                        "id": "7671a2dcc07d2f50"
+                        "topic": "A-2.2.1.1.3 气体探测器类型",
+                        "id": "a005e87c6b8e8cdd",
+                        "children": [
+                          {
+                            "topic": "A-2.2.1.1.3.1 电离室",
+                            "id": "a005e93f754699ae"
+                          },
+                          {
+                            "topic": "A-2.2.1.1.3.2 正比计数器",
+                            "id": "a005e98a1f724da3"
+                          },
+                          {
+                            "topic": "A-2.2.1.1.3.3 G-M管",
+                            "id": "a005eb4bf76bd5fa"
+                          },
+                          {
+                            "topic": "A-2.2.1.1.3.4 RPC/MRPC",
+                            "id": "a005ecf2bbeec087",
+                            "children": [
+                              {
+                                "topic": "[2]",
+                                "id": "a005edab10800c58"
+                              }
+                            ]
+                          },
+                          {
+                            "topic": "......",
+                            "id": "a005eeae05b44d7d"
+                          },
+                          {
+                            "topic": "[1],[3]",
+                            "id": "a005ef75dbf77add"
+                          }
+                        ]
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "闪烁体探测器",
-                    "id": "76719a6b696d7b8b",
+                    "topic": "A-2.2.1.2 闪烁体探测器",
+                    "id": "a005e178b9ae3123",
                     "children": [
                       {
-                        "topic": "闪烁体探测器组成与工作原理",
-                        "id": "76719f0e30e2071d"
-                      },
-                      {
-                        "topic": "闪烁体材料",
-                        "id": "7671a6b59cb283a2",
+                        "topic": "A-2.2.1.2.1 闪烁体探测器组成与工作原理",
+                        "id": "a005f14193dcc27b",
                         "children": [
                           {
-                            "topic": "闪烁体材料的分类",
-                            "id": "7671aa4a6762fd39"
-                          },
-                          {
-                            "topic": "闪烁体的发光原理",
-                            "id": "7671ab5c03181a30"
+                            "topic": "[1]",
+                            "id": "a005f226d9c1b783"
                           }
-                        ],
-                        "expanded": false
+                        ]
                       },
                       {
-                        "topic": "光电转换和倍增器件",
-                        "id": "7671a7f6e78aa816",
-                        "children": [
-                          {
-                            "topic": "PMT",
-                            "id": "7671ac1a87332906"
-                          },
-                          {
-                            "topic": "APD",
-                            "id": "7671ad07c1e21eeb"
-                          },
-                          {
-                            "topic": "MPPC",
-                            "id": "7671ade28b5f51db"
-                          }
-                        ],
-                        "expanded": false
-                      },
-                      {
-                        "topic": "闪烁体探测器的输出信号",
-                        "id": "7671a8cedc7788ee",
-                        "children": [
-                          {
-                            "topic": "电流模式",
-                            "id": "7671ae9f152419ff"
-                          },
-                          {
-                            "topic": "电压模式",
-                            "id": "7671af5bf36c68da"
-                          }
-                        ],
-                        "expanded": false
+                        "topic": "A-2.2.1.2.2 闪烁体探测器的输出信号",
+                        "id": "a005f2f8985bbac4"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "半导体探测器",
-                    "id": "76719b30b7828d4c",
+                    "topic": "A-2.2.1.3 半导体探测器",
+                    "id": "a005e28d6eabde78",
                     "children": [
                       {
-                        "topic": "半导体材料概述",
-                        "id": "7671b2d87c5b9f34"
+                        "topic": "A-2.2.1.3.1 半导体材料概述",
+                        "id": "a005f3fdc0b65dc2"
                       },
                       {
-                        "topic": "本征半导体",
-                        "id": "7671b3b34074c0de",
+                        "topic": "A-2.2.1.3.2 本征半导体",
+                        "id": "a005f44b60b02ab0"
+                      },
+                      {
+                        "topic": "A-2.2.1.3.3 PN结探测器",
+                        "id": "a005f618983667d0"
+                      },
+                      {
+                        "topic": "A-2.2.1.3.4 PIN结探测器",
+                        "id": "a005f6ee8bbd78c6"
+                      },
+                      {
+                        "topic": "A-2.2.1.3.5 其他半导体探测器",
+                        "id": "a005f79bba91fcd2",
                         "children": [
                           {
-                            "topic": "室温半导体",
-                            "id": "7671b46a739db73f"
+                            "topic": "[5]",
+                            "id": "a005f9634a8db4d7"
                           }
-                        ],
-                        "expanded": false
+                        ]
                       },
                       {
-                        "topic": "PN结探测器",
-                        "id": "7671b5642831fff7",
-                        "children": [
-                          {
-                            "topic": "Si",
-                            "id": "7671b670f5520afd"
-                          },
-                          {
-                            "topic": "HPGe",
-                            "id": "7671b73962521e5e"
-                          }
-                        ],
-                        "expanded": false
-                      },
-                      {
-                        "topic": "PIN结探测器",
-                        "id": "7671b83d51ae9e2d",
-                        "children": [
-                          {
-                            "topic": "Si PIN",
-                            "id": "7671bb36b079b9e7"
-                          },
-                          {
-                            "topic": "Ge PIN",
-                            "id": "7671bc62e638010f"
-                          }
-                        ],
-                        "expanded": false
-                      },
-                      {
-                        "topic": "其他半导体探测器",
-                        "id": "7671bdce108937cd"
-                      },
-                      {
-                        "topic": "异质结",
-                        "id": "7671bea66ce05ff4"
+                        "topic": "A-2.2.1.3.6 异质结",
+                        "id": "a005facc2ddb82bb"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "其他探测器",
-                    "id": "76719bf06d023ae7",
+                    "topic": "A-2.2.1.4 其他探测器",
+                    "id": "a005e38a9f384110",
                     "children": [
                       {
                         "topic": "MCP",
-                        "id": "7671d29e66c74035"
+                        "id": "a005fbf1a84c825e",
+                        "children": [
+                          {
+                            "topic": "[6]",
+                            "id": "a005fd0e870c4845"
+                          }
+                        ]
                       },
                       {
                         "topic": "核乳胶",
-                        "id": "7671d3c0320f2e70"
+                        "id": "a005fe301b434be8"
                       },
                       {
                         "topic": "云室",
-                        "id": "7671d48828153f19"
+                        "id": "a005ff416750d6d6"
                       },
                       {
                         "topic": "bubble detector",
-                        "id": "7671d53ad98d9da7"
+                        "id": "a00600d2883efd68"
                       },
                       {
                         "topic": "刻蚀树脂探测器",
-                        "id": "7671d5ecbba00b14"
+                        "id": "a006019363f61e3f"
                       },
                       {
                         "topic": "火花室",
-                        "id": "7671d6977de843bf"
+                        "id": "a0060250e7f23adc"
                       },
                       {
                         "topic": "......",
-                        "id": "7671d7502157adae"
+                        "id": "a0060314cf1e5ad6"
                       }
-                    ],
-                    "expanded": false
+                    ]
+                  },
+                  {
+                    "topic": "[1],[3]",
+                    "id": "a005e457216cb501"
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "按应用分类",
-                "id": "767193ce1427f542",
+                "topic": "A-2.2.2 按测量对象分类",
+                "id": "a005df9b835d07a8",
                 "children": [
                   {
-                    "topic": "带电粒子探测器",
-                    "id": "7671de08006b5f9f",
-                    "children": [
-                      {
-                        "topic": "气体探测器",
-                        "id": "7671e2289930d5e1"
-                      },
-                      {
-                        "topic": "半导体探测器",
-                        "id": "7671e2e1073783a1"
-                      },
-                      {
-                        "topic": "闪烁体探测器",
-                        "id": "7671e3dcf1d04edf",
-                        "children": [
-                          {
-                            "topic": "粒子甄别技术",
-                            "id": "7671e4dcd1ebb88e"
-                          }
-                        ],
-                        "expanded": false
-                      }
-                    ],
-                    "expanded": false
+                    "topic": "A-2.2.2.1 带电粒子探测器",
+                    "id": "a006049daa8367e4"
                   },
                   {
-                    "topic": "伽马探测器",
-                    "id": "7671e00177020bd3",
-                    "children": [
-                      {
-                        "topic": "气体探测器",
-                        "id": "7671e69dd717f74e"
-                      },
-                      {
-                        "topic": "半导体探测器",
-                        "id": "7671e767c973363f"
-                      },
-                      {
-                        "topic": "闪烁体探测器",
-                        "id": "7671e8736363b35a"
-                      }
-                    ],
-                    "expanded": false
+                    "topic": "A-2.2.2.2 伽马探测器",
+                    "id": "a006058fe8c37b1a"
                   },
                   {
-                    "topic": "中子探测器",
-                    "id": "7671e0faeef0c613",
+                    "topic": "A-2.2.2.3 中子探测器",
+                    "id": "a00606a189d96ed7",
                     "children": [
                       {
-                        "topic": "反应类型",
-                        "id": "7671ebe135898eff",
-                        "children": [
-                          {
-                            "topic": "核反冲法",
-                            "id": "7671edf3481c4fa1",
-                            "children": [
-                              {
-                                "topic": "闪烁体探测器",
-                                "id": "7671efb5428f7d6f"
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "核反应法(n,c)",
-                            "id": "7671f100d4fdc0bc",
-                            "children": [
-                              {
-                                "topic": "3He",
-                                "id": "7671f1d44c0bcfb4"
-                              },
-                              {
-                                "topic": "10B",
-                                "id": "7671f2922c85ace8"
-                              },
-                              {
-                                "topic": "Gd",
-                                "id": "7671f356c1182243"
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "核裂变法(n,f)",
-                            "id": "7671f5e9a3c62fbc",
-                            "children": [
-                              {
-                                "topic": "涂铀裂变电离室",
-                                "id": "7671f6ae3dc91ffe"
-                              }
-                            ],
-                            "expanded": false
-                          },
-                          {
-                            "topic": "核活化法",
-                            "id": "7671f853871a6d92",
-                            "children": [
-                              {
-                                "topic": "活化片标定",
-                                "id": "7671f90893f05612"
-                              },
-                              {
-                                "topic": "自给能探测器",
-                                "id": "7671f9e6efb9b196"
-                              }
-                            ],
-                            "expanded": false
-                          }
-                        ],
-                        "expanded": false
+                        "topic": "[1]",
+                        "id": "a00606e4f4c157cb"
                       },
                       {
-                        "topic": "应用场景",
-                        "id": "7671ece64d60f4d7",
-                        "children": [
-                          {
-                            "topic": "热中子",
-                            "id": "7672168b91abea1b",
-                            "children": []
-                          },
-                          {
-                            "topic": "快中子",
-                            "id": "767217f605310edc"
-                          },
-                          {
-                            "topic": "注量率",
-                            "id": "767218cce795a95e"
-                          },
-                          {
-                            "topic": "能谱",
-                            "id": "76721992ad271bff",
-                            "children": [
-                              {
-                                "topic": "飞行时间法",
-                                "id": "76721a4164a046fc"
-                              }
-                            ],
-                            "expanded": false
-                          }
-                        ],
-                        "expanded": false
+                        "topic": ".",
+                        "id": "a00608c0ed1c4880",
+                        "image": {
+                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/中子探测.png",
+                          "width": 394,
+                          "height": 117
+                        }
                       }
-                    ],
-                    "expanded": false
+                    ]
                   }
-                ],
-                "expanded": false
+                ]
               }
-            ],
-            "expanded": false
+            ]
           },
           {
-            "topic": "核辐射测量方法",
-            "id": "71a722afec94a51e",
+            "topic": "A-2.3 核辐射测量方法",
+            "id": "a005bf2817fbdb84",
             "children": [
               {
-                "topic": "活度测量",
-                "id": "76724b24a3552ab5",
+                "topic": "A-2.3.1 活度测量",
+                "id": "a0060b72900106b3",
                 "children": [
                   {
                     "topic": "影响活度测量的几个因素",
-                    "id": "7672623e2db23c33"
+                    "id": "a0061083146bd746"
                   },
                   {
                     "topic": "测量装置的FOM因子",
-                    "id": "76726358a19c61da"
+                    "id": "a006115993caf8be"
                   },
                   {
                     "topic": "探测限",
-                    "id": "7672640b036efd1e"
-                  },
-                  {
-                    "topic": "α测量",
-                    "id": "767264b40c933bdc"
-                  },
-                  {
-                    "topic": "β测量",
-                    "id": "767265561d9dc124"
-                  },
-                  {
-                    "topic": "γ测量",
-                    "id": "7672660063186724"
+                    "id": "a006120f03465bc9"
                   },
                   {
                     "topic": "低水平测量",
-                    "id": "767266a80373c05b"
+                    "id": "a00612c2327d4745"
+                  },
+                  {
+                    "topic": "不同放射性的活度测量",
+                    "id": "a0061364b0d6bf23"
+                  },
+                  {
+                    "topic": "[7]",
+                    "id": "a006141cd46a056d"
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "符合方法",
-                "id": "76725f8a65ea5510",
+                "topic": "A-2.3.2 符合方法",
+                "id": "a0060bc3d802092a",
                 "children": [
                   {
-                    "topic": "时间符合",
-                    "id": "7672679309f63db3"
+                    "topic": "符合分类",
+                    "id": "a0061dbf00355716"
                   },
                   {
-                    "topic": "能量符合",
-                    "id": "76726861ef29a2eb"
+                    "topic": "物理瞬时符合曲线",
+                    "id": "a0061e830dfd9005"
                   },
                   {
-                    "topic": "角度符合",
-                    "id": "76726900d3da11ca"
+                    "topic": "真偶符合比",
+                    "id": "a0061f28f3c3d1bc"
                   },
                   {
-                    "topic": "反符合",
-                    "id": "767269bc5d2d1ac3"
+                    "topic": "[8]",
+                    "id": "a0061fd3373f1e52"
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "能谱测量",
-                "id": "767260424509c8c7",
+                "topic": "A-2.3.3 能谱测量",
+                "id": "a0060de476acbcbd",
                 "children": [
                   {
-                    "topic": "带电粒子能量测量",
-                    "id": "76726b3037c10512",
+                    "topic": "A-2.3.3.1 刻度",
+                    "id": "a00620f1c0ee3e88",
                     "children": [
                       {
-                        "topic": "射程法",
-                        "id": "767271beb3a32890"
+                        "topic": "能量刻度",
+                        "id": "a00622e3be3c86bf"
                       },
                       {
-                        "topic": "磁偏转法",
-                        "id": "767272ed76b4a61f"
+                        "topic": "效率刻度",
+                        "id": "a00623c136e039f3"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "γ射线测量以及γ谱学",
-                    "id": "76726e2b413df977",
+                    "topic": "A-2.3.3.2 带电粒子能量测量",
+                    "id": "a0062136813d5fad"
+                  },
+                  {
+                    "topic": "A-2.3.3.3 γ射线测量以及γ谱学",
+                    "id": "a006250c319344f2",
                     "children": [
                       {
                         "topic": "γ谱的构成",
-                        "id": "76727419bbecafbd",
-                        "children": [
-                          {
-                            "topic": "全能峰",
-                            "id": "7672757f41fbb662"
-                          },
-                          {
-                            "topic": "光点峰",
-                            "id": "7672763f17cb077a"
-                          },
-                          {
-                            "topic": "康普顿沿与康普顿坪",
-                            "id": "767276ee0a830f59"
-                          },
-                          {
-                            "topic": "单逃/双逃峰",
-                            "id": "7672778946d13b17"
-                          },
-                          {
-                            "topic": "反散射峰",
-                            "id": "7672782c347fcc70"
-                          },
-                          {
-                            "topic": "511峰",
-                            "id": "767278dc5ebd3478"
-                          }
-                        ],
-                        "expanded": false
+                        "id": "a00625bccd0fa4b4"
                       },
                       {
                         "topic": "解谱方法",
-                        "id": "767274d28b27642c",
-                        "children": [
-                          {
-                            "topic": "剥谱法",
-                            "id": "767279b6a262ed11"
-                          },
-                          {
-                            "topic": "逆矩阵法",
-                            "id": "76727a5e95b3b912"
-                          }
-                        ],
-                        "expanded": false
+                        "id": "a00626746620fd95"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "中子能量测量",
-                    "id": "76726fceaad1d078",
+                    "topic": "A-2.3.3.4 中子能量测量",
+                    "id": "a0062750847f937e",
                     "children": [
                       {
                         "topic": "反冲法",
-                        "id": "76727b1e8fbf2c30"
+                        "id": "a00627e5a2ac0ca1"
                       },
                       {
                         "topic": "飞行时间法",
-                        "id": "76727bcf29896d87"
+                        "id": "a006283315545407"
+                      },
+                      {
+                        "topic": "[9]",
+                        "id": "a0062a3982a0c4ea"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   }
-                ],
-                "expanded": false
+                ]
               },
               {
-                "topic": "辐射成像",
-                "id": "767260f7a1108bc3",
+                "topic": "A-2.3.4 辐射成像",
+                "id": "a0060eafcffdaf82",
                 "children": [
                   {
-                    "topic": "测量对象",
-                    "id": "76727e8b46996ac1",
+                    "topic": "A-2.3.4.1 测量对象",
+                    "id": "a0062b5ea914395d",
                     "children": [
                       {
                         "topic": "中子",
-                        "id": "76728093cb535481",
-                        "children": [
-                          {
-                            "topic": "中子透射成像",
-                            "id": "767284b0d601f46b"
-                          },
-                          {
-                            "topic": "NSECT（俘获光子）",
-                            "id": "767285636aa15804"
-                          },
-                          {
-                            "topic": "中子光学",
-                            "id": "7672860d1dfc6642"
-                          }
-                        ],
-                        "expanded": false
+                        "id": "a0062db47632afd5"
                       },
                       {
                         "topic": "X/γ",
-                        "id": "767281cefd1dd196",
-                        "children": [
-                          {
-                            "topic": "透射成像",
-                            "id": "767286a7758e7ac5"
-                          },
-                          {
-                            "topic": "反散射",
-                            "id": "767287452d52ef6a"
-                          },
-                          {
-                            "topic": "X射线光学",
-                            "id": "767287e14dbc006a"
-                          }
-                        ],
-                        "expanded": false
+                        "id": "a0062ebf61318b4d"
                       },
                       {
                         "topic": "缪子",
-                        "id": "76728402fe993171",
-                        "children": [
-                          {
-                            "topic": "缪子成像",
-                            "id": "7672887a71858022"
-                          }
-                        ],
-                        "expanded": false
+                        "id": "a0062fb3949afba7"
                       },
                       {
                         "topic": "电子",
-                        "id": "76728a155dc29d83",
-                        "children": [
-                          {
-                            "topic": "SEM(二级电子)",
-                            "id": "76728c15bfa1f8c7"
-                          },
-                          {
-                            "topic": "TEM（透射电子）",
-                            "id": "76728d88b1b00267"
-                          },
-                          {
-                            "topic": "反散射电子",
-                            "id": "76728e3518c72e8d"
-                          },
-                          {
-                            "topic": "EDS（电子激发X射线）",
-                            "id": "76728ed4f7e2345d"
-                          }
-                        ],
-                        "expanded": false
+                        "id": "a00630937f71ac95"
                       }
-                    ],
-                    "expanded": false
+                    ]
                   },
                   {
-                    "topic": "成像方法",
-                    "id": "76727f58cd3fd3a4",
-                    "children": [
-                      {
-                        "topic": "二维成像",
-                        "id": "76728f86f0d1541f"
-                      },
-                      {
-                        "topic": "CT",
-                        "id": "767290583ac2eadb"
-                      }
-                    ],
-                    "expanded": false
+                    "topic": "A-2.3.4.2 成像方法",
+                    "id": "a0062c62cd394d6d"
                   }
-                ],
-                "expanded": false
+                ]
+              },
+              {
+                "topic": "[1],[3]",
+                "id": "a0060f6be8b7a123"
               }
-            ],
-            "expanded": false
+            ]
           }
-        ],
-        "expanded": false
+        ]
       }
     ]
   },
   "arrows": [
     {
-      "id": "767222af56b1d95e",
-      "label": " ",
-      "from": "7671edf3481c4fa1",
-      "to": "76721992ad271bff",
+      "id": "a006169cef67c397",
+      "label": "·",
+      "from": "a006120f03465bc9",
+      "to": "a00612c2327d4745",
       "delta1": {
-        "x": -445,
-        "y": 28
+        "x": 125.5,
+        "y": 0
       },
       "delta2": {
-        "x": -528,
-        "y": -34
-      }
-    },
-    {
-      "id": "76722d6d4b7aaad2",
-      "label": " ",
-      "from": "7671edf3481c4fa1",
-      "to": "767217f605310edc",
-      "delta1": {
-        "x": -392,
-        "y": 46
-      },
-      "delta2": {
-        "x": -501,
-        "y": -2
-      }
-    },
-    {
-      "id": "76723366cdfc1a20",
-      "label": " ",
-      "from": "7671f100d4fdc0bc",
-      "to": "767218cce795a95e",
-      "delta1": {
-        "x": -323,
-        "y": 11
-      },
-      "delta2": {
-        "x": -447,
-        "y": -9
-      }
-    },
-    {
-      "id": "767237aed7245f63",
-      "label": " ",
-      "from": "7671f5e9a3c62fbc",
-      "to": "767218cce795a95e",
-      "delta1": {
-        "x": -288,
-        "y": 6
-      },
-      "delta2": {
-        "x": -420,
-        "y": -27
-      }
-    },
-    {
-      "id": "76723c350ef8e3e8",
-      "label": " ",
-      "from": "7671f853871a6d92",
-      "to": "767218cce795a95e",
-      "delta1": {
-        "x": -223,
-        "y": -31
-      },
-      "delta2": {
-        "x": -403,
-        "y": -42
+        "x": 140.5,
+        "y": 0
       }
     }
   ],
   "summaries": [],
-  "direction": 2,
+  "direction": 1,
   "theme": {
     "name": "Latte",
     "type": "light",
