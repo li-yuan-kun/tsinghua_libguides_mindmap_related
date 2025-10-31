@@ -25,8 +25,9 @@
                     "id": "a0057087f2ecc4cb",
                     "children": [
                       {
-                        "topic": "[1]",
-                        "id": "a00575b1b2d095b2"
+                        "topic": "期刊[1] Drell S D. Nuclear radius and nuclear forces[J]. Physical Review, 1955, 100(1): 97.",
+                        "id": "a00575b1b2d095b2",
+                        "hyperLink": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.100.97"
                       }
                     ]
                   },
@@ -61,8 +62,14 @@
                     "id": "a0057853ec873675",
                     "children": [
                       {
-                        "topic": "[2],[3]",
-                        "id": "a005794dffef79c3"
+                        "topic": "期刊[2] Mayer, M., 1949, Phys. Rev. 75, 1969.",
+                        "id": "a005794dffef79c3",
+                        "hyperLink": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.75.1969"
+                      },
+                      {
+                        "topic": "期刊[3] Axel, O., J. H. D. Jensen, and H. E. Suess, 1949, Phys. Rev. 75, 1766.",
+                        "id": "a38dad1fc220f126",
+                        "hyperLink": "https://journals.aps.org/pr/abstract/10.1103/PhysRev.75.1766.2"
                       }
                     ]
                   },
@@ -71,8 +78,9 @@
                     "id": "a0057a458351b880",
                     "children": [
                       {
-                        "topic": "[4]",
-                        "id": "a0057b227abe988c"
+                        "topic": "期刊[4] Peierls R E, Yoccoz J. The collective model of nuclear motion[J]. Proceedings of the Physical Society. Section A, 1957, 70(5): 381.",
+                        "id": "a0057b227abe988c",
+                        "hyperLink": "https://iopscience.iop.org/article/10.1088/0370-1298/70/5/309"
                       }
                     ]
                   },
@@ -81,8 +89,9 @@
                     "id": "a0057beedcf82caa",
                     "children": [
                       {
-                        "topic": "[7]",
-                        "id": "a0057ce6b74ffcc2"
+                        "topic": "教材/图书[7] Greiner W, Maruhn J A. Nuclear models[M]. Berlin: Springer-Verlag, 1996.",
+                        "id": "a0057ce6b74ffcc2",
+                        "hyperLink": "https://link.springer.com/book/10.1007/978-3-642-60970-1"
                       }
                     ]
                   },
@@ -91,16 +100,28 @@
                     "id": "a0057e0935bc993c",
                     "children": [
                       {
-                        "topic": "[5],[6]",
-                        "id": "a0057ed14c56895d"
+                        "topic": "期刊[5] H. Bethe and R. Backer, Rev. Mod. Phys. 8, 82 (1936).",
+                        "id": "a0057ed14c56895d",
+                        "hyperLink": "https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.8.82"
+                      },
+                      {
+                        "topic": "期刊[6] C. von Weiszäcker, Z. Phys. 96, 431 (1935).",
+                        "id": "a38dccb041b6bbb3",
+                        "hyperLink": "https://link.springer.com/article/10.1007/BF01337700"
                       }
                     ]
                   }
                 ]
               },
               {
-                "topic": "[i] ,[2]",
-                "id": "a0056e4cbb2b8ff1"
+                "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                "id": "a0056e4cbb2b8ff1",
+                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+              },
+              {
+                "topic": "教材/图书[2]Krane K S. Introductory nuclear physics[M]. John Wiley & Sons, 1991.",
+                "id": "a38de70cf6bd16d5",
+                "hyperLink": "https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533"
               }
             ]
           },
@@ -137,8 +158,14 @@
                     "id": "a0058d5ad5eed2b2"
                   },
                   {
-                    "topic": "[1], [2]",
-                    "id": "a0058e256e4d6268"
+                    "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                    "id": "a0058e256e4d6268",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                  },
+                  {
+                    "topic": "教材/图书[2]Krane K S. Introductory nuclear physics[M]. John Wiley & Sons, 1991.",
+                    "id": "a38ddd5c1dfa6adc",
+                    "hyperLink": "https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533"
                   }
                 ]
               },
@@ -181,8 +208,9 @@
                         "id": "a00598205e048c26",
                         "children": [
                           {
-                            "topic": "[19]",
-                            "id": "a005991bcd2ab533"
+                            "topic": "期刊[19] Wilson F L. Fermi’s theory of beta decay[J]. American Journal of Physics, 1968, 36(12): 1150-1160.",
+                            "id": "a005991bcd2ab533",
+                            "hyperLink": "https://pubs.aip.org/aapt/ajp/article-abstract/36/12/1150/1047952/Fermi-s-Theory-of-Beta-Decay?redirectedFrom=fulltext"
                           }
                         ]
                       }
@@ -229,8 +257,14 @@
                     ]
                   },
                   {
-                    "topic": "[1],[2]",
-                    "id": "a00593376208663a"
+                    "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                    "id": "a00593376208663a",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                  },
+                  {
+                    "topic": "教材/图书[2]Krane K S. Introductory nuclear physics[M]. John Wiley & Sons, 1991.",
+                    "id": "a38df642a16d10bf",
+                    "hyperLink": "https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533"
                   }
                 ]
               }
@@ -267,8 +301,15 @@
                     "id": "a005aa25bdc7e268"
                   },
                   {
-                    "topic": "[1],[2]",
-                    "id": "a005aaf01b0a74a7"
+                    "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                    "id": "a005aaf01b0a74a7",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                  },
+                  {
+                    "topic": "教材/图书[2]Krane K S. Introductory nuclear physics[M]. John Wiley & Sons, 1991.",
+                    "id": "a38e007832348e96",
+                    "children": [],
+                    "hyperLink": "https://www.wiley.com/en-us/Introductory+Nuclear+Physics%2C+3rd+Edition-p-9780471805533"
                   }
                 ]
               },
@@ -295,8 +336,14 @@
                     ]
                   },
                   {
-                    "topic": "[1],[3]",
-                    "id": "a005b2299b96a96a"
+                    "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                    "id": "a005b2299b96a96a",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                  },
+                  {
+                    "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "a38e09a7794dd51a",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
                   }
                 ]
               },
@@ -362,8 +409,15 @@
                     "id": "a005cf9e14ec3a88"
                   },
                   {
-                    "topic": "[1],[3]",
-                    "id": "a005d072b6c01fed"
+                    "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                    "id": "a005d072b6c01fed",
+                    "children": [],
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                  },
+                  {
+                    "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "a38e147df757ebd7",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
                   }
                 ]
               },
@@ -408,8 +462,15 @@
                         "id": "a005dbc6f5f96767"
                       },
                       {
-                        "topic": "[1],[3]",
-                        "id": "a005dc8d63c8175a"
+                        "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                        "id": "a38e9122d4c2577d",
+                        "children": [],
+                        "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                      },
+                      {
+                        "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                        "id": "a38e921b9f0ea137",
+                        "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
                       }
                     ]
                   }
@@ -438,8 +499,15 @@
                         "id": "a005e688ac8f271c",
                         "children": [
                           {
-                            "topic": "[1],[3]",
-                            "id": "a005e75e79d64b8d"
+                            "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                            "id": "a38e97544e38be0b",
+                            "children": [],
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                          },
+                          {
+                            "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                            "id": "a38e97a804ae6b4b",
+                            "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
                           }
                         ]
                       },
@@ -464,8 +532,9 @@
                             "id": "a005ecf2bbeec087",
                             "children": [
                               {
-                                "topic": "[2]",
-                                "id": "a005edab10800c58"
+                                "topic": "学位论文[2] SoLID高时间分辨率MRPC探测器关键技术研究. 王扶月",
+                                "id": "a005edab10800c58",
+                                "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=263983"
                               }
                             ]
                           },
@@ -474,8 +543,15 @@
                             "id": "a005eeae05b44d7d"
                           },
                           {
-                            "topic": "[1],[3]",
-                            "id": "a005ef75dbf77add"
+                            "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                            "id": "a38e997e5da1168e",
+                            "children": [],
+                            "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                          },
+                          {
+                            "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                            "id": "a38e99f8a5bf1599",
+                            "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
                           }
                         ]
                       }
@@ -490,8 +566,10 @@
                         "id": "a005f14193dcc27b",
                         "children": [
                           {
-                            "topic": "[1]",
-                            "id": "a005f226d9c1b783"
+                            "topic": "学位论文[1] 基于精确点源响应的液体闪烁体探测器事例重建研究. 窦威",
+                            "id": "a005f226d9c1b783",
+                            "children": [],
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=281189"
                           }
                         ]
                       },
@@ -526,8 +604,9 @@
                         "id": "a005f79bba91fcd2",
                         "children": [
                           {
-                            "topic": "[5]",
-                            "id": "a005f9634a8db4d7"
+                            "topic": "学位论文[5] 三维位置灵敏碲锌镉探测器的伽马事例重建研究. 杨剑",
+                            "id": "a005f9634a8db4d7",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=270067"
                           }
                         ]
                       },
@@ -546,8 +625,9 @@
                         "id": "a005fbf1a84c825e",
                         "children": [
                           {
-                            "topic": "[6]",
-                            "id": "a005fd0e870c4845"
+                            "topic": "学位论文[6] 中子灵敏微通道板探测系统的优化. 刘强威",
+                            "id": "a005fd0e870c4845",
+                            "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=248067"
                           }
                         ]
                       },
@@ -578,8 +658,15 @@
                     ]
                   },
                   {
-                    "topic": "[1],[3]",
-                    "id": "a005e457216cb501"
+                    "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                    "id": "a38ea442ff55b5ae",
+                    "children": [],
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+                  },
+                  {
+                    "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "a38ea5d5993a59c7",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
                   }
                 ]
               },
@@ -600,8 +687,10 @@
                     "id": "a00606a189d96ed7",
                     "children": [
                       {
-                        "topic": "[1]",
-                        "id": "a00606e4f4c157cb"
+                        "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                        "id": "a38ea81f5d345176",
+                        "children": [],
+                        "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
                       },
                       {
                         "topic": ".",
@@ -647,8 +736,9 @@
                     "id": "a0061364b0d6bf23"
                   },
                   {
-                    "topic": "[7]",
-                    "id": "a006141cd46a056d"
+                    "topic": "学位论文[7] 4πβ+4πγ计数相加法同时测量182Ta活度和γ射线发射几率. 张小林",
+                    "id": "a006141cd46a056d",
+                    "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=146836"
                   }
                 ]
               },
@@ -669,8 +759,9 @@
                     "id": "a0061f28f3c3d1bc"
                   },
                   {
-                    "topic": "[8]",
-                    "id": "a0061fd3373f1e52"
+                    "topic": "学位论文[8] 级联伽马光子符合成像研究. 刘潇",
+                    "id": "a0061fd3373f1e52",
+                    "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=278868"
                   }
                 ]
               },
@@ -723,8 +814,9 @@
                         "id": "a006283315545407"
                       },
                       {
-                        "topic": "[9]",
-                        "id": "a0062a3982a0c4ea"
+                        "topic": "学位论文[9] 用于脉冲中子能谱测量的质子束光学成像方法研究. 刘金良",
+                        "id": "a0062a3982a0c4ea",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=210245"
                       }
                     ]
                   }
@@ -763,8 +855,15 @@
                 ]
               },
               {
-                "topic": "[1],[3]",
-                "id": "a0060f6be8b7a123"
+                "topic": "教材/图书[1] 陈伯显 核辐射物理及探测学[M]. 哈尔滨: 哈尔滨工程大学, 2011.",
+                "id": "a38eb11ee467c760",
+                "children": [],
+                "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
+              },
+              {
+                "topic": "教材/图书[3] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                "id": "a38eb293e9576600",
+                "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
               }
             ]
           }
