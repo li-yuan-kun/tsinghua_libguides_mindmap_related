@@ -330,13 +330,8 @@
                     "id": "a005b0cf98e9f502",
                     "children": [
                       {
-                        "topic": ".",
                         "id": "a005c7cf90ccb5cc",
-                        "image": {
-                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/Q方程.png",
-                          "width": 465,
-                          "height": 61
-                        }
+                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/Q方程.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
                       }
                     ]
                   },
@@ -393,13 +388,8 @@
                 "id": "a005c042745e8779",
                 "children": [
                   {
-                    "topic": ".",
                     "id": "a005c25f4e796374",
-                    "image": {
-                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/数学基础.png",
-                      "width": 299,
-                      "height": 161
-                    }
+                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/数学基础.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
                   },
                   {
                     "topic": "误差传递",
@@ -698,13 +688,8 @@
                         "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F53DC75700E065000000000001"
                       },
                       {
-                        "topic": ".",
                         "id": "a00608c0ed1c4880",
-                        "image": {
-                          "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/中子探测.png",
-                          "width": 394,
-                          "height": 117
-                        }
+                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/中子探测.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\" referrerpolicy=\"no-referrer\" decoding=\"async\" />"
                       }
                     ]
                   }
