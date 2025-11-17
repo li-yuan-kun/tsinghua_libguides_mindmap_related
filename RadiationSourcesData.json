@@ -1,0 +1,1026 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "C-射线源导论",
+    "children": [
+      {
+        "topic": "C-1 轻子源",
+        "id": "a47820052a70ebb1",
+        "children": [
+          {
+            "topic": "C-1.1 缪子源",
+            "id": "a4782876d1bdee94",
+            "children": [
+              {
+                "topic": "C-1.1.1 缪子的性质",
+                "id": "a4782b240c9b4edf"
+              },
+              {
+                "topic": "C-1.1.2 缪子的产生",
+                "id": "a4782c6531b549bf",
+                "children": [
+                  {
+                    "topic": "加速器产生",
+                    "id": "a4782d546f6f14a4",
+                    "children": [
+                      {
+                        "topic": "高能质子(如来自回旋加速器)打钯(如铍、碳和钨等)，产生 π介子（π⁺/π⁻）或K介子，其衰变产生缪子（μ⁻/μ⁺）",
+                        "id": "a4783009ae2c3bba",
+                        "children": [
+                          {
+                            "topic": "期刊[10] COOK S, D'ARCY R, et al. MuSIC: delivering the world's most intense muon beam[J]. Physical Review Accelerators and Beams, 2016, 19: 020101.",
+                            "id": "a4783b9bd687a79b",
+                            "hyperLink": "https://arxiv.org/pdf/1610.07850"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "激光等离子体加速产生GeV级电子束，电子\n轰击高Z靶（如铅）产生缪子",
+                        "id": "a478318e856b812e",
+                        "children": [
+                          {
+                            "topic": "期刊[8] ZHANG F, DENG L, GE Y, et al. Proof-of-principle demonstration of muon production with an ultrashort high-intensity laser[J]. Nature Physics, 2025.",
+                            "id": "a7db0663d9884c44",
+                            "hyperLink": "https://www.nature.com/articles/s41567-025-02872-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "宇宙射线产生",
+                    "id": "a4782e779c6c2b05",
+                    "children": [
+                      {
+                        "topic": "高能粒子（如电子或离子）轰击固体表面时，激发材料内部的电子并使其逃逸到真空中。",
+                        "id": "a7db09c687c8e2e2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "C-1.2 电子源",
+            "id": "a478299662cbbf93",
+            "children": [
+              {
+                "topic": "C-1.2.1 电子束流",
+                "id": "a7db0f407c58d424",
+                "children": [
+                  {
+                    "topic": "电子束流的产生",
+                    "id": "a7db10f780ce0ced",
+                    "children": [
+                      {
+                        "topic": "光电发射",
+                        "id": "a7db1535ffea160e",
+                        "children": [
+                          {
+                            "id": "a7fd1994be971fb7",
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/1.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "热发射",
+                        "id": "a7db16ef191f16ee",
+                        "children": [
+                          {
+                            "id": "a7fe94c50922a56d",
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/2.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">",
+                            "children": [
+                              {
+                                "topic": "期刊[13] DUSHMAN S. Electron Emission from Metals as a Function of Temperature[J]. New York: American Institute of Physics, 1923.",
+                                "id": "a7fea104d9bba7f3",
+                                "hyperLink": "https://journals.aps.org/pr/pdf/10.1103/PhysRev.21.623"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "场致发射",
+                        "id": "a7db17beb4f23e24",
+                        "children": [
+                          {
+                            "id": "a7fea7b37330f1a7",
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/3.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">",
+                            "children": [
+                              {
+                                "topic": "期刊[12] FOWLER R H, NORDHEIM L. Electron emission in intense electric fields[J]. Proceedings of the Royal Society of London. Series A, 1928, 119(781): 173-181.",
+                                "id": "a7feb4331d2a0faf",
+                                "hyperLink": "https://royalsocietypublishing.org/doi/epdf/10.1098/rspa.1928.0091"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "二次电子发射",
+                        "id": "a7db18aa959f2990",
+                        "children": [
+                          {
+                            "topic": "高能粒子（如电子或离子）轰击固体表面时，激发材料内部的电子并使其逃逸到真空中。",
+                            "id": "a7febb3457ca86b3",
+                            "children": [
+                              {
+                                "topic": "教材[8] BRÜNING H. Physics and Applications of Secondary Electron Emission[M]. Physics, 1954.",
+                                "id": "a7fec1cf084668e5",
+                                "hyperLink": "https://api.pageplace.de/preview/DT0400.9781483149875_A23873621/preview-9781483149875_A23873621.pdf"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "束流品质",
+                    "id": "a7db1288493a9cc7",
+                    "children": [
+                      {
+                        "topic": "发射度",
+                        "id": "a7fec90dc9ae834d",
+                        "children": [
+                          {
+                            "topic": "描述电子束在相空间（位置-角度空间）中的集中程度。",
+                            "id": "a7fec6c5f75efb11",
+                            "children": [
+                              {
+                                "id": "a7fecd3c650e4889",
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/4.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">",
+                                "children": [
+                                  {
+                                    "topic": "教材[5] 陈佳洱. 加速器物理基础[M]. 北京：北京大学出版社, 2012.",
+                                    "id": "a7fed32d828568ee",
+                                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F51E705700E065000000000001"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "束流强度",
+                        "id": "a7fecab79175bf5f",
+                        "children": [
+                          {
+                            "topic": "单位时间内通过截面的电荷量。",
+                            "id": "a7fedc09e4845f86",
+                            "children": [
+                              {
+                                "id": "a7fedd0446358440",
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/5.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "亮度",
+                        "id": "a7fecc12f0e0d330",
+                        "children": [
+                          {
+                            "topic": "表征电子源性能的核心参数，定义为  单位立体角、单位面积内通过的电流密度。",
+                            "id": "a7fee299bd2005df",
+                            "children": [
+                              {
+                                "id": "a7fee340c10ae674",
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/6.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "相互作用",
+                    "id": "a7db140d91e17d50",
+                    "children": [
+                      {
+                        "topic": "空间电荷效应",
+                        "id": "a7feea6010b913d9",
+                        "children": [
+                          {
+                            "topic": "高密度带电粒子束内部电荷产生的自生电场对束流运动的影响，是限制束流强度和品质的关键因素。",
+                            "id": "a7feedd91c08fd91"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "与外场的作用",
+                        "id": "a7feeb453d07c239",
+                        "children": [
+                          {
+                            "topic": "束流的加速",
+                            "id": "a7feeeaf4340eaed",
+                            "children": [
+                              {
+                                "topic": "静电场加速",
+                                "id": "a7fef1c756c241b7"
+                              },
+                              {
+                                "topic": "激光场加速",
+                                "id": "a7fef1fb42c7f754"
+                              },
+                              {
+                                "topic": "微波场加速",
+                                "id": "a7fef3c820460128"
+                              },
+                              {
+                                "topic": "尾场加速",
+                                "id": "a7fef480f68fc888"
+                              }
+                            ]
+                          },
+                          {
+                            "topic": "束流的约束与传输",
+                            "id": "a7feeee38e08bfc2",
+                            "children": [
+                              {
+                                "topic": "聚焦",
+                                "id": "a7fef581b9d2acde"
+                              },
+                              {
+                                "topic": "偏转",
+                                "id": "a7fef639a5f57175"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "智能体：射线仿真可视化工具\n(Radiation Simulation Visualization tool)",
+                        "id": "a7feecb5c9f09d48"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "C-1.2.2 电子加速器",
+                "id": "a7db10a32a03ba03",
+                "children": [
+                  {
+                    "topic": "直线加速器",
+                    "id": "a7fef894436e9b7e",
+                    "children": [
+                      {
+                        "topic": "漂移管直线加速器（DTL）",
+                        "id": "a7fefb08cb9ebd73",
+                        "children": [
+                          {
+                            "topic": "通过射频电场在加速间隙中提升粒子能量，同时利用漂移管屏蔽粒子在非加速相位时受反向电场的减速作用。",
+                            "id": "a7fefe0077da2f24",
+                            "children": [
+                              {
+                                "topic": "不可考[3] ALESINI D. Linear Accelerators[C] // Proceedings of the CERN Accelerator School: Advanced Accelerator Physics. Siena: CERN, 2019: 1-50.",
+                                "id": "a915a1176b41760c",
+                                "hyperLink": "https://arxiv.org/pdf/2103.16500v1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "驻波/行波加速管",
+                        "id": "a7fefb836201b6a0",
+                        "children": [
+                          {
+                            "topic": "利用微波场对加速相位上的束流进行加速。",
+                            "id": "a915a592020bf63a",
+                            "children": [
+                              {
+                                "topic": "教材[3] LEE S Y. Accelerator Physics[M]. 4th ed. Singapore: World Scientific Publishing, 2018.",
+                                "id": "a915ae8aec438faa",
+                                "hyperLink": "https://inspirehep.net/files/a550a6e6db93cdb545f642a502588ec3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "直线感应加速器",
+                        "id": "a7fefc6b9785e1bc",
+                        "children": [
+                          {
+                            "topic": "电子轨道内磁通量的变化产生涡旋加速场。",
+                            "id": "a915b8ed34792c34",
+                            "children": [
+                              {
+                                "topic": "不可考[1] BRIGGS R J. Linear Induction Accelerators[R]. Livermore: Lawrence Livermore National Laboratory, 1986.",
+                                "id": "a915bd3bd0ca6331",
+                                "hyperLink": "https://inis.iaea.org/records/rk6fa-3a003"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "回旋加速器",
+                    "id": "a7fef95c8bdda1da",
+                    "children": [
+                      {
+                        "topic": "电子回旋加速器",
+                        "id": "a915c2ad0356080f",
+                        "children": [
+                          {
+                            "topic": "通过变化磁场产生的涡旋电场加速电子，无需高频交变电场",
+                            "id": "a915c376527a9a23",
+                            "children": [
+                              {
+                                "topic": "教材[7] Radiation: Fundamentals, Applications, Risks, and Safety[M]. Amsterdam: Elsevier, 2019: 275-287.",
+                                "id": "a915cca50407deca",
+                                "hyperLink": "https://www.sciencedirect.com/book/9780444639790/radiation"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "同步加速器",
+                    "id": "a7fefa0299e2f542",
+                    "children": [
+                      {
+                        "topic": "强聚焦原理",
+                        "id": "a915d0fc27282922",
+                        "children": [
+                          {
+                            "topic": "交替使用  聚焦磁铁  和  散焦磁铁  。虽然单块磁铁聚焦力弱，但组合后净聚焦效果更强  ，显著减小束流振荡幅度和磁铁孔径。",
+                            "id": "a915d2ff0b06bd73",
+                            "children": [
+                              {
+                                "topic": "期刊[1] COURANT E D, LIVINGSTON M S, SNYDER H S. The Strong-Focusing Synchrotron—A New High Energy Accelerator[J]. Physical Review, 1952, 88(5): 1190–1196.",
+                                "id": "a915dfbd3b71f38b",
+                                "hyperLink": "https://journals.aps.org/pr/pdf/10.1103/PhysRev.88.1190"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "自动稳相原理",
+                        "id": "a915d20365c73e6d",
+                        "children": [
+                          {
+                            "topic": "同步粒子  （理想粒子）的相位被设定在加速电场的最优值，使其每圈获得固定能量增益。  非同步粒子  因初始能量或时间偏差，其相位会围绕同步粒子的相位振荡。",
+                            "id": "a915e33dcfa8047f",
+                            "children": [
+                              {
+                                "topic": "期刊[6] MCMILLAN E M. The Synchrotron—A Proposed High Energy Particle Accelerator[J]. Physical Review, 1945, 68(5-6): 143-144.",
+                                "id": "a915ec7593984eae",
+                                "hyperLink": "https://journals.aps.org/pr/pdf/10.1103/PhysRev.68.143"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "topic": "C-2 光子源",
+        "id": "a4782151915ec15d",
+        "direction": 1,
+        "children": [
+          {
+            "topic": "C-2.1 加速器X/𝛾光源",
+            "id": "a9160607c809c2e8",
+            "children": [
+              {
+                "topic": "X射线管",
+                "id": "a916080bafc8c1d0",
+                "children": [
+                  {
+                    "topic": "特征X射线",
+                    "id": "a9160d952a8d79be",
+                    "children": [
+                      {
+                        "topic": "电子激发原子退激时发射的特定能量X射线",
+                        "id": "a9160f83566834a5"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "轫致辐射",
+                    "id": "a9160e478e5156ba",
+                    "children": [
+                      {
+                        "topic": "高速电子骤然减速产生的辐射",
+                        "id": "a916104cd71f5afe",
+                        "children": [
+                          {
+                            "topic": "期刊[3] KRAMERS H A. On the theory of x-ray absorption and of the continuous x-ray spectrum[J]. Philosophical Magazine, 1923, 46(275): 836-871.",
+                            "id": "a916280a9c9910db",
+                            "hyperLink": "https://www.tandfonline.com/doi/abs/10.1080/14786442308565244"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "逆康普顿散射光源",
+                "id": "a9160a14b37cbe46",
+                "children": [
+                  {
+                    "id": "a916328ef5d12e5c",
+                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/7.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">",
+                    "children": [
+                      {
+                        "topic": "康普顿散射的逆过程/汤姆逊散射",
+                        "id": "a916357f5f3824ec",
+                        "children": [
+                          {
+                            "topic": "期刊[11] TANG C X, et al. Tsinghua Thomson scattering X-ray source[J]. Nuclear Instruments and Methods in Physics Research Section A, 2009, 608(1): S1-S3.",
+                            "id": "a9163abffca459ec",
+                            "hyperLink": "https://www.sciencedirect.com/science/article/pii/S0168900209009723"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "同步辐射光源",
+                "id": "a9160ae75883b248",
+                "children": [
+                  {
+                    "id": "a91640a944ec744e",
+                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/8.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">",
+                    "children": [
+                      {
+                        "topic": "电子在磁铁中偏转时产生的辐射",
+                        "id": "a916426321a8c073",
+                        "children": [
+                          {
+                            "topic": "期刊[7] SCHWINGER J. On Radiation by Electrons in a Betatron[J]. Physical Review, 1945, 68(5-6): 145.",
+                            "id": "a9164c19946bf822",
+                            "hyperLink": "https://www.classe.cornell.edu/~critten/cesrta/ecloud/doc/schwinger_1945.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "自由电子激光",
+                "id": "a9160ba96c592caf",
+                "children": [
+                  {
+                    "topic": "自由电子的电磁辐射，发出相干和可调的强光",
+                    "id": "a9165010f89aeeba",
+                    "children": [
+                      {
+                        "topic": "不可考[4] DESY XFEL Project Group. XFEL: The European X-Ray Free-Electron Laser, Technical Design Report[R]. Hamburg: DESY, 2006.",
+                        "id": "a916568ac5769b13",
+                        "hyperLink": "https://bib-pubdb1.desy.de/record/77248/files/european-xfel-tdr.pdf"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "稳态微聚束",
+                "id": "a9160c59e99add9a",
+                "children": [
+                  {
+                    "topic": "结合同步辐射和自由电子激光优点的新原理光源",
+                    "id": "a9165ba455d5c470",
+                    "children": [
+                      {
+                        "topic": "期刊[2] Ratner Daniel F, Chao Alexander W. Steady-State Microbunching in a Storage Ring for Generating Coherent Radiation [J], 2010, 10.1103/PhysRevLett.105.154801.",
+                        "id": "a9166999d556978b",
+                        "hyperLink": "https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.105.154801"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "C-2.2 受激辐射光源",
+            "id": "a91606f0afb7e3c8",
+            "children": [
+              {
+                "topic": "工作物质、泵浦方式、谐振腔等激光原理",
+                "id": "a9166e25b26c2805",
+                "children": [
+                  {
+                    "topic": "教材[4] SVELTO O. Principles of Lasers[M]. 5th ed. New York: Springer, 2010.",
+                    "id": "a916752233e866e9",
+                    "hyperLink": "https://rd.springer.com/book/10.1007/978-1-4419-1302-9"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "C-3 强子源",
+        "id": "a47822c54afbbd23",
+        "direction": 1,
+        "children": [
+          {
+            "topic": "C-3.1 离子源",
+            "id": "a91679b7fef36c1e",
+            "children": [
+              {
+                "topic": "3.1.1 正离子源",
+                "id": "a9167beb375b0b85",
+                "children": [
+                  {
+                    "topic": "热阴极离子源",
+                    "id": "a9167f295f27be5b",
+                    "children": [
+                      {
+                        "topic": "灯丝离子源",
+                        "id": "a91684e8023324ce",
+                        "children": [
+                          {
+                            "topic": "电流通过阴极灯丝将其加热到热发射电子的程度，发射电子轰击气体产生等离子体。",
+                            "id": "a916875c26588c76",
+                            "children": [
+                              {
+                                "topic": "教材[1] WOLF B. Handbook of ion sources[M]. Boca Raton: CRC Press, 1995.",
+                                "id": "a9168cfdd8a25788",
+                                "hyperLink": "https://api.pageplace.de/preview/DT0400.9781351838382_A30457526/preview-9781351838382_A30457526.pdf"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "等离子体管",
+                        "id": "a91685ac55cee667",
+                        "children": [
+                          {
+                            "topic": "在灯丝源基础上，为了增加束流电流，在加热的灯丝阴极和阳极之间放置一个锥形中间电极。",
+                            "id": "a916886fc9d4e2ae"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "双等离子源",
+                        "id": "a916865cb8d5363e",
+                        "children": [
+                          {
+                            "topic": "实际上与等离子体管相同，但锥形中间电极由软铁制成。源位于螺旋管线圈内。锥形软铁中间电极挤压轴向磁力线并将它们集中在阳极前面。",
+                            "id": "a91689134531ff55"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "冷阴极离子源",
+                    "id": "a916806c92dc646e",
+                    "children": [
+                      {
+                        "topic": "潘宁源",
+                        "id": "a9169211fb9f0f2c",
+                        "children": [
+                          {
+                            "topic": "潘宁离子源由管状阳极组成，阴极在阳极的两端彼此相对。",
+                            "id": "a91693d7a769794f"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "磁控管源",
+                        "id": "a9169317cb48dbd0",
+                        "children": [
+                          {
+                            "topic": "磁控管离子源由一个被阳极包围的阴极组成。",
+                            "id": "a91694990511cf32"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "真空电弧离子源",
+                    "id": "a916818619555a49",
+                    "children": [
+                      {
+                        "topic": "通过蒸发和电离阴极材料以产生等离子体。",
+                        "id": "a916967ed2308cc0"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "激光离子源",
+                    "id": "a91682737418011f",
+                    "children": [
+                      {
+                        "topic": "高功率激光使目标材料汽化和电离，产生等离子体羽流。",
+                        "id": "a91697321fe60571"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "射频离子源",
+                    "id": "a916833d4163e9d8",
+                    "children": [
+                      {
+                        "topic": "电感耦合等离子体源",
+                        "id": "a91698550be4130c",
+                        "children": [
+                          {
+                            "topic": "功率通过几匝线圈中的交变电流传递到等离子体。",
+                            "id": "a9169ac6770ae41b"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "微波放电离子源",
+                        "id": "a9169930f0601731",
+                        "children": [
+                          {
+                            "topic": "微波放电离子源在GHz频率范围内工作以产生等离子体。",
+                            "id": "a9169b7de1f31bb8"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "电子回旋共振 （ECR）源",
+                        "id": "a91699f53a8b5a9e",
+                        "children": [
+                          {
+                            "topic": "当微波源中的磁场和频率合适时，电子可以被回旋加速。",
+                            "id": "a9169c29a9cb1f7e"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "电子束离子源",
+                    "id": "a91683f954342f22",
+                    "children": [
+                      {
+                        "topic": "使用高电流密度电子束来电离粒子。",
+                        "id": "a9169d1503135156"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "3.1.2 负离子源",
+                "id": "a9167cc538245bc8",
+                "children": [
+                  {
+                    "topic": "负离子产生机制",
+                    "id": "a9169e5560249a75",
+                    "children": [
+                      {
+                        "topic": "表面产生",
+                        "id": "a916a2f12d5aec1c",
+                        "children": [
+                          {
+                            "topic": "从低功函数金属表面发射的原子可能会以负离子的形式以相当高的概率离开。",
+                            "id": "a916a500be904f89",
+                            "children": [
+                              {
+                                "topic": "不可考[2] FAIRCLOTH D. Particle Sources[C] // Proceedings of the CERN Accelerator School: Ion Sources. Senec: CERN, 2016: 1-30.",
+                                "id": "a916b1ebb26ffc5e",
+                                "hyperLink": "https://arxiv.org/pdf/2103.13231"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "体产生",
+                        "id": "a916a3981d185a8a",
+                        "children": [
+                          {
+                            "topic": "高振动激发的氢分子通过解离电子附着过程有效地捕获低能等\n离子体电子以形成负氢离子。",
+                            "id": "a916a6771c3996eb"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "电荷转移",
+                        "id": "a916a43c976d4c4e",
+                        "children": [
+                          {
+                            "topic": "碱金属或碱土金属由于其较大的电荷转移截面而被用作产生负离子的电子供体。",
+                            "id": "a916a89e917cd227"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "铯溅射源",
+                    "id": "a9169f293fe10b59",
+                    "children": [
+                      {
+                        "topic": "针对使用铯产生负离子而优化的表面溅射离子源。",
+                        "id": "a916b80461a3f465"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "热阴极负离子源",
+                    "id": "a916a011086ed02f",
+                    "children": [
+                      {
+                        "topic": "在引出区域附近增加了一个磁过滤场。",
+                        "id": "a916b8ac62a029a2"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "冷阴极负离子源",
+                    "id": "a916a0be6c8f0976",
+                    "children": [
+                      {
+                        "topic": "添加铯蒸气显著增加H-电流。",
+                        "id": "a916b95f30a34f27"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "射频负离子源",
+                    "id": "a916a166867c3385",
+                    "children": [
+                      {
+                        "topic": "在正离子源基础上引入铯蒸汽并设计负离子引出系统。",
+                        "id": "a916ba332d27807e"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "极化源",
+                    "id": "a916a20b353d5e5f"
+                  }
+                ]
+              },
+              {
+                "topic": "3.1.3 重离子加速器",
+                "id": "a9167da19a9d6b8b",
+                "children": [
+                  {
+                    "topic": "直线形",
+                    "id": "a916bc08df30b305",
+                    "children": [
+                      {
+                        "topic": "漂移管直线加速器（DTL）",
+                        "id": "a916bd7d0fd40ecc"
+                      },
+                      {
+                        "topic": "射频四极场（RFQ）加速器",
+                        "id": "a916be19c179a5d0",
+                        "children": [
+                          {
+                            "topic": "通过交变四极电场同时实现粒子加速与聚焦。",
+                            "id": "a916bf86762913a0",
+                            "children": [
+                              {
+                                "topic": "不可考[5] YOUNG L. 25 years of technical advances in RFQ accelerators[C] // Proceedings of the 21st International Linac Conference. Gyeongju: KEK, 2002: 1-5.",
+                                "id": "a916c349f62b882e",
+                                "hyperLink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1288841"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "椭圆腔（高β）",
+                        "id": "a916beb457082cd3"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "回旋形",
+                    "id": "a916bca786fd19a9",
+                    "children": [
+                      {
+                        "topic": "同步条件",
+                        "id": "a916c73d82ee1345",
+                        "children": [
+                          {
+                            "topic": "离子回旋频率与RF频率匹配",
+                            "id": "a916c90176c63ea9",
+                            "children": [
+                              {
+                                "topic": "期刊[9] LAWRENCE E O, LIVINGSTON M S. The Production of High Speed Light Ions Without the Use of High Voltages[J]. Physical Review, 1932, 40(1): 19-35.",
+                                "id": "a916d3b8f980481f",
+                                "hyperLink": "https://journals.aps.org/pr/pdf/10.1103/PhysRev.40.19"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "离子注入与引出",
+                        "id": "a916c81f108a3608"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "C-3.2 中子源",
+            "id": "a9167ab64b614b6c",
+            "children": [
+              {
+                "topic": "3.2.1 加速器中子源",
+                "id": "a916d97e921a30ba",
+                "children": [
+                  {
+                    "topic": "强子驱动",
+                    "id": "a916daeb75807b95",
+                    "children": [
+                      {
+                        "topic": "低能离子加速器中子源",
+                        "id": "a916dc8adbf178e5",
+                        "children": [
+                          {
+                            "topic": "中子发生器",
+                            "id": "a916df18234e0fea",
+                            "children": [
+                              {
+                                "topic": "氘-氚（D-T）反应",
+                                "id": "a916e0be14fa383d",
+                                "children": [
+                                  {
+                                    "id": "a916e7678929f962",
+                                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/9.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">",
+                                    "children": [
+                                      {
+                                        "topic": "教材[6] 陈达, 贾文宝. 应用中子物理学[M]. 北京：科学出版社, 2015.",
+                                        "id": "a916ebddf9836ff8",
+                                        "hyperLink": "https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=B67BE7A9966974D229F97F551B787CA56000"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "topic": "氘-氘（D-D）反应",
+                                "id": "a916e1739cada462",
+                                "children": [
+                                  {
+                                    "id": "a916f4ec8424d169",
+                                    "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/10.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "topic": "质子加速器中子源",
+                            "id": "a916dfcde933a0af",
+                            "children": [
+                              {
+                                "topic": "质子束（1~100MeV）轰击铍靶产生中子",
+                                "id": "a916facadc67b103",
+                                "children": [
+                                  {
+                                    "topic": "期刊[4] AUDITORE L, et al. Study of a 5MeV electron linac based neutron source[J]. Nuclear Instruments and Methods in Physics Research Section B, 2005, 241(1-4): 294-297.",
+                                    "id": "a916ffe1f8cb4281",
+                                    "hyperLink": "https://www.sciencedirect.com/science/article/pii/S0168583X04011838"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "散裂中子源",
+                        "id": "a916dd39fdaddeb5",
+                        "children": [
+                          {
+                            "topic": "高能质子（>0.5GeV）束轰击重原子核产生中子",
+                            "id": "a91703e0f82c27b9",
+                            "children": [
+                              {
+                                "topic": "期刊[5] STROBL M. Future prospects of imaging at spallation neutron sources[J]. Nuclear Instruments and Methods in Physics Research Section A, 2009, 604(3): 646-652.",
+                                "id": "a91708c379d4bf72",
+                                "hyperLink": "https://www.sciencedirect.com/science/article/pii/S0168900209005300"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "轻子/光驱动",
+                    "id": "a916db869cdfe7a8",
+                    "children": [
+                      {
+                        "topic": "光中子源(𝛾,𝑛)",
+                        "id": "a9170d84cd9ed6d8",
+                        "children": [
+                          {
+                            "topic": "高能电子轰击重金属靶 → 产生轫致辐射 → 𝛾射线轰击铍/氘靶",
+                            "id": "a9170f095a0b8938",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "库仑激发(𝑒,𝑒′ 𝑛)",
+                        "id": "a9170e27fbbf66bf",
+                        "children": [
+                          {
+                            "topic": "当带电重离子（如铀、铅等）以接近光速但低于库伦位垒的能量接近靶核时，两者间产生极强的瞬态电磁场，导致靶核吸收能量跃迁至激发态.激发态核通过发射中子（或γ光子）退激至基态。",
+                            "id": "a917101d7bdbb2d4"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "3.2.2 中子源的应用",
+                "id": "a916da2bdd1fef6d",
+                "children": [
+                  {
+                    "topic": "中子衍射",
+                    "id": "a917187cea3905c2"
+                  },
+                  {
+                    "topic": "中子放疗",
+                    "id": "a91719fac2701f31",
+                    "children": [
+                      {
+                        "topic": "快中子治疗",
+                        "id": "a9171bb5e29a5707"
+                      },
+                      {
+                        "topic": "硼中子俘获治疗（BNCT）",
+                        "id": "a9171c61e573fe89"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "核反应堆",
+                    "id": "a9171ae8a359f1f6"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "arrows": [],
+  "summaries": [],
+  "direction": 1,
+  "theme": {
+    "name": "Latte",
+    "type": "light",
+    "palette": [
+      "#dd7878",
+      "#ea76cb",
+      "#8839ef",
+      "#e64553",
+      "#fe640b",
+      "#df8e1d",
+      "#40a02b",
+      "#209fb5",
+      "#1e66f5",
+      "#7287fd"
+    ],
+    "cssVar": {
+      "--gap": "30px",
+      "--main-color": "#444446",
+      "--main-bgcolor": "#ffffff",
+      "--color": "#777777",
+      "--bgcolor": "#f6f6f6",
+      "--panel-color": "#444446",
+      "--panel-bgcolor": "#ffffff",
+      "--panel-border-color": "#eaeaea"
+    }
+  }
+}
