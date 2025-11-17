@@ -278,7 +278,7 @@
                             "id": "a7fefe0077da2f24",
                             "children": [
                               {
-                                "topic": "不可考[3] ALESINI D. Linear Accelerators[C] // Proceedings of the CERN Accelerator School: Advanced Accelerator Physics. Siena: CERN, 2019: 1-50.",
+                                "topic": "期刊[16] ALESINI D. Linear Accelerators[C] // Proceedings of the CERN Accelerator School: Advanced Accelerator Physics. Siena: CERN, 2019: 1-50.",
                                 "id": "a915a1176b41760c",
                                 "hyperLink": "https://arxiv.org/pdf/2103.16500v1"
                               }
@@ -312,7 +312,7 @@
                             "id": "a915b8ed34792c34",
                             "children": [
                               {
-                                "topic": "不可考[1] BRIGGS R J. Linear Induction Accelerators[R]. Livermore: Lawrence Livermore National Laboratory, 1986.",
+                                "topic": "期刊[14] BRIGGS R J. Linear Induction Accelerators[R]. Livermore: Lawrence Livermore National Laboratory, 1986.",
                                 "id": "a915bd3bd0ca6331",
                                 "hyperLink": "https://inis.iaea.org/records/rk6fa-3a003"
                               }
@@ -489,7 +489,7 @@
                     "id": "a9165010f89aeeba",
                     "children": [
                       {
-                        "topic": "不可考[4] DESY XFEL Project Group. XFEL: The European X-Ray Free-Electron Laser, Technical Design Report[R]. Hamburg: DESY, 2006.",
+                        "topic": "期刊[17] DESY XFEL Project Group. XFEL: The European X-Ray Free-Electron Laser, Technical Design Report[R]. Hamburg: DESY, 2006.",
                         "id": "a916568ac5769b13",
                         "hyperLink": "https://bib-pubdb1.desy.de/record/77248/files/european-xfel-tdr.pdf"
                       }
@@ -702,7 +702,7 @@
                             "id": "a916a500be904f89",
                             "children": [
                               {
-                                "topic": "不可考[2] FAIRCLOTH D. Particle Sources[C] // Proceedings of the CERN Accelerator School: Ion Sources. Senec: CERN, 2016: 1-30.",
+                                "topic": "期刊[15] FAIRCLOTH D. Particle Sources[C] // Proceedings of the CERN Accelerator School: Ion Sources. Senec: CERN, 2016: 1-30.",
                                 "id": "a916b1ebb26ffc5e",
                                 "hyperLink": "https://arxiv.org/pdf/2103.13231"
                               }
@@ -799,7 +799,7 @@
                             "id": "a916bf86762913a0",
                             "children": [
                               {
-                                "topic": "不可考[5] YOUNG L. 25 years of technical advances in RFQ accelerators[C] // Proceedings of the 21st International Linac Conference. Gyeongju: KEK, 2002: 1-5.",
+                                "topic": "期刊[18] YOUNG L. 25 years of technical advances in RFQ accelerators[C] // Proceedings of the 21st International Linac Conference. Gyeongju: KEK, 2002: 1-5.",
                                 "id": "a916c349f62b882e",
                                 "hyperLink": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=1288841"
                               }
@@ -830,7 +830,12 @@
                                 "id": "a916d3b8f980481f",
                                 "hyperLink": "https://journals.aps.org/pr/pdf/10.1103/PhysRev.40.19"
                               }
-                            ]
+                            ],
+                            "image": {
+                              "url": "https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式1.png",
+                              "width": 150,
+                              "height": 55
+                            }
                           }
                         ]
                       },
@@ -942,7 +947,12 @@
                           {
                             "topic": "高能电子轰击重金属靶 → 产生轫致辐射 → 𝛾射线轰击铍/氘靶",
                             "id": "a9170f095a0b8938",
-                            "children": []
+                            "children": [
+                              {
+                                "id": "a918d4174438a90f",
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/220522/images/公式2.png\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
                           }
                         ]
                       },
