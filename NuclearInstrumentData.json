@@ -1,0 +1,2301 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "D-核仪器原理",
+    "children": [
+      {
+        "topic": "D-1 核仪器简介",
+        "id": "ac3c6d41890b2595",
+        "direction": 0,
+        "children": [
+          {
+            "topic": "D-1.1 基本概念",
+            "id": "ac3c80706268c686",
+            "children": [
+              {
+                "topic": "D-1.1.1组成",
+                "id": "ac3c82108db081e6",
+                "children": [
+                  {
+                    "topic": "探测器",
+                    "id": "ac3c8a3da611732e"
+                  },
+                  {
+                    "topic": "前端核电子学",
+                    "id": "ac3c8b197450e5ee"
+                  },
+                  {
+                    "topic": "数据采集与处理",
+                    "id": "ac3c8bf720d972c5"
+                  },
+                  {
+                    "topic": "数据分析重建展示存储",
+                    "id": "ac3c8cbf98a812d8"
+                  }
+                ]
+              },
+              {
+                "topic": "D-1.1.2 分类",
+                "id": "ac3c838a29c0a18c",
+                "children": [
+                  {
+                    "topic": "通用核仪器",
+                    "id": "ac3c8de042c69115"
+                  },
+                  {
+                    "topic": "堆用核仪器",
+                    "id": "ac3c8efc6f543cea"
+                  },
+                  {
+                    "topic": "辐射防护用核仪器",
+                    "id": "ac3c8fc77baeb6ec"
+                  },
+                  {
+                    "topic": "勘探、采矿、水冶用核仪器",
+                    "id": "ac3c90c476130705"
+                  },
+                  {
+                    "topic": "工农业用核仪器",
+                    "id": "ac3c91b9badcbcce"
+                  },
+                  {
+                    "topic": "医用核仪器",
+                    "id": "ac3c930e3a22112d"
+                  },
+                  {
+                    "topic": "核辐射探头",
+                    "id": "ac3c9464986ac371"
+                  },
+                  {
+                    "topic": "其他核仪器",
+                    "id": "ac3c955bbe2d0bd8"
+                  }
+                ]
+              },
+              {
+                "topic": "D-1.1.3 测量物理量",
+                "id": "ac3c853e643d4520",
+                "children": [
+                  {
+                    "topic": "放射性活度",
+                    "id": "ac3c96c5b862a2dc",
+                    "children": []
+                  },
+                  {
+                    "topic": "照射量",
+                    "id": "ac3c97e9197017de"
+                  },
+                  {
+                    "topic": "剂量",
+                    "id": "ac3c99055b7bbd94"
+                  },
+                  {
+                    "topic": "(中子)通量",
+                    "id": "ac3c99bae838ba74"
+                  },
+                  {
+                    "topic": "能量",
+                    "id": "ac3c9a77c0aeece7",
+                    "children": []
+                  },
+                  {
+                    "topic": "时间",
+                    "id": "ac3c9b3dd3c102f6"
+                  },
+                  {
+                    "topic": "计数率",
+                    "id": "ac3c9bf8641910ee"
+                  },
+                  {
+                    "topic": "动量",
+                    "id": "ac3c9cd2396b79dd"
+                  },
+                  {
+                    "topic": "粒子鉴别",
+                    "id": "ac3c9da1b84b95ea"
+                  },
+                  {
+                    "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "ac3ca717b652090e",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+                  }
+                ]
+              },
+              {
+                "topic": "D-1.1.4 性能指标",
+                "id": "ac3c86b9d500c051",
+                "children": [
+                  {
+                    "topic": "灵敏度",
+                    "id": "ac3cabda57798b72"
+                  },
+                  {
+                    "topic": "分辨率",
+                    "id": "ac3cad623d08f0b8",
+                    "children": []
+                  },
+                  {
+                    "topic": "准确度",
+                    "id": "ac3cae2823814a73"
+                  },
+                  {
+                    "topic": "量程",
+                    "id": "ac3caf12c40b51f5"
+                  },
+                  {
+                    "topic": "时间响应",
+                    "id": "ac3cafcf18c46e3e",
+                    "children": []
+                  },
+                  {
+                    "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "ac3cb13ccdd6ade2",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "D-2 核仪器数学分析方法",
+        "id": "ac3c7012a6171e45",
+        "direction": 1,
+        "children": [
+          {
+            "topic": "D-2.1 信号处理",
+            "id": "ac3cd5db305362ff",
+            "children": [
+              {
+                "topic": "D-2.1.1 基本概念",
+                "id": "ac3cdaca2b7bb94f",
+                "children": [
+                  {
+                    "topic": "D-2.1.1.1信号类型",
+                    "id": "ac3ce47421855223",
+                    "children": [
+                      {
+                        "topic": "连续信号与离散信号",
+                        "id": "ac3cf21785f5730c"
+                      },
+                      {
+                        "topic": "确定性信号与随机信号",
+                        "id": "ac3cf2fb07cb2aaf"
+                      },
+                      {
+                        "topic": "周期信号与非周期信号",
+                        "id": "ac3cf3a9e56212ae"
+                      },
+                      {
+                        "topic": "功率信号与能量信号",
+                        "id": "ac3cf45b8aa30930"
+                      },
+                      {
+                        "topic": "一维信号与多维信号",
+                        "id": "ac3cf506e86c1c0f"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.1.2 典型连续时间信号",
+                    "id": "ac3ce588b810594f",
+                    "children": [
+                      {
+                        "topic": "普通信号",
+                        "id": "ac3d07121f102a0d"
+                      },
+                      {
+                        "topic": "奇异信号",
+                        "id": "ac3d086b6e4480ea"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.1.3 信号的运算",
+                    "id": "ac3ce658de8af2ae"
+                  },
+                  {
+                    "topic": "D-2.1.1.4 信号的分解",
+                    "id": "ac3ce717463b1341"
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac3d0bd4bd758c18",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.1.2 连续信号",
+                "id": "ac3cdc303f2572b1",
+                "children": [
+                  {
+                    "topic": "D-2.1.2.1 周期信号",
+                    "id": "ac460caa41915684",
+                    "children": [
+                      {
+                        "topic": "傅里叶级数",
+                        "id": "ac4610b87c04139f",
+                        "children": [
+                          {
+                            "topic": "形式",
+                            "id": "ac461219f1e565eb",
+                            "children": [
+                              {
+                                "topic": "三角函数形式",
+                                "id": "ac461a58f1c71724"
+                              },
+                              {
+                                "topic": "指数函数形式Fn",
+                                "id": "ac461b2936660935"
+                              }
+                            ]
+                          },
+                          {
+                            "topic": "频谱（离散）",
+                            "id": "ac4614aa8c075ba3",
+                            "children": [
+                              {
+                                "topic": "幅度谱",
+                                "id": "ac461c6a222267cb"
+                              },
+                              {
+                                "topic": "相位谱",
+                                "id": "ac461d3ffcbe1791"
+                              }
+                            ]
+                          },
+                          {
+                            "topic": "帕瓦塞尔定理（傅里叶级数功率特性）",
+                            "id": "ac4615fa93f93b3c"
+                          },
+                          {
+                            "topic": "不同函数对称性下的傅里叶级数",
+                            "id": "ac4616d80a1a5cab"
+                          },
+                          {
+                            "topic": "吉布斯现象",
+                            "id": "ac46183bde9f4d8e"
+                          },
+                          {
+                            "topic": "典型周期信号的傅里叶级数",
+                            "id": "ac461901ed4bbef3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.2.2 非周期信号",
+                    "id": "ac460df47bdbe8b0",
+                    "children": [
+                      {
+                        "topic": "傅里叶变换",
+                        "id": "ac461f81f38cf95a",
+                        "children": [
+                          {
+                            "topic": "要求",
+                            "id": "ac4620581bd13fe9",
+                            "children": [
+                              {
+                                "topic": "非周期信号",
+                                "id": "ac4623dc0bf2256f"
+                              },
+                              {
+                                "topic": "连续频谱",
+                                "id": "ac46249c5b2d7de4",
+                                "children": [
+                                  {
+                                    "topic": "频谱密度函数",
+                                    "id": "ac4626a2b4a6c426"
+                                  }
+                                ]
+                              },
+                              {
+                                "topic": "充分条件",
+                                "id": "ac46257e4ce23d38",
+                                "children": [
+                                  {
+                                    "topic": "狄利克雷条件",
+                                    "id": "ac4627bf1b00e006"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "topic": "典型非周期信号的傅里叶变换",
+                            "id": "ac4621638c6f3e68"
+                          },
+                          {
+                            "topic": "基本性质",
+                            "id": "ac4622473efb70b2"
+                          },
+                          {
+                            "topic": "卷积定理",
+                            "id": "ac4623018294df40"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac460fb27863cd24",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.1.3 离散信号",
+                "id": "ac3cdda4b3e59ecf",
+                "children": [
+                  {
+                    "topic": "D-2.1.3.1表示",
+                    "id": "ac46299224bdc9b6"
+                  },
+                  {
+                    "topic": "D-2.1.3.2 运算",
+                    "id": "ac462a5a2dcd1fe4"
+                  },
+                  {
+                    "topic": "D-2.1.3.3 能量和功率",
+                    "id": "ac462b12bc45f0aa"
+                  },
+                  {
+                    "topic": "D-2.1.3.4 常用离散信号",
+                    "id": "ac462d32d66be82f"
+                  },
+                  {
+                    "topic": "D-2.1.3.5 离散傅里叶变换",
+                    "id": "ac462e187487e1bd"
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac462fb129ce3636",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  },
+                  {
+                    "topic": "教材[3] 胡广书 数字信号处理 理论、算法与实现[M]. 第3版. 版. 北京: 清华大学出版社, 2012.",
+                    "id": "ac4633af07b7ce75",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F5180A5700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.1.4 随机信号",
+                "id": "ac3ce0122391fa5e",
+                "children": [
+                  {
+                    "topic": "D-2.1.4.1 常用随机变量",
+                    "id": "ac4639a0b6f09091",
+                    "children": [
+                      {
+                        "topic": "均匀分布",
+                        "id": "ac46493920189983"
+                      },
+                      {
+                        "topic": "高斯分布",
+                        "id": "ac4649fbfd8c114a"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.4.2 随机信号定义与统计量",
+                    "id": "ac463aa6ef707d5c",
+                    "children": []
+                  },
+                  {
+                    "topic": "D-2.1.4.3 平稳随机信号",
+                    "id": "ac463b77eb398de5",
+                    "children": [
+                      {
+                        "topic": "能量谱与功率谱",
+                        "id": "ac464bf1ba6fb307"
+                      },
+                      {
+                        "topic": "维纳-辛钦定理",
+                        "id": "ac464ca7299b100f"
+                      },
+                      {
+                        "topic": "信噪比",
+                        "id": "ac464d43a3e22640"
+                      },
+                      {
+                        "topic": "Campbell定理",
+                        "id": "ac464de26c3e582c"
+                      },
+                      {
+                        "topic": "Carson定理",
+                        "id": "ac464eb45868010f"
+                      },
+                      {
+                        "topic": "白噪声",
+                        "id": "ac464f82633fc24e"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.4.4 信号通过线性时不变系统",
+                    "id": "ac463c6dd865db18",
+                    "children": [
+                      {
+                        "topic": "响应的时域计算",
+                        "id": "ac4650ea8d64e9cc"
+                      },
+                      {
+                        "topic": "响应的期望计算",
+                        "id": "ac4651d75a999ce9"
+                      },
+                      {
+                        "topic": "响应的期望计算",
+                        "id": "ac46539bdbdba458"
+                      },
+                      {
+                        "topic": "响应的期望计算",
+                        "id": "ac46543b9bb53ad5"
+                      },
+                      {
+                        "topic": "白噪声通过线性系统",
+                        "id": "ac4654cf12393ba4"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.4.5 匹配滤波器",
+                    "id": "ac463d45df37fd18"
+                  },
+                  {
+                    "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "ac46458ca9458211",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+                  },
+                  {
+                    "topic": "教材[3] 胡广书 数字信号处理 理论、算法与实现[M]. 第3版. 版. 北京: 清华大学出版社, 2012.",
+                    "id": "ac464616b8bc29be",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F5180A5700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.1.5 信号的抽样",
+                "id": "ac3ce2113e3003e7",
+                "children": [
+                  {
+                    "topic": "D-2.1.5.1 抽样⇔周期延拓",
+                    "id": "ac4656c08c2a24eb",
+                    "children": [
+                      {
+                        "topic": "周期信号的傅里叶变换",
+                        "id": "ac465a5edeb6ddc1"
+                      },
+                      {
+                        "topic": "抽样信号的傅里叶变换",
+                        "id": "ac465b20ebfd1af2"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.5.2 时域抽样定理",
+                    "id": "ac465c969a0890fe",
+                    "children": [
+                      {
+                        "topic": "奈奎斯特频率",
+                        "id": "ac46619c265b2b98"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.1.5.3 频域抽样定理",
+                    "id": "ac465d813bd9b214"
+                  },
+                  {
+                    "topic": "D-2.1.5.4 调制与解调",
+                    "id": "ac465e6632da11e6",
+                    "children": [
+                      {
+                        "topic": "抑制载波调幅 SC-AM",
+                        "id": "ac46626a03480ffb"
+                      },
+                      {
+                        "topic": "幅度调制AM",
+                        "id": "ac46632d9c5fb1d2"
+                      },
+                      {
+                        "topic": "频率调制 FM",
+                        "id": "ac4663bf2890c7fb"
+                      },
+                      {
+                        "topic": "相位调制 PM",
+                        "id": "ac4664539865df43"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac46600ce8e8e283",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "D-2.2 系统分析",
+            "id": "ac3cd8180cd8636d",
+            "children": [
+              {
+                "topic": "D-2.2.1 模型表示",
+                "id": "ac4667d95d445c9b",
+                "children": [
+                  {
+                    "topic": "图形符号",
+                    "id": "ac466d509c65aded"
+                  },
+                  {
+                    "topic": "数学公式",
+                    "id": "ac466e0935bcae70"
+                  },
+                  {
+                    "topic": "方框图",
+                    "id": "ac466e8f4332b2f5"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.2.2 系统分类",
+                "id": "ac46689c75d66881",
+                "children": [
+                  {
+                    "topic": "连续时间系统与离散时间系统",
+                    "id": "ac466f4b73d8582a",
+                    "children": []
+                  },
+                  {
+                    "topic": "即时系统与动态系统",
+                    "id": "ac4670a77b2a2d0c"
+                  },
+                  {
+                    "topic": "集总参数系统与分布参数系统",
+                    "id": "ac46714275d359c0"
+                  },
+                  {
+                    "topic": "线性系统与非线性系统",
+                    "id": "ac4671f4480dbd6d"
+                  },
+                  {
+                    "topic": "时变系统与时不变系统",
+                    "id": "ac46728d8b85244c"
+                  },
+                  {
+                    "topic": "可逆系统与不可逆系统",
+                    "id": "ac46733052d9fd42"
+                  },
+                  {
+                    "topic": "因果系统与非因果系统",
+                    "id": "ac4673c4101a5592"
+                  },
+                  {
+                    "topic": "稳定系统与非稳定系统",
+                    "id": "ac467454672feaeb"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.2.3 线性时不变系统 LTI",
+                "id": "ac46695e1d070c6b",
+                "children": [
+                  {
+                    "topic": "D-2.2.3.1 LTI系统判断(重要)",
+                    "id": "ac46757814996647"
+                  },
+                  {
+                    "topic": "D-2.2.3.2 LTI系统性质",
+                    "id": "ac467671af1781f9",
+                    "children": [
+                      {
+                        "topic": "线性",
+                        "id": "ac467cd335ba975c"
+                      },
+                      {
+                        "topic": "时不变性",
+                        "id": "ac467d6ae048380f"
+                      },
+                      {
+                        "topic": "因果性",
+                        "id": "ac467df1714ef0c9"
+                      },
+                      {
+                        "topic": "微分特性",
+                        "id": "ac467fb198ee7cb3"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[4] 华成英, 叶朝晖 模拟电子技术基本教程[M]. 北京: 高等教育出版社, 2020.",
+                    "id": "ac4679320213f269",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F556DA5700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.2.4 时域分析",
+                "id": "ac466a0771ad80b2",
+                "children": [
+                  {
+                    "topic": "经典法",
+                    "id": "ac46820726b38c9e",
+                    "children": [
+                      {
+                        "topic": "列解微分方程",
+                        "id": "ac4686d407966700"
+                      },
+                      {
+                        "topic": "零输入响应与零状态响应",
+                        "id": "ac4687ff75bfe94e"
+                      },
+                      {
+                        "topic": "冲激响应",
+                        "id": "ac4688a54fc795bb"
+                      },
+                      {
+                        "topic": "卷积方法",
+                        "id": "ac46895f9ffaa26b",
+                        "children": [
+                          {
+                            "topic": "卷积的图形求解",
+                            "id": "ac468a46377a21ae"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac4685b5e52f3e62",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.2.5 频域分析",
+                "id": "ac466b0a2b4badaf",
+                "children": [
+                  {
+                    "topic": "D-2.2.5.1 拉普拉斯变换",
+                    "id": "ac468c6ea3acb376",
+                    "children": [
+                      {
+                        "topic": "简化微分方程的建立和求解",
+                        "id": "ac4693755e8211c3"
+                      },
+                      {
+                        "topic": "傅里叶变换到拉普拉斯变换",
+                        "id": "ac469646b8e54850"
+                      },
+                      {
+                        "topic": "收敛域",
+                        "id": "ac4696f1261770e1"
+                      },
+                      {
+                        "topic": "常用函数的拉氏变换",
+                        "id": "ac4697a92a7511a9",
+                        "children": [
+                          {
+                            "topic": "阶跃函数",
+                            "id": "ac469a9183888fb1"
+                          },
+                          {
+                            "topic": "指数函数",
+                            "id": "ac469b9fe94e3954"
+                          },
+                          {
+                            "topic": "冲激函数",
+                            "id": "ac469c97e0d29094"
+                          },
+                          {
+                            "topic": "幂函数",
+                            "id": "ac469d3aa6d6023e"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "基本性质",
+                        "id": "ac4698571bbc544f",
+                        "children": [
+                          {
+                            "topic": "线性",
+                            "id": "ac469e13a9383b9e"
+                          },
+                          {
+                            "topic": "原函数微分与积分",
+                            "id": "ac469e58b8f14d4e"
+                          },
+                          {
+                            "topic": "延时",
+                            "id": "ac469feae008c303"
+                          },
+                          {
+                            "topic": "S域平移",
+                            "id": "ac46a079a8484421"
+                          },
+                          {
+                            "topic": "尺度变换",
+                            "id": "ac46a11f0ecebc8d"
+                          },
+                          {
+                            "topic": "初值定理",
+                            "id": "ac46a1bb80e3bacc"
+                          },
+                          {
+                            "topic": "终值定理",
+                            "id": "ac46a24a526bed78"
+                          },
+                          {
+                            "topic": "时域/频域卷积定理",
+                            "id": "ac46a2d8946cee6d"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "拉普拉斯逆变换",
+                        "id": "ac469911e0b612e2",
+                        "children": [
+                          {
+                            "topic": "部分分式法(重要)",
+                            "id": "ac46a3add9a91c9f"
+                          },
+                          {
+                            "topic": "留数法",
+                            "id": "ac46a45cc74c7315"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.2.5.2 电路的s域分析",
+                    "id": "ac468d480c11a891",
+                    "children": [
+                      {
+                        "topic": "求系统0-状态",
+                        "id": "ac46a655a24d09c8"
+                      },
+                      {
+                        "topic": "电路的s域等效模型",
+                        "id": "ac46a6fb89b004c8"
+                      },
+                      {
+                        "topic": "s域方程列出求解",
+                        "id": "ac46a7776997f464"
+                      },
+                      {
+                        "topic": "拉式逆变换求时域响应",
+                        "id": "ac46a7f2c0bfd481"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.2.5.3 系统函数",
+                    "id": "ac468df9785ce76f",
+                    "children": [
+                      {
+                        "topic": "系统分解",
+                        "id": "ac46ab6620b52e33",
+                        "children": [
+                          {
+                            "topic": "并联",
+                            "id": "ac46acf807d723d7"
+                          },
+                          {
+                            "topic": "级联",
+                            "id": "ac46ad8aac16fe4e"
+                          },
+                          {
+                            "topic": "反馈连接",
+                            "id": "ac46ae0470a842d6"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "零极点分布",
+                        "id": "ac46ac332ca7b8d9",
+                        "children": [
+                          {
+                            "topic": "与波形对应",
+                            "id": "ac46af15459a6d12"
+                          },
+                          {
+                            "topic": "与自由响应、强迫响应特征的对应",
+                            "id": "ac46b025cb9806bd"
+                          },
+                          {
+                            "topic": "频响特性",
+                            "id": "ac46b0d8804be37c"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.2.5.4 系统的s平面分析",
+                    "id": "ac468f4eebf77cff",
+                    "children": [
+                      {
+                        "topic": "二阶谐振系统",
+                        "id": "ac46b37d444cb27f"
+                      },
+                      {
+                        "topic": "全通函数与最小相移函数",
+                        "id": "ac46b433523f088c"
+                      },
+                      {
+                        "topic": "线性系统稳定性判断",
+                        "id": "ac46b4c65522eb86",
+                        "children": [
+                          {
+                            "topic": "全部极点位于s左半平面：稳定",
+                            "id": "ac46b55a2073dd6e"
+                          },
+                          {
+                            "topic": "有极点在右半平面或虚轴二阶以上极点：不稳定",
+                            "id": "ac46b5f0ef457874"
+                          },
+                          {
+                            "topic": "虚轴上单阶极点：临界稳定",
+                            "id": "ac46b6733862c4ce"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac4691c99870aa09",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  }
+                ]
+              },
+              {
+                "topic": "D-2.2.6 滤波器",
+                "id": "ac466be751b7ddf6",
+                "children": [
+                  {
+                    "topic": "D-2.2.6.1 利用系统函数求响应",
+                    "id": "ac46b7c5ba86d71b"
+                  },
+                  {
+                    "topic": "D-2.2.6.2 无失真传输",
+                    "id": "ac46b86f07c2fb6a"
+                  },
+                  {
+                    "topic": "D-2.2.6.3 理想滤波器",
+                    "id": "ac46b925504a50fa",
+                    "children": [
+                      {
+                        "topic": "低通",
+                        "id": "ac46b9b9e32d10a9"
+                      },
+                      {
+                        "topic": "高通",
+                        "id": "ac46ba5604beb92f"
+                      },
+                      {
+                        "topic": "带通",
+                        "id": "ac46bad47b4122d9"
+                      },
+                      {
+                        "topic": "带阻",
+                        "id": "ac46bb4eeae046ca"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-2.2.6.4 佩利-维纳准则",
+                    "id": "ac46bc4ff4984e2a"
+                  },
+                  {
+                    "topic": "D-2.2.6.5 滤波器设计",
+                    "id": "ac46bd753a804569",
+                    "children": [
+                      {
+                        "topic": "D-2.2.6.5.1 模拟滤波器",
+                        "id": "ac46bf14a4a24796",
+                        "children": [
+                          {
+                            "topic": "巴特沃斯滤波器",
+                            "id": "ac46c0f64ad31cc3"
+                          },
+                          {
+                            "topic": "切比雪夫滤波器",
+                            "id": "ac46c1af37ec8a65"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-2.2.6.5.2 数字滤波器",
+                        "id": "ac46c043ef9bcfbc"
+                      },
+                      {
+                        "topic": "智能体：滤波器设计助手（Filter Design Assistant）",
+                        "id": "ac46c2bc37a5ed95"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[2] NICHOLSON P W. Nuclear electronics /[M]. London, New York: Wiley, 1974.",
+                    "id": "ac46c59a833c95f6",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F522D45700E065000000000001"
+                  },
+                  {
+                    "topic": "教材[3] 胡广书 数字信号处理 理论、算法与实现[M]. 第3版. 版. 北京: 清华大学出版社, 2012.",
+                    "id": "ac46ca574007da9a",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F5180A5700E065000000000001"
+                  },
+                  {
+                    "topic": "教材[4] 华成英, 叶朝晖 模拟电子技术基本教程[M]. 北京: 高等教育出版社, 2020.",
+                    "id": "ac46cd7a01961d1f",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F556DA5700E065000000000001"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "D-3 核仪器结构组成与工作原理(γ谱仪)",
+        "id": "ac3c72f5eda2bce5",
+        "direction": 1,
+        "children": [
+          {
+            "topic": "D-3.1 探测器信号",
+            "id": "ac46d262171992ed",
+            "children": [
+              {
+                "topic": "D-3.1.1 辐射探测器概述",
+                "id": "ac46d69587eadf98",
+                "children": [
+                  {
+                    "topic": "D-3.1.1.1 基本功能",
+                    "id": "ac46dda7ec3f5b8f"
+                  },
+                  {
+                    "topic": "D-3.1.1.2 技术发展",
+                    "id": "ac46de5744014f97"
+                  },
+                  {
+                    "topic": "D-3.1.1.3 工作模式",
+                    "id": "ac46df5ce75f8a9e",
+                    "children": [
+                      {
+                        "topic": "电流模式",
+                        "id": "ac46e48e43394c39"
+                      },
+                      {
+                        "topic": "脉冲模式",
+                        "id": "ac46e59b9672dce4"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.1.1.4 主要性能指标",
+                    "id": "ac46dffec8d024d7",
+                    "children": [
+                      {
+                        "topic": "探测效率",
+                        "id": "ac46e67916dd6a67"
+                      },
+                      {
+                        "topic": "能量分辨率",
+                        "id": "ac46e71d81ed9cc2"
+                      },
+                      {
+                        "topic": "动态范围",
+                        "id": "ac46e7a0f43013c6"
+                      },
+                      {
+                        "topic": "死时间",
+                        "id": "ac46e82273ca0dac"
+                      },
+                      {
+                        "topic": "智能体：探测器参数查询工具（Detector Parameter Query）",
+                        "id": "ac46e8bae2e5ef6a"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "ac46e33cf740a8f1",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.1.2 探测器基本原理",
+                "id": "ac46d7552cdab3d8"
+              },
+              {
+                "topic": "D-3.1.3 探测器信号的随机性",
+                "id": "ac46d7f0152c1e1c",
+                "children": [
+                  {
+                    "topic": "D-3.1.3.1 计数涨落",
+                    "id": "ac46eac549700150"
+                  },
+                  {
+                    "topic": "D-3.1.3.2 幅度涨落",
+                    "id": "ac46eb5cccb4a6ae"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.1.4 致电离探测器信号分析",
+                "id": "ac46d8c0b82aa363",
+                "children": [
+                  {
+                    "topic": "D-3.1.4.1 感应信号机制",
+                    "id": "ac46ec3cfe78b077"
+                  },
+                  {
+                    "topic": "D-3.1.4.2 Shockley-Ramo定律",
+                    "id": "ac46ecfb744cbaad"
+                  },
+                  {
+                    "topic": "D-3.1.4.3 气体探测器信号分析",
+                    "id": "ac46edcb414f7cb6",
+                    "children": [
+                      {
+                        "topic": "D-3.1.4.3.1 平板电离室",
+                        "id": "ac46f6a1f5afe3cc"
+                      },
+                      {
+                        "topic": "D-3.1.4.3.2 栅极电离室",
+                        "id": "ac46f72ddc289c29"
+                      },
+                      {
+                        "topic": "论文[1] 新型数字化多道采集系统的研究. 敖奇",
+                        "id": "ac46f8ea4bd1c4a4",
+                        "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=172154"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.1.4.4 半导体探测器信号分析",
+                    "id": "ac46ee9b52fd9e0b",
+                    "children": [
+                      {
+                        "topic": "D-3.1.4.4.1 PN结",
+                        "id": "ac46fc7cb9f15a3c"
+                      },
+                      {
+                        "topic": "D-3.1.4.4.2 传统硅/锗探测器",
+                        "id": "ac46fd3032086ca0"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.1.4.5 探测器信号的读出",
+                    "id": "ac46ef37d61bde8a"
+                  },
+                  {
+                    "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                    "id": "ac46f2048ef558c1",
+                    "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+                  },
+                  {
+                    "topic": "教材[5] 王芝英 核电子技术原理[M]. 北京: 原子能出版社, 1989.",
+                    "id": "ac46f4bf9d56c917",
+                    "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/10758143/7b4a9d7a730443f0b4a883709d57f907/3f2e7af38f413f73d6cfa21c630e0677.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D5ade21c5a6885f60de80b0cd9476075d%26ssid%3D10758143&fenlei=18140902&logintype=2&uid=&username=59.66.30.113&view=-1"
+                  }
+                ]
+              },
+              {
+                "topic": "教材[5] 王芝英 核电子技术原理[M]. 北京: 原子能出版社, 1989.",
+                "id": "ac46daa913a371bd",
+                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/10758143/7b4a9d7a730443f0b4a883709d57f907/3f2e7af38f413f73d6cfa21c630e0677.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D5ade21c5a6885f60de80b0cd9476075d%26ssid%3D10758143&fenlei=18140902&logintype=2&uid=&username=59.66.30.113&view=-1"
+              }
+            ]
+          },
+          {
+            "topic": "D-3.2 前端电子学",
+            "id": "ac46d34dd597c6c6",
+            "children": [
+              {
+                "topic": "D-3.2.1 前置放大器",
+                "id": "ac470252a8549c87",
+                "children": [
+                  {
+                    "topic": "D-3.2.1.1 探测器信号及读出电路的建模分析",
+                    "id": "ac4726cf5d778e11"
+                  },
+                  {
+                    "topic": "D-3.2.1.2 前置放大器功能",
+                    "id": "ac4727632e53353d"
+                  },
+                  {
+                    "topic": "D-3.2.1.3 前置放大器分类",
+                    "id": "ac4728bdc34fb440",
+                    "children": [
+                      {
+                        "topic": "D-3.2.1.3.1 电荷灵敏前放",
+                        "id": "ac473d5dcaef4f72",
+                        "children": [
+                          {
+                            "topic": "D-3.2.1.3.1.1 工作原理",
+                            "id": "ac473fe5d62f540f"
+                          },
+                          {
+                            "topic": "D-3.2.1.3.1.2 性能指标",
+                            "id": "ac474103de76b6be",
+                            "children": [
+                              {
+                                "topic": "D-3.2.1.3.1.2.1 增益（线性）",
+                                "id": "ac4745bb51721072"
+                              },
+                              {
+                                "topic": "D-3.2.1.3.1.2.2 时间响应（上升时间）",
+                                "id": "ac47466b2cd08be7",
+                                "children": [
+                                  {
+                                    "topic": "单极点模型",
+                                    "id": "ac474a9d0d86d278"
+                                  },
+                                  {
+                                    "topic": "伯德图",
+                                    "id": "ac474b34640dc934"
+                                  },
+                                  {
+                                    "topic": "增益带宽积",
+                                    "id": "ac474bd4c9e693e0"
+                                  },
+                                  {
+                                    "topic": "闭环增益",
+                                    "id": "ac474c781e1fede7"
+                                  },
+                                  {
+                                    "topic": "低频增益",
+                                    "id": "ac474cff32b433ea"
+                                  },
+                                  {
+                                    "topic": "反馈系数",
+                                    "id": "ac474df5832fc7ff"
+                                  },
+                                  {
+                                    "topic": "-3dB截止频率",
+                                    "id": "ac474f030c88b3ba"
+                                  },
+                                  {
+                                    "topic": "上升时间",
+                                    "id": "ac474fa8faaaec4a"
+                                  }
+                                ]
+                              },
+                              {
+                                "topic": "D-3.2.1.3.1.2.3 噪声",
+                                "id": "ac47476e6258399f",
+                                "children": [
+                                  {
+                                    "topic": "D-3.2.1.3.1.2.3.1 评价指标",
+                                    "id": "ac475b63d334d0a8",
+                                    "children": [
+                                      {
+                                        "topic": "等效噪声电荷",
+                                        "id": "ac475e61a80097e1"
+                                      },
+                                      {
+                                        "topic": "等效噪声能量",
+                                        "id": "ac475f0db7394eef"
+                                      },
+                                      {
+                                        "topic": "信噪比",
+                                        "id": "ac475f8aab154de8"
+                                      },
+                                      {
+                                        "topic": "能量分辨率",
+                                        "id": "ac476034068996b5",
+                                        "children": [
+                                          {
+                                            "topic": "探测器固有分辨率",
+                                            "id": "ac4760d8daf14f2e"
+                                          },
+                                          {
+                                            "topic": "电子学噪声",
+                                            "id": "ac4761662912c20a"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "topic": "D-3.2.1.3.1.2.3.2噪声基础知识",
+                                    "id": "ac475c2960524c9d",
+                                    "children": [
+                                      {
+                                        "topic": "功率/功率谱",
+                                        "id": "ac476241a0f99a66"
+                                      },
+                                      {
+                                        "topic": "常见电子学噪声",
+                                        "id": "ac4762f77220aa97",
+                                        "children": [
+                                          {
+                                            "topic": "热噪声",
+                                            "id": "ac476413b94dfe6f"
+                                          },
+                                          {
+                                            "topic": "散粒噪声",
+                                            "id": "ac476498ad1979d1"
+                                          },
+                                          {
+                                            "topic": "1/f噪声",
+                                            "id": "ac476509d4d27181"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "topic": "常见电子学元器件噪声",
+                                        "id": "ac47637dacb2631c",
+                                        "children": [
+                                          {
+                                            "topic": "电阻",
+                                            "id": "ac476583111f49d1"
+                                          },
+                                          {
+                                            "topic": "二极管",
+                                            "id": "ac47669685c56f60"
+                                          },
+                                          {
+                                            "topic": "晶体管",
+                                            "id": "ac4767122e8ebaf4"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "topic": "D-3.2.1.3.1.2.3.3 前放噪声分析",
+                                    "id": "ac475d0a9887f4d7",
+                                    "children": [
+                                      {
+                                        "topic": "主要噪声源",
+                                        "id": "ac4768c2fcb2e02f",
+                                        "children": [
+                                          {
+                                            "topic": "放大器（晶体管）",
+                                            "id": "ac476b01cb0b7acd"
+                                          },
+                                          {
+                                            "topic": "漏电流",
+                                            "id": "ac476b8f83fc32cf"
+                                          },
+                                          {
+                                            "topic": "反馈电阻",
+                                            "id": "ac476c12e9fa5622"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "topic": "输入（输出）噪声功率谱",
+                                        "id": "ac47695a1297a061",
+                                        "children": [
+                                          {
+                                            "topic": "串联白噪声（a噪声）",
+                                            "id": "ac476c9c5719579a"
+                                          },
+                                          {
+                                            "topic": "并联白噪声（b噪声）",
+                                            "id": "ac476da969c80a0e"
+                                          },
+                                          {
+                                            "topic": "串联1/f噪声（c噪声）",
+                                            "id": "ac476e407fca6aa2"
+                                          }
+                                        ]
+                                      },
+                                      {
+                                        "topic": "等效噪声电荷",
+                                        "id": "ac476a453f1d2fc2"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "topic": "D-3.2.1.3.1.2.4 动态范围",
+                                "id": "ac474848b3de3b5a"
+                              }
+                            ],
+                            "expanded": false
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-3.2.1.3.2 电压灵敏前放",
+                        "id": "ac473e5826e70572"
+                      },
+                      {
+                        "topic": "D-3.2.1.3.3 电流灵敏前放",
+                        "id": "ac473ef3274893d6"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "教材[6] 吴崇试 数学物理方法[M]. 修订版. 版. 北京: 高等教育出版社, 2015.",
+                    "id": "ac472cf71267f09e",
+                    "hyperLink": "https://ereserves.lib.tsinghua.edu.cn/bookDetail/092404F5158A5700E065000000000001"
+                  },
+                  {
+                    "topic": "教材[7] 谢一冈 粒子探测器与数据获取[M]. 北京: 科学出版社, 2003.",
+                    "id": "ac47300636ccf16f",
+                    "hyperLink": "https://book.sciencereading.cn/shop/book/Booksimple/show.do?id=BC25CEC37461E43CBB17CDCFB1A7CE18A000"
+                  },
+                  {
+                    "topic": "论文[3] 不同状态下CMOS管的1/f噪声对低噪声CSA的影响.李衍存",
+                    "id": "ac473636857e2283",
+                    "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=187288"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.2.2 滤波成形电路",
+                "id": "ac4725b42dd7a08f",
+                "children": [
+                  {
+                    "topic": "D-3.2.2.1 基本功能",
+                    "id": "ac4784207f3bad07",
+                    "children": [
+                      {
+                        "topic": "D-3.2.2.1.1 滤波",
+                        "id": "ac47866ca2659a0a",
+                        "children": [
+                          {
+                            "topic": "D-3.2.2.1.1.1 性能要求",
+                            "id": "ac4788df05d85e2a",
+                            "children": [
+                              {
+                                "topic": "D-3.2.2.1.1.1.1 最佳滤波器",
+                                "id": "ac47899b031ed488",
+                                "children": [
+                                  {
+                                    "topic": "优化目标",
+                                    "id": "ac478a62cefbfa50"
+                                  },
+                                  {
+                                    "topic": "频率响应",
+                                    "id": "ac478af5ee4db807"
+                                  },
+                                  {
+                                    "topic": "信噪比",
+                                    "id": "ac478b7c5b9ae156"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-3.2.2.1.2 成形",
+                        "id": "ac47879c92e13b8d",
+                        "children": [
+                          {
+                            "topic": "D-3.2.2.1.2.1 性能要求",
+                            "id": "ac478d422f344ef5",
+                            "children": [
+                              {
+                                "topic": "极零相消",
+                                "id": "ac478dfdaac2effc"
+                              },
+                              {
+                                "topic": "弹道亏损",
+                                "id": "ac478f02ce95e976"
+                              },
+                              {
+                                "topic": "堆积畸变",
+                                "id": "ac478f9ec3f2058f"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.2.2.2 分类",
+                    "id": "ac4784d7413903ea",
+                    "children": [
+                      {
+                        "topic": "D-3.2.2.2.1 按提取信息分",
+                        "id": "ac4791fec5d29ff1"
+                      },
+                      {
+                        "topic": "D-3.2.2.2.2 按信号处理实现方式分",
+                        "id": "ac47931686eb11c1"
+                      },
+                      {
+                        "topic": "D-3.2.2.2.3 按实现工艺分",
+                        "id": "ac4793a3334d83e0"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.2.2.3 性能指标",
+                    "id": "ac47859576577fb0",
+                    "children": [
+                      {
+                        "topic": "D-3.2.2.3.1 脉冲形状",
+                        "id": "ac4794a69fab9cd4"
+                      },
+                      {
+                        "topic": "D-3.2.2.3.2 增益",
+                        "id": "ac4795e3d4ee5bb0"
+                      },
+                      {
+                        "topic": "D-3.2.2.3.3 非线性",
+                        "id": "ac47969d10dc8e97"
+                      },
+                      {
+                        "topic": "D-3.2.2.3.4稳定性",
+                        "id": "ac4797245fd98fd7"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "topic": "D-3.3 数据采集与处理",
+            "id": "ac46d4494c89893c",
+            "children": [
+              {
+                "topic": "D-3.3.1 基本功能",
+                "id": "ac47b5738c30c3e6"
+              },
+              {
+                "topic": "D-3.3.2 性能指标",
+                "id": "ac47b6848b5055f1",
+                "children": [
+                  {
+                    "topic": "D-3.3.2.1 阈值范围",
+                    "id": "ac47f27bbcf7920f"
+                  },
+                  {
+                    "topic": "D-3.3.2.2 阈值精度",
+                    "id": "ac47f30c10dc086b"
+                  },
+                  {
+                    "topic": "D-3.3.2.3 最小脉冲间隔",
+                    "id": "ac47f38275ce6c33"
+                  },
+                  {
+                    "topic": "D-3.3.2.4 稳定性",
+                    "id": "ac47f3fc2da95c71"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.3.3 单道分析器电路",
+                "id": "ac47b74bd214076a",
+                "children": [
+                  {
+                    "topic": "D-3.3.3.1 脉冲幅度甄别器",
+                    "id": "ac47f4edbe17dd8c",
+                    "children": [
+                      {
+                        "topic": "D-3.3.3.1.1 应用",
+                        "id": "ac47f69ddbcb4a37",
+                        "children": [
+                          {
+                            "topic": "幅度甄别",
+                            "id": "ac47f81db12c1c27"
+                          },
+                          {
+                            "topic": "定时甄别",
+                            "id": "ac47f92e258e3ffb"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-3.3.3.1.2 工作原理",
+                        "id": "ac47f76b79506379",
+                        "children": [
+                          {
+                            "topic": "正反馈电压比较器",
+                            "id": "ac47f9faecb831f0"
+                          },
+                          {
+                            "topic": "阈值",
+                            "id": "ac47faf9232ee4b4"
+                          },
+                          {
+                            "topic": "回差",
+                            "id": "ac47fbf54a65dbab"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.3.3.2 逻辑电路",
+                    "id": "ac47f5bd9e18149b"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.3.4 计数电路",
+                "id": "ac47b7fc59d49661",
+                "children": [
+                  {
+                    "topic": "D-3.3.4.1 定标器",
+                    "id": "ac47fdcf4435e9fa",
+                    "children": [
+                      {
+                        "topic": "D-3.3.4.1.1 组成",
+                        "id": "ac47ff646845c226"
+                      },
+                      {
+                        "topic": "D-3.3.4.1.2 基本功能",
+                        "id": "ac4800209d4046f4",
+                        "children": [
+                          {
+                            "topic": "D-3.3.4.1.2.1 记录设定时间内输入脉冲数目",
+                            "id": "ac48019a5555a05e"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-3.3.4.1.3 时间响应",
+                        "id": "ac4800b0772cf364",
+                        "children": [
+                          {
+                            "topic": "D-3.3.4.1.3.1 最高计数频率",
+                            "id": "ac48024f98ed1235"
+                          },
+                          {
+                            "topic": "D-3.3.4.1.3.2 双脉冲分辨时间",
+                            "id": "ac4802e3a6e67f76"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.3.4.2 计数率计（率表）",
+                    "id": "ac47febe9f402922"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.3.5 多道分析器电路",
+                "id": "ac47b8c85c6a96cf",
+                "children": [
+                  {
+                    "topic": "D-3.3.5.1 峰检测/保持电路",
+                    "id": "ac48180b41201fbe",
+                    "children": [
+                      {
+                        "topic": "D-3.3.5.1.1 典型实现电路",
+                        "id": "ac481fdf422f8aab",
+                        "children": [
+                          {
+                            "topic": "运算放大器",
+                            "id": "ac48218246c5b85a"
+                          },
+                          {
+                            "topic": "保持电容",
+                            "id": "ac48221be6999233"
+                          },
+                          {
+                            "topic": "二极管",
+                            "id": "ac4822a65c87b359"
+                          },
+                          {
+                            "topic": "复位开关",
+                            "id": "ac48232f00cc7455"
+                          },
+                          {
+                            "topic": "电流源",
+                            "id": "ac4823ae339430ff"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-3.3.5.1.2 状态",
+                        "id": "ac4820a4099eeb02",
+                        "children": [
+                          {
+                            "topic": "复位",
+                            "id": "ac48248f46b9534b"
+                          },
+                          {
+                            "topic": "跟随",
+                            "id": "ac48251991f10009"
+                          },
+                          {
+                            "topic": "峰值保持",
+                            "id": "ac48259bf98fa402"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.3.5.2 模数转换器（ADC）",
+                    "id": "ac4818d066930402",
+                    "children": [
+                      {
+                        "topic": "常用ADC",
+                        "id": "ac48267b7b0c93ae"
+                      },
+                      {
+                        "topic": "性能指标",
+                        "id": "ac48272efc695b1d"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.3.5.3 存储器",
+                    "id": "ac481960d712b701"
+                  },
+                  {
+                    "topic": "D-3.3.5.4 多道分析逻辑",
+                    "id": "ac4819e29823b9d3"
+                  },
+                  {
+                    "topic": "D-3.3.5.5 显示和控制",
+                    "id": "ac481a532d337124"
+                  },
+                  {
+                    "topic": "论文[2] 线性运算放大器噪声参数的测量. 丛琳",
+                    "id": "ac481bfdfadb493f",
+                    "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=176419"
+                  }
+                ]
+              },
+              {
+                "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                "id": "ac47bc8b32e4fe4e",
+                "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+              },
+              {
+                "topic": "教材[5] 王芝英 核电子技术原理[M]. 北京: 原子能出版社, 1989.",
+                "id": "ac47bc8b998abb8e",
+                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/10758143/7b4a9d7a730443f0b4a883709d57f907/3f2e7af38f413f73d6cfa21c630e0677.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D5ade21c5a6885f60de80b0cd9476075d%26ssid%3D10758143&fenlei=18140902&logintype=2&uid=&username=59.66.30.113&view=-1"
+              }
+            ]
+          },
+          {
+            "topic": "D-3.4 性能表征",
+            "id": "ac46d5281731b9fc",
+            "children": [
+              {
+                "topic": "D-3.4.1 能量分辨率",
+                "id": "ac482a303d044f54",
+                "children": [
+                  {
+                    "topic": "D-3.4.1.1不确定性来源",
+                    "id": "ac482ec7b1093b40",
+                    "children": [
+                      {
+                        "topic": "射线能量",
+                        "id": "ac48303af86d942e"
+                      },
+                      {
+                        "topic": "信号产生",
+                        "id": "ac4830c3a5eecb07"
+                      },
+                      {
+                        "topic": "信号收集",
+                        "id": "ac4831451034663b"
+                      },
+                      {
+                        "topic": "电子学噪声",
+                        "id": "ac4831c262ae186e"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "智能体：能量分辨率计算助手（Energy Resolution Calculation）",
+                    "id": "ac482f760e4da4fb"
+                  }
+                ]
+              },
+              {
+                "topic": "D-3.4.2 计数统计",
+                "id": "ac482b0553de3385",
+                "children": [
+                  {
+                    "topic": "D-3.4.2.1 伽马谱仪中的计数分布",
+                    "id": "ac4833762c855e7c",
+                    "children": [
+                      {
+                        "topic": "1. 概率论基本知识",
+                        "id": "ac48358171923d73"
+                      },
+                      {
+                        "topic": "2. 核辐射物理基本知识",
+                        "id": "ac48361006635d06"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.4.2.2 峰面积测量与计数条件优化",
+                    "id": "ac4834280caa7d05",
+                    "children": [
+                      {
+                        "topic": "D-3.4.2.2.1 峰面积测量",
+                        "id": "ac483a8b4988cd9c",
+                        "children": [
+                          {
+                            "topic": "简单峰值积分",
+                            "id": "ac483bf34e8e5344"
+                          },
+                          {
+                            "topic": "峰本底",
+                            "id": "ac483c79de54314b"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-3.4.2.2.2 优化条件",
+                        "id": "ac483b45d5049395",
+                        "children": [
+                          {
+                            "topic": "本底宽度",
+                            "id": "ac483d45cc264759"
+                          },
+                          {
+                            "topic": "多道道数",
+                            "id": "ac483dd0df0374ba"
+                          },
+                          {
+                            "topic": "计数时间",
+                            "id": "ac483e3e6ce7fadf"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-3.4.2.3 计数极限",
+                    "id": "ac4834cc64e20ac9",
+                    "children": [
+                      {
+                        "topic": "判断限",
+                        "id": "ac483ef1c88d92f6"
+                      },
+                      {
+                        "topic": "上限",
+                        "id": "ac483f25db997a1f"
+                      },
+                      {
+                        "topic": "探测限",
+                        "id": "ac484064f7515f28"
+                      },
+                      {
+                        "topic": "确定限",
+                        "id": "ac4840dc0647b255"
+                      },
+                      {
+                        "topic": "最小可探测活度",
+                        "id": "ac484151d6d8812f"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                "id": "ac482d3fc2a041f8",
+                "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "topic": "D-4 应用",
+        "id": "ac3c749e8ce11a6e",
+        "direction": 1,
+        "children": [
+          {
+            "topic": "D-4.1 高纯锗伽马谱仪",
+            "id": "ac4844b1f214e3e5",
+            "children": [
+              {
+                "topic": "D-4.1.1 探测器",
+                "id": "ac48481c1ba98be6",
+                "children": [
+                  {
+                    "topic": "杂质类型",
+                    "id": "ac484ba737a67e53"
+                  },
+                  {
+                    "topic": "电极结构",
+                    "id": "ac484c3787dfd76a"
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.1.2 读出电路",
+                "id": "ac48490a515dde7b",
+                "children": [
+                  {
+                    "topic": "a噪声和c噪声：探测器电容",
+                    "id": "ac484cd29a47e694"
+                  },
+                  {
+                    "topic": "b噪声：脉冲复位",
+                    "id": "ac484d7f8e814226"
+                  },
+                  {
+                    "topic": "弹道亏损",
+                    "id": "ac484dfb8b4b24bf"
+                  },
+                  {
+                    "topic": "死时间",
+                    "id": "ac484e7df5b65c20"
+                  },
+                  {
+                    "topic": "论文[4] 高压气体电离室中离子漂移速度的研究. 汪青海",
+                    "id": "ac4850bae3038e5b",
+                    "hyperLink": "https://newetds.lib.tsinghua.edu.cn/qh/paper/summary?dbCode=ETDQH&sysId=196097"
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.1.3 应用",
+                "id": "ac4849a47b708163"
+              },
+              {
+                "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                "id": "ac484adb3502963e",
+                "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+              }
+            ]
+          },
+          {
+            "topic": "D-4.2 闪烁体伽马谱仪",
+            "id": "ac4845835feaffd6",
+            "children": [
+              {
+                "topic": "D-4.2.1 信号产生",
+                "id": "ac48559e24de2944",
+                "children": [
+                  {
+                    "topic": "D-4.2.1.1 射线沉积能量",
+                    "id": "ac4859768441d638"
+                  },
+                  {
+                    "topic": "D-4.2.1.2 激发产生荧光",
+                    "id": "ac485a11e6e57b7f",
+                    "children": [
+                      {
+                        "topic": "荧光产生机理",
+                        "id": "ac485b75b3714698"
+                      },
+                      {
+                        "topic": "发光效率",
+                        "id": "ac485c27380c4025"
+                      },
+                      {
+                        "topic": "荧光收集",
+                        "id": "ac485ca87adf1ec3"
+                      },
+                      {
+                        "topic": "闪烁体的能量分辨率",
+                        "id": "ac485d23240a89ed"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-4.2.1.3 光电转换",
+                    "id": "ac485aafc9e020d6",
+                    "children": [
+                      {
+                        "topic": "D-4.2.1.3.1 常见光电转换器件种类",
+                        "id": "ac485ef974525395",
+                        "children": [
+                          {
+                            "topic": "PD",
+                            "id": "ac486215e30d6640"
+                          },
+                          {
+                            "topic": "PMT",
+                            "id": "ac4862f9b10abde4"
+                          },
+                          {
+                            "topic": "APD",
+                            "id": "ac4863b40ae2e9f1"
+                          },
+                          {
+                            "topic": "SiPM",
+                            "id": "ac486441429e33b2"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-4.2.1.3.2 光电转换器件基本性能",
+                        "id": "ac485fa1832be4e6",
+                        "children": [
+                          {
+                            "topic": "探测效率",
+                            "id": "ac486516d3e77e77"
+                          },
+                          {
+                            "topic": "动态范围",
+                            "id": "ac4865b127abee8d"
+                          },
+                          {
+                            "topic": "信噪比",
+                            "id": "ac4866334b402fbe"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.2.2 信号分析",
+                "id": "ac485670ed106835",
+                "children": [
+                  {
+                    "topic": "D-4.2.2.1 能量分辨率",
+                    "id": "ac4867b0b120fcc9",
+                    "children": [
+                      {
+                        "topic": "本征能量分辨率",
+                        "id": "ac48695053ee914f"
+                      },
+                      {
+                        "topic": "电子学噪声",
+                        "id": "ac4869d2a405e605"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-4.2.2.2 时间特性",
+                    "id": "ac48689fb55c0f03"
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.2.3 读出电路",
+                "id": "ac4856fef502ad79"
+              },
+              {
+                "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                "id": "ac4858586d21d5ca",
+                "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+              }
+            ]
+          },
+          {
+            "topic": "D-4.3 其他核仪器",
+            "id": "ac484676f700e175",
+            "children": [
+              {
+                "topic": "D-4.3.1 能量",
+                "id": "ac486cb7e3889068",
+                "children": [
+                  {
+                    "topic": "D-4.3.1.1 伽马谱仪",
+                    "id": "ac48749745ad57a4"
+                  },
+                  {
+                    "topic": "D-4.3.1.2 XRF分析仪器",
+                    "id": "ac48758d8d0a9d69",
+                    "children": [
+                      {
+                        "topic": "D-4.3.1.2.1 物理原理",
+                        "id": "ac4876753bfe8366"
+                      },
+                      {
+                        "topic": "D-4.3.1.2.2 辐射源",
+                        "id": "ac487737b6772be1",
+                        "children": [
+                          {
+                            "topic": "放射性同位素",
+                            "id": "ac48789420289a5b"
+                          },
+                          {
+                            "topic": "X光机",
+                            "id": "ac48791edb0be1c1"
+                          },
+                          {
+                            "topic": "电子束",
+                            "id": "ac48799945c1995d"
+                          },
+                          {
+                            "topic": "带电粒子",
+                            "id": "ac487a18d5923316"
+                          },
+                          {
+                            "topic": "同步辐射光源",
+                            "id": "ac487a9b8559c34a"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-4.3.1.2.3 探测器",
+                        "id": "ac4877d46b8094ec",
+                        "children": [
+                          {
+                            "topic": "正比管",
+                            "id": "ac487b489afdd794"
+                          },
+                          {
+                            "topic": "闪烁体探测器",
+                            "id": "ac487bd89a9338ca"
+                          },
+                          {
+                            "topic": "半导体探测器",
+                            "id": "ac487c52876ff2ee"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.3.2 时间",
+                "id": "ac486db679d8ce9c",
+                "children": [
+                  {
+                    "topic": "PET",
+                    "id": "ac487d50c4721a33"
+                  },
+                  {
+                    "topic": "TOF",
+                    "id": "ac487ddb712f4dc4",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.3.3 通量",
+                "id": "ac486e700adb0261",
+                "children": [
+                  {
+                    "topic": "X射线透射",
+                    "id": "ac487f0ce65d69bd"
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.3.4 剂量",
+                "id": "ac486f0823ee9001",
+                "children": [
+                  {
+                    "topic": "剂量仪",
+                    "id": "ac4880522012c7db"
+                  }
+                ]
+              },
+              {
+                "topic": "D-4.3.5 成像",
+                "id": "ac486fbb7bc72285",
+                "children": [
+                  {
+                    "topic": "D-4.3.5.1 伽马相机",
+                    "id": "ac48814751fc8d6f",
+                    "children": [
+                      {
+                        "topic": "D-4.3.5.1.1 物理原理",
+                        "id": "ac4883de8f18f911",
+                        "children": [
+                          {
+                            "topic": "测量放射性同位素在体内的分布",
+                            "id": "ac4885f3b11953e3"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-4.3.5.1.2 组成",
+                        "id": "ac48849f3f6f90e5",
+                        "children": [
+                          {
+                            "topic": "准直器",
+                            "id": "ac4886cad7ec1592"
+                          },
+                          {
+                            "topic": "闪烁体",
+                            "id": "ac48877146a5a360"
+                          },
+                          {
+                            "topic": "光电倍增管",
+                            "id": "ac4887e8af83d35d"
+                          },
+                          {
+                            "topic": "位置解析网络",
+                            "id": "ac48887347a4eadd"
+                          },
+                          {
+                            "topic": "读出电路",
+                            "id": "ac4888f4dd16bf0a"
+                          },
+                          {
+                            "topic": "采集和重建软件",
+                            "id": "ac48898019dc54c6"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "D-4.3.5.1.3 信号分析",
+                        "id": "ac48853f0ff1dbff"
+                      }
+                    ]
+                  },
+                  {
+                    "topic": "D-4.3.5.2 SPECT/PET",
+                    "id": "ac488222853756e9"
+                  },
+                  {
+                    "topic": "D-4.3.5.3 X射线成像",
+                    "id": "ac4882eaa290474c",
+                    "children": [
+                      {
+                        "topic": "D-4.3.5.3.1 原理",
+                        "id": "ac488ae4c3498b0f"
+                      },
+                      {
+                        "topic": "D-4.3.5.3.2 组成",
+                        "id": "ac488c02c09c75f4"
+                      },
+                      {
+                        "topic": "D-4.3.5.3.3 数据处理",
+                        "id": "ac488c8fd475d40f",
+                        "children": [
+                          {
+                            "topic": "D-4.3.5.3.3.1 图像重建算法",
+                            "id": "ac488fa62418dec1",
+                            "children": [
+                              {
+                                "topic": "D-4.3.5.3.3.1.1 解析重建算法",
+                                "id": "ac489049ec272938"
+                              },
+                              {
+                                "topic": "D-4.3.5.3.3.1.2 迭代重建算法",
+                                "id": "ac4890e17ec1352d"
+                              },
+                              {
+                                "topic": "D-4.3.5.3.3.1.3 基于深度学习的重建算法",
+                                "id": "ac489156ecd3bfbc"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "topic": "教材[1] Knoll G F. Radiation detection and measurement[M]. John Wiley & Sons, 2010.",
+                "id": "ac48735ccbc06347",
+                "hyperLink": "https://www.itextbook.cn/f/book/bookDetail?bookId=badb25aa5acf49b1b62bb6b3e6c42a73"
+              },
+              {
+                "topic": "教材[5] 王芝英 核电子技术原理[M]. 北京: 原子能出版社, 1989.",
+                "id": "ac48735d0c6180d8",
+                "hyperLink": "https://img.sslibrary.com/n/slib/book/slib/10758143/7b4a9d7a730443f0b4a883709d57f907/3f2e7af38f413f73d6cfa21c630e0677.shtml?dxbaoku=false&moocbaoku=false&deptid=278&ext=%7B%22from%22%3A%22sslibrary%22%7D&fav=https%3A%2F%2Fwww.sslibrary.com%2Freader%2Fpdg%2Fpdgreader%3Fxjbk%3D0%26d%3D5ade21c5a6885f60de80b0cd9476075d%26ssid%3D10758143&fenlei=18140902&logintype=2&uid=&username=59.66.30.113&view=-1"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "arrows": [
+    {
+      "id": "a006169cef67c397",
+      "label": "·",
+      "from": "a006120f03465bc9",
+      "to": "a00612c2327d4745",
+      "delta1": {
+        "x": 125.5,
+        "y": 0
+      },
+      "delta2": {
+        "x": 140.5,
+        "y": 0
+      }
+    },
+    {
+      "id": "ac3cb4ff7f0c2774",
+      "label": "应用需求",
+      "from": "ac3c838a29c0a18c",
+      "to": "ac3c853e643d4520",
+      "delta1": {
+        "x": -44.41666666666549,
+        "y": 150.4166666666655
+      },
+      "delta2": {
+        "x": 62.666666666666174,
+        "y": -162.91666666666652
+      }
+    },
+    {
+      "id": "ac3cbc26bf9f1b5a",
+      "label": "性能要求",
+      "from": "ac3c853e643d4520",
+      "to": "ac3c86b9d500c051",
+      "delta1": {
+        "x": -61.91666666666663,
+        "y": 127.50000000000045
+      },
+      "delta2": {
+        "x": 68.08333333333371,
+        "y": -115.41666666666765
+      }
+    }
+  ],
+  "summaries": [
+    {
+      "id": "ac4751b1eae5c939",
+      "parent": "ac47466b2cd08be7",
+      "start": 0,
+      "end": 2,
+      "label": "放大器"
+    },
+    {
+      "id": "ac4755513dbd8fdb",
+      "parent": "ac47466b2cd08be7",
+      "start": 3,
+      "end": 7,
+      "label": "负反馈放大器"
+    }
+  ],
+  "direction": 1,
+  "theme": {
+    "name": "Latte",
+    "type": "light",
+    "palette": [
+      "#dd7878",
+      "#ea76cb",
+      "#8839ef",
+      "#e64553",
+      "#fe640b",
+      "#df8e1d",
+      "#40a02b",
+      "#209fb5",
+      "#1e66f5",
+      "#7287fd"
+    ],
+    "cssVar": {
+      "--gap": "30px",
+      "--main-color": "#444446",
+      "--main-bgcolor": "#ffffff",
+      "--color": "#777777",
+      "--bgcolor": "#f6f6f6",
+      "--panel-color": "#444446",
+      "--panel-bgcolor": "#ffffff",
+      "--panel-border-color": "#eaeaea"
+    }
+  }
+}
