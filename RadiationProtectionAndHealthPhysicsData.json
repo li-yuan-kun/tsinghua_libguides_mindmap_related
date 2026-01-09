@@ -1,0 +1,2903 @@
+{
+  "nodeData": {
+    "id": "root",
+    "topic": "B-辐射防护及保健物理",
+    "children": [
+      {
+        "id": "9296fa19bad273dc",
+        "topic": "B-1基础知识",
+        "children": [
+          {
+            "id": "c0c5815ab1ec463f",
+            "topic": "B-1.1各类辐射源",
+            "children": [
+              {
+                "id": "09283a0ee1e717e0",
+                "topic": "B-1.1.1天然辐射源",
+                "children": [
+                  {
+                    "id": "7e7b5cdf37e57fe7",
+                    "topic": "外层空间",
+                    "children": [
+                      {
+                        "id": "d76d08947e55c8bb",
+                        "topic": "银河宇宙射线",
+                        "children": [
+                          {
+                            "id": "70c03a6cd830bb5c",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5463a5c891e6e7d1",
+                        "topic": "太阳粒子事件",
+                        "children": [
+                          {
+                            "id": "6c2b8b34896c0794",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d98b531fd1dc5dbb",
+                        "topic": "地磁捕获辐射带",
+                        "children": [
+                          {
+                            "id": "58ef2374db3e3674",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "29126ff9240c7ca7",
+                    "topic": "大气层内",
+                    "children": [
+                      {
+                        "id": "304a79e64eb6cb63",
+                        "topic": "宇宙射线",
+                        "children": [
+                          {
+                            "id": "4c86be68a7fcfeef",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "be8ad14428fa0f4d",
+                        "topic": "宇生放射性核素",
+                        "children": [
+                          {
+                            "id": "2e931b3d48a908ef",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5af5106b977e7c89",
+                        "topic": "原生放射性核素",
+                        "children": [
+                          {
+                            "id": "4e2fc4b8bdaa4b33",
+                            "topic": "天然放射性系列",
+                            "children": [
+                              {
+                                "id": "b7314f98c41a6bcf",
+                                "topic": "[1][2]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "a010df68d949d690",
+                            "topic": "不成系列的放射性核素",
+                            "children": [
+                              {
+                                "id": "466a94f341922ac9",
+                                "topic": "[1]"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "61bfba3fb692502f",
+                "topic": "B-1.1.2人工辐射源",
+                "children": [
+                  {
+                    "id": "a4635d0ba2404959",
+                    "topic": "放射性同位素",
+                    "children": [
+                      {
+                        "id": "605dc9f47f3cadbd",
+                        "topic": "[1]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "783ddb8773ffb921",
+                    "topic": "射线装置",
+                    "children": [
+                      {
+                        "id": "4d234ce43dea16f6",
+                        "topic": "[1]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "24372591065bc6b0",
+                    "topic": "核设施",
+                    "children": [
+                      {
+                        "id": "3620f12ea70d724d",
+                        "topic": "[1]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "962d7583766a3470",
+            "topic": "B-1.2辐射与物质的相互作用",
+            "children": [
+              {
+                "id": "f9de4af1ff44332c",
+                "topic": "B-1.2.1低中能射线",
+                "children": [
+                  {
+                    "id": "d28863b9c6d63a4a",
+                    "topic": "带电粒子",
+                    "children": [
+                      {
+                        "id": "9ccbac65fee2e6a7",
+                        "topic": "种类和特性",
+                        "children": [
+                          {
+                            "id": "9a1ee50b2516a6e4",
+                            "topic": "[2][3]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "993e6b7daf664696",
+                        "topic": "相互作用的过程",
+                        "children": [
+                          {
+                            "id": "e6f02e7260356ce6",
+                            "topic": "电离和激发",
+                            "children": [
+                              {
+                                "id": "e8d7ca3888bb5544",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "b8232d40c891f310",
+                            "topic": "轫致辐射",
+                            "children": [
+                              {
+                                "id": "2e9bd89394b4de11",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "368fca24f20f92ee",
+                            "topic": "弹性散射",
+                            "children": [
+                              {
+                                "id": "efa9bdd38d12233b",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "d0a994f5b719f7fd",
+                            "topic": "核反应",
+                            "children": [
+                              {
+                                "id": "42ed534ce6b7f298",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "a48ad761a7471c9b",
+                            "topic": "湮没辐射",
+                            "children": [
+                              {
+                                "id": "dc870cf68aeb7fa1",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "c410149dc93a0ccb",
+                            "topic": "切伦科夫辐射",
+                            "children": [
+                              {
+                                "id": "18145b6d359ed02f",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d25780aab8566ba2",
+                        "topic": "带电粒子在物质中的射程",
+                        "children": [
+                          {
+                            "id": "fd9476fcb40e3c8f",
+                            "topic": "[3]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "1da912b8d55c023b",
+                        "topic": "相互作用系数",
+                        "children": [
+                          {
+                            "id": "b67aec228ca81daf",
+                            "children": [
+                              {
+                                "id": "ba1b91dc3685c86c",
+                                "topic": "[1][3]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/1.2.1-1.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          },
+                          {
+                            "id": "647a71445d4021d8",
+                            "children": [
+                              {
+                                "id": "ba1b92156d801f3b",
+                                "topic": "[1][3]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/1.2.1-2.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          },
+                          {
+                            "id": "71ed8a5aeac72345",
+                            "topic": "LET",
+                            "children": [
+                              {
+                                "id": "e84a4486af549ee8",
+                                "topic": "[3]"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "84e780225eac1f69",
+                    "topic": "X、γ射线",
+                    "children": [
+                      {
+                        "id": "ec0cbc4efdb68bb7",
+                        "topic": "相互作用的过程",
+                        "children": [
+                          {
+                            "id": "9e7779fa781cb020",
+                            "topic": "光电效应",
+                            "children": [
+                              {
+                                "id": "7d83a902aebb4e3c",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "7e6673b35f7736e5",
+                            "topic": "康普顿效应",
+                            "children": [
+                              {
+                                "id": "19804ded497cce69",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "7b439d2cb6bd0b19",
+                            "topic": "电子对效应",
+                            "children": [
+                              {
+                                "id": "5549f558aa648fdc",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ea6f0d5210b3b501",
+                            "topic": "相干散射",
+                            "children": [
+                              {
+                                "id": "f55b72efb3b8b4a5",
+                                "topic": "[3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "b3ece82a500f5829",
+                            "topic": "光核反应",
+                            "children": [
+                              {
+                                "id": "350788b16061de95",
+                                "topic": "[3]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "6660ee59e883ae3b",
+                        "topic": "衰减过程",
+                        "children": [
+                          {
+                            "id": "c421fbe498404158",
+                            "topic": "[1][3]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "d8fccc414d9e1ebc",
+                        "topic": "相互作用系数",
+                        "children": [
+                          {
+                            "id": "64f5be28f3cccaa7",
+                            "topic": "质量衰减系数",
+                            "children": [
+                              {
+                                "id": "5346b3961591aa49",
+                                "topic": "[1][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "d7cbe7b9237471e0",
+                            "topic": "质能转移系数",
+                            "children": [
+                              {
+                                "id": "45bfb5ebc322816e",
+                                "topic": "[1][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "36a6b8bbe0f3e59b",
+                            "topic": "质能吸收系数",
+                            "children": [
+                              {
+                                "id": "5543f089775144e5",
+                                "topic": "[1][3]"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "a7b3c4b369766954",
+                    "topic": "中子",
+                    "children": [
+                      {
+                        "id": "43b11df889f10213",
+                        "topic": "相互作用的过程",
+                        "children": [
+                          {
+                            "id": "8c33c4c05c74b601",
+                            "topic": "非弹性散射",
+                            "children": [
+                              {
+                                "id": "100ca8d14a4f0cca",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "5cb55de9763a06c2",
+                            "topic": "弹性散射",
+                            "children": [
+                              {
+                                "id": "406d9d4b664a6893",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "2a47e6e7b7ed7444",
+                            "topic": "辐射俘获",
+                            "children": [
+                              {
+                                "id": "dee323b54d737fb7",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "1a4a3c55d0936d71",
+                            "topic": "其它核反应",
+                            "children": [
+                              {
+                                "id": "4441d884e0033dd4",
+                                "topic": "[2][3]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "576b36edcf5d8f81",
+                        "topic": "衰减过程",
+                        "children": [
+                          {
+                            "id": "f329563dbd3e467d",
+                            "topic": "[3]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "7da4a377a0a0f465",
+                        "topic": "相互作用系数",
+                        "children": [
+                          {
+                            "id": "11f3a890d67cf594",
+                            "topic": "反应截面",
+                            "children": [
+                              {
+                                "id": "ae5a110c323edc14",
+                                "topic": "[8]"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "92f1267a53fda07f",
+                "topic": "B-1.2.2高能射线",
+                "children": [
+                  {
+                    "id": "8e0cad57869e83cb",
+                    "topic": "电磁簇射",
+                    "children": [
+                      {
+                        "id": "cd5262d33b117801",
+                        "topic": "[11]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "4404388e18f68168",
+                    "topic": "强子簇射",
+                    "children": [
+                      {
+                        "id": "0aa9379f5cc91448",
+                        "topic": "[11]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "id": "4833821f887d24bc",
+        "topic": "B-2辐射健康效应",
+        "children": [
+          {
+            "id": "36186145b526f47b",
+            "topic": "B-2.1特点",
+            "children": [
+              {
+                "id": "a3829cd637bbf9e2",
+                "topic": "低吸收能量引起高生物效应",
+                "children": [
+                  {
+                    "id": "e2f965f65120f21b",
+                    "topic": "[1]"
+                  }
+                ]
+              },
+              {
+                "id": "6d5c042c5c56a5ac",
+                "topic": "短暂作用引起长期效应",
+                "children": [
+                  {
+                    "id": "846dbb25a2f6c465",
+                    "topic": "[1]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "df50630fae246ec6",
+            "topic": "B-2.2影响因素",
+            "children": [
+              {
+                "id": "8b1a3e9eb2e8d454",
+                "topic": "物理因素",
+                "children": [
+                  {
+                    "id": "a7f9fa568928447a",
+                    "topic": "射线品质",
+                    "children": [
+                      {
+                        "id": "39c8ce36074b06e0",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "39ef21d619711905",
+                    "topic": "辐射剂量",
+                    "children": [
+                      {
+                        "id": "fc3ba6ec5f279732",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "eae9dcab0e1af381",
+                    "topic": "分次照射/单次受照",
+                    "children": [
+                      {
+                        "id": "84c6fbed7f013ed5",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "11230b40901db42f",
+                    "topic": "照射条件",
+                    "children": [
+                      {
+                        "id": "3b4c25bc16d8e106",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "82760fac25642f61",
+                "topic": "生物因素",
+                "children": [
+                  {
+                    "id": "71527a3951e79c36",
+                    "topic": "不同生物种系对辐射的敏感性不同",
+                    "children": [
+                      {
+                        "id": "cc9050500c448723",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "e5a8e2247bfa9b42",
+                    "topic": "不同年龄对辐射敏感性不同",
+                    "children": [
+                      {
+                        "id": "151796e17ec48cd7",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "ae8e792f4c524b57",
+                    "topic": "不同组织或器官对辐射敏感性不同",
+                    "children": [
+                      {
+                        "id": "83c380e00dcbe162",
+                        "topic": "[1][4]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "6a744c336c6bad27",
+            "topic": "B-2.3作用过程（作用机制）",
+            "children": [
+              {
+                "id": "5f4da7614612d825",
+                "topic": "直接作用（直接影响生物大分子）",
+                "children": [
+                  {
+                    "id": "3f84369afcfbdfad",
+                    "topic": "[4]"
+                  }
+                ]
+              },
+              {
+                "id": "086c84689484207f",
+                "topic": "间接作用",
+                "children": [
+                  {
+                    "id": "23a0c1cc14e909d7",
+                    "topic": "[4]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "c843ea5475b4ad68",
+            "topic": "B-2.4辐射生物效应",
+            "children": [
+              {
+                "id": "4c65fba5ab40cf48",
+                "topic": "B-2.4.1宏观生物效应",
+                "children": [
+                  {
+                    "id": "13e6e56e91fcd272",
+                    "topic": "剂量效应关系",
+                    "children": [
+                      {
+                        "id": "0947f6222954d41c",
+                        "topic": "确定性效应",
+                        "children": [
+                          {
+                            "id": "5e981c82de9ec9bf",
+                            "topic": "特点",
+                            "children": [
+                              {
+                                "id": "54fbdec6bfc6a5e2",
+                                "topic": "有阈",
+                                "children": [
+                                  {
+                                    "id": "dac5f9ca42432b92",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "2ea22d96a56dec4d",
+                                "topic": "严重程度与剂量有关",
+                                "children": [
+                                  {
+                                    "id": "5a0e47197586a3b3",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "5fb1b42add81db54",
+                            "topic": "具体效应",
+                            "children": [
+                              {
+                                "id": "c936b98816157ac2",
+                                "topic": "血液的辐射效应",
+                                "children": [
+                                  {
+                                    "id": "3d7c54fda96ad495",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "f2c36ff00af88729",
+                                "topic": "性腺的辐射效应",
+                                "children": [
+                                  {
+                                    "id": "5a08653abbfff2b8",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "64cbc0a091781c52",
+                                "topic": "眼晶体的辐射效应",
+                                "children": [
+                                  {
+                                    "id": "4b36cd2f92ece491",
+                                    "topic": "眼晶体混浊",
+                                    "children": [
+                                      {
+                                        "id": "2a40b05bcf534132",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "c283207c195a3b8d",
+                                    "topic": "白内障",
+                                    "children": [
+                                      {
+                                        "id": "d112f2951184c6b4",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "29165560be59931e",
+                                "topic": "皮肤的辐射效应",
+                                "children": [
+                                  {
+                                    "id": "1580645f128bf4fc",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "fb45bbcb51da84c7",
+                                "topic": "急性放射病",
+                                "children": [
+                                  {
+                                    "id": "1237134285f4852c",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "0fae8732214ec89e",
+                                "topic": "对胚胎和胎儿的影响",
+                                "children": [
+                                  {
+                                    "id": "5459a8d91e0915a9",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "18e7f68898ee76e1",
+                                "topic": "其它效应",
+                                "children": [
+                                  {
+                                    "id": "e96b613f2d6d4303",
+                                    "topic": "甲状腺",
+                                    "children": [
+                                      {
+                                        "id": "5bfba045618fcef1",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "8c23b9c4a06cf7ee",
+                                    "topic": "肺脏等",
+                                    "children": [
+                                      {
+                                        "id": "1ae3849f50f99a16",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "4ceea0f456b43873",
+                        "topic": "随机性效应",
+                        "children": [
+                          {
+                            "id": "0f563db406523090",
+                            "topic": "特点",
+                            "children": [
+                              {
+                                "id": "75b3b1cf02172bcd",
+                                "topic": "发生概率与剂量有关",
+                                "children": [
+                                  {
+                                    "id": "aa8b085adbd18e15",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "04587b1fe5a91fd7",
+                                "topic": "严重程度与剂量无关",
+                                "children": [
+                                  {
+                                    "id": "b85416e556d52b34",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "0592fb9038635c26",
+                            "topic": "具体效应",
+                            "children": [
+                              {
+                                "id": "d8674a3919e27c72",
+                                "topic": "致癌效应",
+                                "children": [
+                                  {
+                                    "id": "33ab668a615c338d",
+                                    "topic": "白血病",
+                                    "children": [
+                                      {
+                                        "id": "0802397e8efad918",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "ba23985f3a1f44f3",
+                                    "topic": "甲状腺癌",
+                                    "children": [
+                                      {
+                                        "id": "d9f0d31112b29ea5",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "b2d87ba6ecad29a5",
+                                    "topic": "乳腺癌",
+                                    "children": [
+                                      {
+                                        "id": "fdb3ef82e0262351",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "cb1f0d0aedd486aa",
+                                    "topic": "肺癌",
+                                    "children": [
+                                      {
+                                        "id": "05f5f3f0b5decd41",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "6d6a91ba95ee39ea",
+                                    "topic": "骨肉瘤",
+                                    "children": [
+                                      {
+                                        "id": "1aa7e330819fd8e4",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "f743b17ce776d83a",
+                                    "topic": "出生前受照的儿童发生的恶性肿瘤",
+                                    "children": [
+                                      {
+                                        "id": "7493a86f95c6c49e",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "47bb6328ded6728e",
+                                    "topic": "其它",
+                                    "children": [
+                                      {
+                                        "id": "c300208a217e8c20",
+                                        "topic": "[1][4]"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "5f89c700824fc48f",
+                                "topic": "遗传效应",
+                                "children": [
+                                  {
+                                    "id": "f60f5b04e67e51f5",
+                                    "topic": "[1][4]"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "317b01d49ed8dd5d",
+                "topic": "B-2.4.2微观生物效应",
+                "children": [
+                  {
+                    "id": "7d0f4c601bb5d8d7",
+                    "topic": "辐射对DNA的作用",
+                    "children": [
+                      {
+                        "id": "284d55ae1e0712b0",
+                        "topic": "碱基损伤",
+                        "children": [
+                          {
+                            "id": "9b5b41e59fdf8531",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b6270e3d27fe7941",
+                        "topic": "DNA链断裂",
+                        "children": [
+                          {
+                            "id": "0ac34a1b4bbff28d",
+                            "topic": "单链断裂",
+                            "children": [
+                              {
+                                "id": "8a2b2d822812f174",
+                                "topic": "[1]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "5a89f43262e5c4a6",
+                            "topic": "双链断裂",
+                            "children": [
+                              {
+                                "id": "c17a50b2519dbed9",
+                                "topic": "[1]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ea57dae896a1f243",
+                        "topic": "DNA交联",
+                        "children": [
+                          {
+                            "id": "909388eeb78f8583",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "41a8d3cb2fd12e0b",
+                    "topic": "辐射对染色体的作用",
+                    "children": [
+                      {
+                        "id": "0144b1812d5c13f3",
+                        "topic": "[1]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "d347f872a878888a",
+                    "topic": "辐射对细胞的作用",
+                    "children": [
+                      {
+                        "id": "212e069ee6f319df",
+                        "topic": "杀伤细胞",
+                        "children": [
+                          {
+                            "id": "f52abce977bf7ee5",
+                            "topic": "细胞存活曲线",
+                            "children": [
+                              {
+                                "id": "e4b9d41973e8e354",
+                                "topic": "单靶单击理论",
+                                "children": [
+                                  {
+                                    "id": "2527e522437bd15f",
+                                    "topic": "[1]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "dfa19f579f245a2d",
+                                "topic": "双靶理论",
+                                "children": [
+                                  {
+                                    "id": "de505e604b690532",
+                                    "topic": "[1]"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      },
+      {
+        "id": "e7da8f1885d6bf01",
+        "topic": "B-3辐射防护的量",
+        "children": [
+          {
+            "id": "dba5d0a6defe2b7d",
+            "topic": "B-3.1定义",
+            "children": [
+              {
+                "id": "d5d405212efe14d7",
+                "topic": "B-3.1.1基本量",
+                "children": [
+                  {
+                    "id": "9995f1336c078b41",
+                    "topic": "B-3.1.1.1放射性的量",
+                    "children": [
+                      {
+                        "id": "50838affe843ecc7",
+                        "topic": "[1]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "989695ac483e2f89",
+                    "topic": "B-3.1.1.2辐射场的量",
+                    "children": [
+                      {
+                        "id": "bb22949e49d8d072",
+                        "topic": "粒子注量φ（粒子注量率）",
+                        "children": [
+                          {
+                            "id": "5827c5591273c321",
+                            "topic": "定义",
+                            "children": [
+                              {
+                                "id": "779b1d39869f7b6b",
+                                "topic": "进入以该点为球心，截面积为da的小球体内的粒子数与da的商",
+                                "children": [
+                                  {
+                                    "id": "20e6a0b57ee13de6",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "84b929e8c987c2f6",
+                            "topic": "计算方式",
+                            "children": [
+                              {
+                                "id": "a613f04cfcd17668",
+                                "children": [
+                                  {
+                                    "id": "ba1baf9037bcb519",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/粒子注量.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "64088f1a68118071",
+                        "topic": "能量注量Ψ（能量注量率）",
+                        "children": [
+                          {
+                            "id": "0cf598d5b12f846a",
+                            "topic": "定义",
+                            "children": [
+                              {
+                                "id": "9de3d7d5c48ce44a",
+                                "topic": "进入单位截面积的球体内的所有粒子能量之和与da的商",
+                                "children": [
+                                  {
+                                    "id": "c394f0c4692dde03",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "e0cecb674612267c",
+                            "topic": "计算方式",
+                            "children": [
+                              {
+                                "id": "e947d875c0f6c441",
+                                "children": [
+                                  {
+                                    "id": "ba1bb90e9552ba9e",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/能量注量.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "a0876abe9192ee8a",
+                    "topic": "B-3.1.1.3剂量学的量",
+                    "children": [
+                      {
+                        "id": "9c13197adbec3a68",
+                        "topic": "比释动能K（间接带电粒子）",
+                        "children": [
+                          {
+                            "id": "fe65c21e8f133c82",
+                            "topic": "定义",
+                            "children": [
+                              {
+                                "id": "b36640b12b2884be",
+                                "topic": "比释动能K定义为带电粒子初始动能和质量之商，其中带电粒子初始动能是非带电粒子在质量为dm的物质中，在相互作用过程中释出的所有带电粒子初始动能的总和。",
+                                "children": [
+                                  {
+                                    "id": "ac4e746718ba91df",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "ba1c23549273e5fa",
+                                "children": [
+                                  {
+                                    "id": "ba1c240bc29ebc95",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.1.3-1.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "de18f713a94493b0",
+                            "topic": "计算方式",
+                            "children": [
+                              {
+                                "id": "9fa8e91ba756ed09",
+                                "children": [
+                                  {
+                                    "id": "ba1bc3f20a66d3b1",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/K.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "498f721e9fa53473",
+                        "topic": "吸收剂量D（带电粒子）",
+                        "children": [
+                          {
+                            "id": "568e0a4101e85618",
+                            "topic": "定义",
+                            "children": [
+                              {
+                                "id": "a58f281aa50dd1d9",
+                                "topic": "电离辐射在质量为dm的物质平均授予能和质量dm之商",
+                                "children": [
+                                  {
+                                    "id": "a554b318d0cd4c8b",
+                                    "topic": "沉积能",
+                                    "children": [
+                                      {
+                                        "id": "b998a1001dd1adf7",
+                                        "topic": "[1][3]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "1b72c4d7e5845623",
+                                    "topic": "授予能",
+                                    "children": [
+                                      {
+                                        "id": "a4a6a2449eed3fc8",
+                                        "topic": "[1][3]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "a8ca92d254158e3c",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "32043ca4c6a09aec",
+                            "topic": "计算方式",
+                            "children": [
+                              {
+                                "id": "0b25aedfd5ed1969",
+                                "children": [
+                                  {
+                                    "id": "ba1c43cdc1eea4f1",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.1.3-2.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b388d7e590a24a0e",
+                        "topic": "照射量X（X、γ射线）",
+                        "children": [
+                          {
+                            "id": "2dfa6c0d580afde3",
+                            "topic": "定义",
+                            "children": [
+                              {
+                                "id": "29f1e9cdb9001957",
+                                "children": [
+                                  {
+                                    "id": "ba1c3a233ba0a576",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.1.3-3.PNG\" width=\"90\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              },
+                              {
+                                "id": "a016537c81e720ad",
+                                "topic": "X、γ射线，在空气中，单位体积元内产生的全部电子均被阻留在空气中时，形成的总电荷除以该体积元空气质量。",
+                                "children": [
+                                  {
+                                    "id": "ba1c49accd7a19ce",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "9ab1c9d01c1d81a5",
+                            "topic": "特点",
+                            "children": [
+                              {
+                                "id": "50e891dc9d112e2f",
+                                "topic": "只适用于X、γ射线",
+                                "children": [
+                                  {
+                                    "id": "9317f7800b9f1940",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "25274e88bb622630",
+                                "topic": "只针对空气",
+                                "children": [
+                                  {
+                                    "id": "4cbe797f56af97e3",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "04895b5da2bce70e",
+                                "topic": "测量时必须满足电子平衡",
+                                "children": [
+                                  {
+                                    "id": "5f4ed7923fd98df3",
+                                    "topic": "[1][3]"
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "id": "ce96e5e041445aae",
+                            "topic": "计算方式",
+                            "children": [
+                              {
+                                "id": "0efcf14a44949fd9",
+                                "children": [
+                                  {
+                                    "id": "ba1c5131d2a9bd1c",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/X1.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              },
+                              {
+                                "id": "f2d6a7312dfc03de",
+                                "children": [
+                                  {
+                                    "id": "ba1c516e4cd5e546",
+                                    "topic": "[1][3]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/X2.png\" width=\"150\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "37b434dcc8775352",
+                        "topic": "比释动能与吸收剂量的关系",
+                        "children": [
+                          {
+                            "id": "cf0ed7730a87187c",
+                            "topic": "带电粒子平衡时相等",
+                            "children": [
+                              {
+                                "id": "1512b062ce669324",
+                                "children": [
+                                  {
+                                    "id": "ba1c5ea32fc97203",
+                                    "topic": "[1]"
+                                  }
+                                ],
+                                "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/KD.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "fcc79d51bfbe6c2d",
+                            "topic": "带电粒子平衡",
+                            "children": [
+                              {
+                                "id": "1922156f6ca04d33",
+                                "topic": "定义",
+                                "children": [
+                                  {
+                                    "id": "fe8900ba7397a5ab",
+                                    "topic": "每有一个带电粒子从所考虑体积出来，就有一个相同类型、相同能量的带电粒子从外面进入，要求一一对应",
+                                    "children": [
+                                      {
+                                        "id": "7399774e88e16678",
+                                        "topic": "[1]"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "9a8e312f59854674",
+                                "topic": "带电粒子平衡成立条件",
+                                "children": [
+                                  {
+                                    "id": "792df185fc0f1df4",
+                                    "topic": "离介质边界有一定距离",
+                                    "children": [
+                                      {
+                                        "id": "47aa198949570c06",
+                                        "topic": "[1]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "b3bcbc767908f70c",
+                                    "topic": "均匀照射条件",
+                                    "children": [
+                                      {
+                                        "id": "8b88a9bb8373a569",
+                                        "topic": "[1]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "a1834fae159627eb",
+                                    "topic": "介质均匀条件",
+                                    "children": [
+                                      {
+                                        "id": "934021231d38f5e4",
+                                        "topic": "介质对次级带电粒子的阻止本领和初级辐射的质能吸收系数不变",
+                                        "children": [
+                                          {
+                                            "id": "0af4589ca223b2cb",
+                                            "topic": "[1]"
+                                          }
+                                        ]
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "0e5c1e97c38c4695",
+                                "topic": "带电粒子平衡不成立情况",
+                                "children": [
+                                  {
+                                    "id": "50c2e6b7e75eb1d3",
+                                    "topic": "辐射源附近",
+                                    "children": [
+                                      {
+                                        "id": "1f3a4f89ef734994",
+                                        "topic": "[1]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "2fa522a09ecadf80",
+                                    "topic": "位于两种物质的界面",
+                                    "children": [
+                                      {
+                                        "id": "5cc8fb3e80aaa87c",
+                                        "topic": "[1]"
+                                      }
+                                    ]
+                                  },
+                                  {
+                                    "id": "0195d8d8efec9438",
+                                    "topic": "高能辐射",
+                                    "children": [
+                                      {
+                                        "id": "cd7682e744b180fa",
+                                        "topic": "[1]"
+                                      }
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "976eb5ecbb1bdd1e",
+                        "topic": "吸收剂量与照射量的关系",
+                        "children": [
+                          {
+                            "id": "ce5ca0e25b9f7d73",
+                            "children": [
+                              {
+                                "id": "ba1c64538009b1a6",
+                                "topic": "[1]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/DX1.png\" width=\"400\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          },
+                          {
+                            "id": "823ca365da6d9b18",
+                            "children": [
+                              {
+                                "id": "ba1c648ac640c933",
+                                "topic": "[1]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/DX2.png\" width=\"450\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "2f9c6f39fb5812a2",
+                        "topic": "比释动能、吸收剂量和照射量的比较",
+                        "children": [
+                          {
+                            "id": "d98646a0abaedcfc",
+                            "children": [
+                              {
+                                "id": "ba1c7399d1e7988f",
+                                "topic": "[1]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/DKX.png\" width=\"450\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "5d35ede544257c54",
+                "topic": "B-3.1.2防护量：辐射生物效应评价",
+                "children": [
+                  {
+                    "id": "1244985cd7e437dd",
+                    "topic": "器官平均剂量",
+                    "children": [
+                      {
+                        "id": "cb1f3ca5723d40c9",
+                        "topic": "[1][7]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "217d1e7393b03da2",
+                    "topic": "当量剂量：器官层面",
+                    "children": [
+                      {
+                        "id": "f78adc7b0c7d3600",
+                        "topic": "定义",
+                        "children": [
+                          {
+                            "id": "c81b11928a57eab3",
+                            "children": [
+                              {
+                                "id": "ba1c7d87dd88b8d4",
+                                "topic": "[1][7]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.2-1.PNG\" width=\"120\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b33f185965818513",
+                        "topic": "RBE",
+                        "children": [
+                          {
+                            "id": "7cf11e0c7dc10d1d",
+                            "children": [
+                              {
+                                "id": "ba1c813dcaf6570d",
+                                "topic": "[1][7]"
+                              }
+                            ],
+                            "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/RBE.png\" width=\"300\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                          },
+                          {
+                            "id": "ec6d632ff6b4f71c",
+                            "topic": "表达不同种类辐射产生某一特定效应的效率差异",
+                            "children": [
+                              {
+                                "id": "504f123fd08f45a1",
+                                "topic": "[1][7]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "167d0de67247c873",
+                        "topic": "辐射权重因子",
+                        "children": [
+                          {
+                            "id": "dd5f601924e286ee",
+                            "topic": "[1][7]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "7480090e705c0e29",
+                        "topic": "待积当量剂量",
+                        "children": [
+                          {
+                            "id": "406451daab26ea34",
+                            "topic": "[1][7]",
+                            "children": [
+                              {
+                                "id": "6e7e11513cd5b719",
+                                "topic": "智能体：内外照射剂量分器官快速计算（DoseAssessment）"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3bfae583ec3a753d",
+                    "topic": "有效剂量E：个体层面",
+                    "children": [
+                      {
+                        "id": "9380e9c4d12ffb52",
+                        "topic": "组织权重因子",
+                        "children": [
+                          {
+                            "id": "f02ac9985aa28a68",
+                            "topic": "[1][7]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "ba1c9d4e2da51475",
+                        "children": [
+                          {
+                            "id": "ba1c9df97941bfbc",
+                            "topic": "[1][7]"
+                          }
+                        ],
+                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.2-2.PNG\" width=\"240\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1216c89063bb971d",
+                    "topic": "集体有效剂量S：集体层面",
+                    "children": [
+                      {
+                        "id": "0f65ac948ac0a7ef",
+                        "children": [
+                          {
+                            "id": "ba1ca86f4e864354",
+                            "topic": "[1][7]"
+                          }
+                        ],
+                        "dangerouslySetInnerHTML": "<img src=\"https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3.1.2-3.PNG\" width=\"120\" alt=\"\" style=\"max-width:100%;height:auto;display:block;\">"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "32e62a5de903de1d",
+                "topic": "B-3.1.3实用量：外照射剂量监测与评价",
+                "children": [
+                  {
+                    "id": "b9a33684bddf46a5",
+                    "topic": "周围剂量当量",
+                    "children": [
+                      {
+                        "id": "1d80480969485e11",
+                        "topic": "[1]"
+                      }
+                    ],
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3-3.PNG",
+                      "width": 102,
+                      "height": 52
+                    }
+                  },
+                  {
+                    "id": "4e45da861d027776",
+                    "topic": "定向剂量当量",
+                    "children": [
+                      {
+                        "id": "cbe4604da30bcb7f",
+                        "topic": "[1]"
+                      }
+                    ],
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3-4.PNG",
+                      "width": 120,
+                      "height": 48
+                    }
+                  },
+                  {
+                    "id": "78d80b6f8949d891",
+                    "topic": "个人剂量当量",
+                    "children": [
+                      {
+                        "id": "9a17fcdea68ba8d4",
+                        "topic": "[1]"
+                      }
+                    ],
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3-5.PNG",
+                      "width": 94,
+                      "height": 44
+                    }
+                  },
+                  {
+                    "id": "d12094a16f68c8da",
+                    "topic": "剂量当量",
+                    "children": [
+                      {
+                        "id": "c2b82209f868b4a5",
+                        "topic": "品质因子Q",
+                        "children": [
+                          {
+                            "id": "7492be4e86bbb380",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ],
+                    "image": {
+                      "url": "https://d329ms1y997xa5.cloudfront.net/accounts/202634/images/3-6.PNG",
+                      "width": 200,
+                      "height": 38
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "f3a11f45059e2f69",
+                "topic": "B-3.1.4氡专用量：内照射中氡子体照射",
+                "children": [
+                  {
+                    "id": "3ecc3b096b24ab64",
+                    "topic": "[1]"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "2e8e047452a02f38",
+            "topic": "B-3.2剂量计算",
+            "children": [
+              {
+                "id": "c59a8228192c9f0f",
+                "topic": "B-3.2.1外照射剂量计算",
+                "children": [
+                  {
+                    "id": "5b4a996c4f8b97e7",
+                    "topic": "基本方法",
+                    "children": [
+                      {
+                        "id": "dca988e7ec3aa01c",
+                        "topic": "解析法",
+                        "children": [
+                          {
+                            "id": "d1152761ad761d45",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "a1361f048e56db97",
+                        "topic": "经验公式法",
+                        "children": [
+                          {
+                            "id": "b5a32c228f502e68",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "624349951ef163ab",
+                        "topic": "蒙特卡洛法",
+                        "children": [
+                          {
+                            "id": "ae0dd825bc838192",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "82dd1ae70350ed50",
+                    "topic": "带电粒子的剂量计算",
+                    "children": [
+                      {
+                        "id": "a38857c1ce421a75",
+                        "topic": "电子（β射线）",
+                        "children": [
+                          {
+                            "id": "fa0c5e0d932755e0",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "70e9d6e120080d57",
+                        "topic": "重带电粒子",
+                        "children": [
+                          {
+                            "id": "594c3af4908cdf24",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "020d9103838d99bd",
+                    "topic": "光子剂量计算",
+                    "children": [
+                      {
+                        "id": "187c0889b60ec517",
+                        "topic": "X射线机（X射线管）",
+                        "children": [
+                          {
+                            "id": "167691ee33d01203",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "0ce4685c56cfe702",
+                        "topic": "加速器",
+                        "children": [
+                          {
+                            "id": "71fa27f3cbf57d20",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "25fd8d384303804c",
+                        "topic": "γ辐射源",
+                        "children": [
+                          {
+                            "id": "d1896fc9c8452507",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "9c663fff1b9a19e8",
+                    "topic": "中子剂量计算",
+                    "children": [
+                      {
+                        "id": "e289d4fc76bad2dc",
+                        "topic": "[1]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "09552935ca51c667",
+                "topic": "B-3.2.2内照射剂量计算",
+                "children": [
+                  {
+                    "id": "0e8fe7d2c6bc3d9a",
+                    "topic": "基本方法",
+                    "children": [
+                      {
+                        "id": "78765f80f08e20f1",
+                        "topic": "生物动力学模型",
+                        "children": [
+                          {
+                            "id": "d148e10d55ad79d6",
+                            "topic": "呼吸道模型",
+                            "children": [
+                              {
+                                "id": "7e384766f40f31e1",
+                                "topic": "[1]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "c838ba8bb0b3e1c4",
+                            "topic": "消化道模型",
+                            "children": [
+                              {
+                                "id": "e5d6bb7a83b89299",
+                                "topic": "[1]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "0fbc015b22144084",
+                            "topic": "全身代谢模型",
+                            "children": [
+                              {
+                                "id": "475196364cd4b70e",
+                                "topic": "[1]"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "52d9ec5de54496e4",
+                    "topic": "实用方法",
+                    "children": [
+                      {
+                        "id": "3aef308084f52dfc",
+                        "topic": "[1]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "942487ab4cea1f0e",
+            "topic": "B-3.3剂量测量",
+            "children": [
+              {
+                "id": "33f87c6ceb897632",
+                "topic": "B-3.3.1X、γ射线测量",
+                "children": [
+                  {
+                    "id": "c5da89921e135ba5",
+                    "topic": "电离室",
+                    "children": [
+                      {
+                        "id": "060058610671c75f",
+                        "topic": "自由空气电离室",
+                        "children": [
+                          {
+                            "id": "8e37d28b58d75739",
+                            "topic": "[5]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "99d15363048a5fa8",
+                        "topic": "空腔电离室",
+                        "children": [
+                          {
+                            "id": "e938b789b64c00fb",
+                            "topic": "[5]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "aa72b9a864c7ec92",
+                    "topic": "其它探测器",
+                    "children": [
+                      {
+                        "id": "966782d4e5da77be",
+                        "topic": "G-M计数管",
+                        "children": [
+                          {
+                            "id": "4dc5505733aaad45",
+                            "topic": "[5]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "f34b49cdd0631f3f",
+                        "topic": "闪烁体探测器",
+                        "children": [
+                          {
+                            "id": "193f5f67ea3ca9c8",
+                            "topic": "[5]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "28084b40d1e5897e",
+                        "topic": "半导体探测器",
+                        "children": [
+                          {
+                            "id": "51de2fba0ec26aca",
+                            "topic": "[5]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "a13b337bf495f1d4",
+                        "topic": "热释光探测器",
+                        "children": [
+                          {
+                            "id": "a3d21fc274b0f8f0",
+                            "topic": "[5][9]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "9178553dfaf6a013",
+                        "topic": "光致发光探测器",
+                        "children": [
+                          {
+                            "id": "0d789386368f2fa6",
+                            "topic": "[9]"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "eb0a75dcff4cf1dd",
+                "topic": "B-3.3.2β剂量测量",
+                "children": [
+                  {
+                    "id": "215e39d4a65b8a55",
+                    "topic": "外推电离室",
+                    "children": [
+                      {
+                        "id": "2d11fede10bf7d1e",
+                        "topic": "[1]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "f2f581b7d5af9a8a",
+                    "topic": "空腔电离室",
+                    "children": [
+                      {
+                        "id": "c0fc3f229842d185",
+                        "topic": "[1]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "c6a399d1cf4a71eb",
+                "topic": "B-3.3.3中子剂量测量",
+                "children": [
+                  {
+                    "id": "d88ef982586382af",
+                    "topic": "空腔电离室：吸收剂量"
+                  },
+                  {
+                    "id": "1d273d47ae47f681",
+                    "topic": "正比计数器：剂量当量",
+                    "children": [
+                      {
+                        "id": "4a1d783ce6a97ad6",
+                        "topic": "[5]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1628b6db0a2e8a2c",
+                    "topic": "固体核径迹探测器",
+                    "children": [
+                      {
+                        "id": "bbfabaf4dd4b67a9",
+                        "topic": "[5][9]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "554de304fea2ed40",
+                "topic": "B-3.3.4重带电粒子测量",
+                "children": [
+                  {
+                    "id": "69f0dfba8f97d681",
+                    "topic": "固体核径迹探测器"
+                  }
+                ]
+              },
+              {
+                "id": "8bc21eb3d7288e98",
+                "topic": "B-3.3.5个人累积剂量测量",
+                "children": [
+                  {
+                    "id": "6fa60229ed179e00",
+                    "topic": "胶片衣襟剂量计",
+                    "children": [
+                      {
+                        "id": "94e74533a301248c",
+                        "topic": "[5]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "c92730a265266a0e",
+                    "topic": "固体剂量计",
+                    "children": [
+                      {
+                        "id": "da4f2fcf4f2ce503",
+                        "topic": "[5]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "18e5463107905bb9",
+                    "topic": "袖珍剂量计",
+                    "children": [
+                      {
+                        "id": "6180cb8bf7ad4f7a",
+                        "topic": "[5]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "0dab276f884cea69",
+                    "topic": "直读式真空室剂量计",
+                    "children": [
+                      {
+                        "id": "1f437002f0938a55",
+                        "topic": "[5]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "05a8cb92871b21e1",
+                    "topic": "电子个人剂量计",
+                    "children": [
+                      {
+                        "id": "31a2947275a26695",
+                        "topic": "[5]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 0
+      },
+      {
+        "id": "2e78c247d81dd642",
+        "topic": "B-4辐射防护实践",
+        "children": [
+          {
+            "id": "c2208c7ea994624e",
+            "topic": "B-4.1辐射防护基本原则",
+            "children": [
+              {
+                "id": "1b55ee175a7dc3ea",
+                "topic": "辐射防护的目的",
+                "children": [
+                  {
+                    "id": "19640a1fc5db5ed3",
+                    "topic": "防止有害的确定性效应，并限制随机性效应的发生率，使之达到被认为可以接受的水平。",
+                    "children": [
+                      {
+                        "id": "d0aafdb634ff0021",
+                        "topic": "[7]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "b447ef43cfcc59e2",
+                "topic": "辐射防护三原则",
+                "children": [
+                  {
+                    "id": "c32e2bd47324b835",
+                    "topic": "辐射防护的正当化",
+                    "children": [
+                      {
+                        "id": "85a762c260296727",
+                        "topic": "[1][7]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "e9bdfef3bb92c6ed",
+                    "topic": "辐射防护的最优化",
+                    "children": [
+                      {
+                        "id": "d1b728b41946e71f",
+                        "topic": "[1][7]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "1dcfa27f50c57774",
+                    "topic": "剂量限值",
+                    "children": [
+                      {
+                        "id": "8246c54cf3996380",
+                        "topic": "[1][7]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "0af6b4d05cee1e8c",
+            "topic": "B-4.2辐射防护（主要分屏蔽计算、防护策略两块）",
+            "children": [
+              {
+                "id": "ff9d9a7097c8b56a",
+                "topic": "B-4.2.1外照射防护",
+                "children": [
+                  {
+                    "id": "b1cc3241034cad11",
+                    "topic": "基本方法与原则",
+                    "children": [
+                      {
+                        "id": "5f3197d3b310b969",
+                        "topic": "基本原则",
+                        "children": [
+                          {
+                            "id": "e3ce7c6092928d07",
+                            "topic": "尽量减少或避免射线从外部对人体的照射，使之所受照射不超过国家规定的剂量限值。",
+                            "children": [
+                              {
+                                "id": "eb999439fecc8a84",
+                                "topic": "[1]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "be76750c267d3603",
+                        "topic": "三要素",
+                        "children": [
+                          {
+                            "id": "ffd4a3eb21b49531",
+                            "topic": "时间、距离、屏蔽",
+                            "children": [
+                              {
+                                "id": "f1fded768be9482a",
+                                "topic": "[1]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "5c402953171eb366",
+                        "topic": "屏蔽材料的选择原则",
+                        "children": [
+                          {
+                            "id": "ac633b365da2d188",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "c3d1016f5a834772",
+                        "topic": "屏蔽厚度的确定方法",
+                        "children": [
+                          {
+                            "id": "88740ac24a1c75b6",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5ca495faeabcc749",
+                    "topic": "带电粒子的防护",
+                    "children": [
+                      {
+                        "id": "22006de833a18f7f",
+                        "topic": "β射线的屏蔽计算",
+                        "children": [
+                          {
+                            "id": "6a6ab9bc4c3a313d",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "a935380c3b4963a1",
+                        "topic": "β射线的剂量计算",
+                        "children": [
+                          {
+                            "id": "8a524f0a7d1d3469",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "42a63fc76e0cabfb",
+                    "topic": "光子的防护",
+                    "children": [
+                      {
+                        "id": "e224ee74c9ac7cc6",
+                        "topic": "X、γ射线在物质中的衰减规律",
+                        "children": [
+                          {
+                            "id": "fb58df8e5039d31a",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "bc42671fb25c8d49",
+                        "topic": "X、γ射线的屏蔽计算",
+                        "children": [
+                          {
+                            "id": "382cb527d7060d72",
+                            "topic": "透射公式",
+                            "children": [
+                              {
+                                "id": "e6f2b5671634c11e",
+                                "topic": "[1]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "990b2e7206913f9a",
+                            "topic": "散射公式",
+                            "children": [
+                              {
+                                "id": "903cde4cb8fa5177",
+                                "topic": "[1]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "3a60128f093169d4",
+                            "topic": "具体场景下的屏蔽考虑",
+                            "children": [
+                              {
+                                "id": "d2ebe5c305a322b4",
+                                "topic": "天空散射",
+                                "children": [
+                                  {
+                                    "id": "6f035a6924f1dadd",
+                                    "topic": "[1]"
+                                  }
+                                ]
+                              },
+                              {
+                                "id": "0b072a4807bf5efb",
+                                "topic": "特殊情形（天花板散射、临近高层建筑等）",
+                                "children": [
+                                  {
+                                    "id": "014945137e3f5c66",
+                                    "topic": "[1]"
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "39630c9bb19cd328",
+                        "topic": "X、γ射线的剂量计算",
+                        "children": [
+                          {
+                            "id": "0b7040f11c343595",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "2b93a42acdec495d",
+                    "topic": "中子的防护",
+                    "children": [
+                      {
+                        "id": "b61508a5ba371adb",
+                        "topic": "中子屏蔽计算",
+                        "children": [
+                          {
+                            "id": "d108b615bd8649e2",
+                            "topic": "[1]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "69753a37fc5e25bd",
+                        "topic": "中子剂量计算",
+                        "children": [
+                          {
+                            "id": "5fe091a5b6bb527c",
+                            "topic": "[1]"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "3beeda5727b0b11a",
+                "topic": "B-4.2.2内照射防护",
+                "children": [
+                  {
+                    "id": "7a18046f70b43724",
+                    "topic": "防止进入人体",
+                    "children": [
+                      {
+                        "id": "fba4207328609349",
+                        "topic": "[1]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "bb7032271234fc03",
+                    "topic": "污染分区",
+                    "children": [
+                      {
+                        "id": "b9b232647a8e526d",
+                        "topic": "[1]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "a9fd62182cd93d5e",
+            "topic": "B-4.3辐射监测",
+            "children": [
+              {
+                "id": "fde901fa965f7607",
+                "topic": "B-4.3.1现场测量",
+                "children": [
+                  {
+                    "id": "ee16240ac768941a",
+                    "topic": "环境贯穿电离辐射测量",
+                    "children": [
+                      {
+                        "id": "0febf111efe9fde0",
+                        "topic": "γ射线：空气吸收剂量率",
+                        "children": [
+                          {
+                            "id": "368c55ad8951fc28",
+                            "topic": "[9]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "54c1159164bb311f",
+                        "topic": "环境γ辐射：自动连续监测",
+                        "children": [
+                          {
+                            "id": "b488dd1f873f76ba",
+                            "topic": "[9]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "227da63ea9a3b1d0",
+                        "topic": "γ射线外照射：累积剂量测量",
+                        "children": [
+                          {
+                            "id": "66bb0df5f19675ed",
+                            "topic": "[9]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "d41be9d5a12d9908",
+                    "topic": "表面污染：单位面积污染源活度",
+                    "children": [
+                      {
+                        "id": "50eed7ad048a8329",
+                        "topic": "按场所分：室内、室外及物体表面",
+                        "children": [
+                          {
+                            "id": "0a7065af99b27c74",
+                            "topic": "[9]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "67118044e1e44e68",
+                        "topic": "按污染源分：α污染测量、β污染测量",
+                        "children": [
+                          {
+                            "id": "40a08ac789603023",
+                            "topic": "[9]"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "3c88ab982135f1b7",
+                "topic": "B-4.3.2样品测量（实验室测量）",
+                "children": [
+                  {
+                    "id": "6ac040b58288e016",
+                    "topic": "总放射性测量",
+                    "children": [
+                      {
+                        "id": "79dac1548efcfb6a",
+                        "topic": "影响活度测量的因素",
+                        "children": [
+                          {
+                            "id": "afa1896261a3b4dd",
+                            "topic": "[10]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "7a43c93fed30cfb5",
+                        "topic": "总α放射性测量",
+                        "children": [
+                          {
+                            "id": "2c19e1d65348e600",
+                            "topic": "薄层样法",
+                            "children": [
+                              {
+                                "id": "28615df29858b152",
+                                "topic": "[10]"
+                              }
+                            ]
+                          },
+                          {
+                            "id": "c8e1082d39073351",
+                            "topic": "饱和厚度法",
+                            "children": [
+                              {
+                                "id": "8bc8c34ec4338659",
+                                "topic": "[10]"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "id": "20c4925f727e688d",
+                        "topic": "总β放射性测量",
+                        "children": [
+                          {
+                            "id": "898104e6c358ce84",
+                            "topic": "[10]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "866da2f2f722cde3",
+                    "topic": "核素分析",
+                    "children": [
+                      {
+                        "id": "cd4fc0ffaa7f8834",
+                        "topic": "[10]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "eb83dafbd12c2332",
+                "topic": "B-4.3.3氡浓度测量",
+                "children": [
+                  {
+                    "id": "a6a7c9bda7d909d3",
+                    "topic": "α径迹蚀刻法",
+                    "children": [
+                      {
+                        "id": "dfbb88ab4b28d120",
+                        "topic": "[9]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "63e74e7410e74a54",
+                    "topic": "活性炭盒测氡法",
+                    "children": [
+                      {
+                        "id": "76d89ae2fb058c06",
+                        "topic": "[9]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "7d00d6b065608495",
+                    "topic": "静电收集氡子体测量法",
+                    "children": [
+                      {
+                        "id": "f7c3232732827c3d",
+                        "topic": "[9]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "71c9073c7508f079",
+                    "topic": "脉冲电离室法",
+                    "children": [
+                      {
+                        "id": "ba0ebe56ca9188c4",
+                        "topic": "[9]"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "bb6cd61df6192259",
+                "topic": "B-4.3.4数据处理与报告",
+                "children": [
+                  {
+                    "id": "05ba688a62a09bce",
+                    "topic": "准确度与精确度",
+                    "children": [
+                      {
+                        "id": "45b58058678a8c39",
+                        "topic": "偏差与方差",
+                        "children": [
+                          {
+                            "id": "fc326bf5e5c7bec5",
+                            "topic": "[6]"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "301156168f5d5775",
+                        "topic": "不确定度",
+                        "children": [
+                          {
+                            "id": "d2dafd59fe1044c0",
+                            "topic": "[6]"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "id": "5a91eb79849764f0",
+                    "topic": "判断限",
+                    "children": [
+                      {
+                        "id": "9a805a9d9f9acd35",
+                        "topic": "[6]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "3454253753a51631",
+                    "topic": "吸收限",
+                    "children": [
+                      {
+                        "id": "cadcab4ded04fc4a",
+                        "topic": "[6]"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "b3c2292ccccb707b",
+                    "topic": "最小可探测活度",
+                    "children": [
+                      {
+                        "id": "e390518e319035fe",
+                        "topic": "[6]"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "50afb12937b00959",
+            "topic": "B-4.4辐射安全管理",
+            "children": [
+              {
+                "id": "0fba2cb9feb7abf9",
+                "topic": "B-4.4.1辐射安全管理的依据和机构",
+                "children": [
+                  {
+                    "id": "c56839621518b90b",
+                    "topic": "依据",
+                    "children": [
+                      {
+                        "id": "0fd4f2484722cd82",
+                        "topic": "法律",
+                        "children": [
+                          {
+                            "id": "cb07a0d95f88258f",
+                            "topic": "《中华人民共和国核安全法》"
+                          },
+                          {
+                            "id": "115a5a1410745acc",
+                            "topic": "《中华人民共和国职业病防治法》"
+                          },
+                          {
+                            "id": "4f847d2f20517377",
+                            "topic": "《中华人民共和国环境影响评价法》"
+                          },
+                          {
+                            "id": "05e7c6d0d4273784",
+                            "topic": "《中华人民共和国放射性污染防治法》"
+                          },
+                          {
+                            "id": "df7d7a20d2ed15e3",
+                            "topic": "其它"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "fdd15f3f25e39f2e",
+                        "topic": "行政法规",
+                        "children": [
+                          {
+                            "id": "796fdda7a441d421",
+                            "topic": "《放射性同位素与射线装置安全和防护条例》"
+                          },
+                          {
+                            "id": "8da3596c957b647a",
+                            "topic": "《放射性物品运输安全管理条例》"
+                          },
+                          {
+                            "id": "bfb06491c9d91d21",
+                            "topic": "《放射性废物安全管理条例》"
+                          },
+                          {
+                            "id": "1b422edc381ad054",
+                            "topic": "《放射性药品管理办法》"
+                          },
+                          {
+                            "id": "5297aaaf9c363a0f",
+                            "topic": "其它"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "260759e8fb1709c2",
+                        "topic": "规范性文件",
+                        "children": [
+                          {
+                            "id": "3accb405b3c8b618",
+                            "topic": "《国务院办公厅关于印发国家职业病防治规划（2016—2020年）的通知》"
+                          },
+                          {
+                            "id": "aa97c43b8c6e5fbf",
+                            "topic": "《中国疾病预防控制中心关于印发职业病报告技术规范的通知》"
+                          },
+                          {
+                            "id": "47dd5e5d2b25f186",
+                            "topic": "《国家核应急预案》"
+                          },
+                          {
+                            "id": "763ec8d569a7523f",
+                            "topic": "其它"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "8383c2861cecae6f",
+                        "topic": "部门规章",
+                        "children": [
+                          {
+                            "id": "ab6a8b6e6041fac5",
+                            "topic": "《放射工作人员职业健康管理办法》"
+                          },
+                          {
+                            "id": "c0e9a453b2a8ace8",
+                            "topic": "《放射事故管理规定》"
+                          },
+                          {
+                            "id": "52c9712cec3cf99d",
+                            "topic": "《放射诊疗管理规定》"
+                          },
+                          {
+                            "id": "a51cc1a93b9bdb5e",
+                            "topic": "其它"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "2740235be0f173e5",
+                        "topic": "标准",
+                        "children": [
+                          {
+                            "id": "6e98615595df1f9b",
+                            "topic": "国家标准"
+                          },
+                          {
+                            "id": "d9780022ae0ccdaa",
+                            "topic": "行业标准"
+                          },
+                          {
+                            "id": "5649369659c66c90",
+                            "topic": "地方标准"
+                          },
+                          {
+                            "id": "2ff62dba4a652a4f",
+                            "topic": "团体标准"
+                          },
+                          {
+                            "id": "d26d3f73beaf19b4",
+                            "topic": "企业标准"
+                          },
+                          {
+                            "id": "a10a78f993789310",
+                            "topic": "其它"
+                          }
+                        ]
+                      },
+                      {
+                        "id": "b7b971fea0050f8a",
+                        "topic": "其它"
+                      }
+                    ]
+                  },
+                  {
+                    "id": "300cddbc806da90c",
+                    "topic": "机构",
+                    "children": [
+                      {
+                        "id": "c1cff2c56657aafd",
+                        "topic": "生态环境部"
+                      },
+                      {
+                        "id": "44d9abbbab8e1f12",
+                        "topic": "国防科工局"
+                      },
+                      {
+                        "id": "05f223efb2de3047",
+                        "topic": "国家核安全局"
+                      },
+                      {
+                        "id": "ce8e88efe5b840b5",
+                        "topic": "卫生部"
+                      },
+                      {
+                        "id": "7cf47605c7fa11d3",
+                        "topic": "公安部"
+                      },
+                      {
+                        "id": "07430e7e64080d30",
+                        "topic": "其它"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": "67874d35c03517d1",
+                "topic": "B-4.4.2辐射安全管理主要内容和要求",
+                "children": [
+                  {
+                    "id": "b48e322f0d509e51",
+                    "topic": "管理机制"
+                  },
+                  {
+                    "id": "e7a1ee25436dcf44",
+                    "topic": "分类管理",
+                    "children": [
+                      {
+                        "id": "c46711c802493ffb",
+                        "topic": "放射源分类"
+                      },
+                      {
+                        "id": "85d911a7f6fab148",
+                        "topic": "射线装置分类"
+                      },
+                      {
+                        "id": "bab054efffff7b17",
+                        "topic": "非密封源工作场所的分级"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "direction": 1
+      }
+    ]
+  },
+  "arrows": [],
+  "summaries": [],
+  "direction": 1,
+  "theme": {
+    "name": "Latte",
+    "type": "light",
+    "palette": [
+      "#dd7878",
+      "#ea76cb",
+      "#8839ef",
+      "#e64553",
+      "#fe640b",
+      "#df8e1d",
+      "#40a02b",
+      "#209fb5",
+      "#1e66f5",
+      "#7287fd"
+    ],
+    "cssVar": {
+      "--gap": "30px",
+      "--main-color": "#444446",
+      "--main-bgcolor": "#ffffff",
+      "--color": "#777777",
+      "--bgcolor": "#f6f6f6",
+      "--panel-color": "#444446",
+      "--panel-bgcolor": "#ffffff",
+      "--panel-border-color": "#eaeaea"
+    }
+  }
+}
